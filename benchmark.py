@@ -227,7 +227,7 @@ def main():
     print(f"📊 Evaluating {len(urls)} URLs with {args.parallel} parallel workers\n")
     
     # Initialize storage
-    storage = EvaluationStorage(date=args.date)
+    storage = EvaluationStorage(custom_date=args.date)
     print(f"💾 Storage: {storage.get_storage_path()}/\n")
     
     scorer = OpenAIXScorer(timeout=args.timeout)
