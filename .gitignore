@@ -52,6 +52,20 @@ htmlcov/
 
 # Internal documents
 .internal/
+REORGANIZATION_SUMMARY.md
 
 # Project management
 .sisyphus/
+
+# Build artifacts
+src/*.egg-info/
+__pycache__/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Output directory
+output/

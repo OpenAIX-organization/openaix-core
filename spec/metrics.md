@@ -1,37 +1,37 @@
 # OpenAIX Metrics Specification
-## 四大评分维度算法详解
+## Detailed Algorithms for Four Scoring Dimensions
 
-本文档面向开发者和架构师，详细说明 OpenAIX 评分的计算方法和实现细节。
+This document is for developers and architects, detailing the calculation methods and implementation details of OpenAIX scoring.
 
 ---
 
-## 1. SNR（信噪比）算法
+## 1. SNR (Signal-to-Noise Ratio) Algorithm
 
-### 1.1 算法流程
+### 1.1 Algorithm Flow
 
 ```python
 def calculate_snr(html: str) -> SNRResult:
-    # Step 1: 计算原始 Token 数
+    # Step 1: Calculate raw token count
     raw_tokens = count_tokens(html)
     
-    # Step 2: 清理 HTML
+    # Step 2: Clean HTML
     soup = BeautifulSoup(html, 'lxml')
     for tag in ['script', 'style', 'noscript', 'iframe', 
                 'canvas', 'svg', 'template', 'embed', 'object']:
         for element in soup.find_all(tag):
             element.decompose()
     
-    # Step 3: 转换为 Markdown
+    # Step 3: Convert to Markdown
     clean_html = str(soup)
     markdown = markdownify(clean_html)
     
-    # Step 4: 计算清理后 Token 数
+    # Step 4: Calculate clean token count
     clean_tokens = count_tokens(markdown)
     
-    # Step 5: 计算 SNR
+    # Step 5: Calculate SNR
     snr = (clean_tokens / raw_tokens) * 100 if raw_tokens > 0 else 0
     
-    # Step 6: 转换为分数
+    # Step 6: Convert to score
     score = snr_to_score(snr)
     
     return SNRResult(
@@ -42,9 +42,9 @@ def calculate_snr(html: str) -> SNRResult:
     )
 ```
 
-### 1.2 Token 计数器
+### 1.2 Token Counter
 
-使用 `tiktoken` 库，采用 `cl100k_base` 编码：
+Using `tiktoken` library with `cl100k_base` encoding:
 
 ```python
 import tiktoken
@@ -54,39 +54,39 @@ tokens = encoder.encode(text)
 count = len(tokens)
 ```
 
-### 1.3 分数映射函数
+### 1.3 Score Mapping Function
 
 ```python
 def snr_to_score(snr: float) -> int:
     if snr >= 40:
         return 100
     elif snr >= 20:
-        # 线性插值: 20% -> 70, 40% -> 100
+        # Linear interpolation: 20% -> 70, 40% -> 100
         return int(70 + (snr - 20) * 1.5)
     elif snr >= 10:
-        # 线性插值: 10% -> 50, 20% -> 70
+        # Linear interpolation: 10% -> 50, 20% -> 70
         return int(50 + (snr - 10) * 2)
     elif snr >= 5:
-        # 线性插值: 5% -> 30, 10% -> 50
+        # Linear interpolation: 5% -> 30, 10% -> 50
         return int(30 + (snr - 5) * 4)
     else:
-        # < 5%: 线性递减
+        # < 5%: Linear decrease
         return max(0, int(snr * 6))
 ```
 
-### 1.4 实际案例
+### 1.4 Real-World Examples
 
-| 网站 | Raw Tokens | Clean Tokens | SNR | Score |
-|------|-----------|--------------|-----|-------|
+| Website | Raw Tokens | Clean Tokens | SNR | Score |
+|---------|-----------|--------------|-----|-------|
 | docs.python.org | 15,000 | 13,800 | 92% | 100 |
 | github.com | 45,000 | 5,400 | 12% | 54 |
 | stripe.com/docs | 38,000 | 1,140 | 3% | 18 |
 
 ---
 
-## 2. Semantic Structure 算法
+## 2. Semantic Structure Algorithm
 
-### 2.1 总分构成
+### 2.1 Total Score Composition
 
 ```
 Semantic Score = 
@@ -97,7 +97,7 @@ Semantic Score =
     metadata(15)
 ```
 
-### 2.2 语义标签检测
+### 2.2 Semantic Tag Detection
 
 ```python
 SEMANTIC_TAGS = ['article', 'nav', 'header', 'main', 'section', 'aside', 'footer']
@@ -106,7 +106,7 @@ used_tags = [tag for tag in SEMANTIC_TAGS if soup.find(tag)]
 score = (len(used_tags) / 7) * 25
 ```
 
-### 2.3 JSON-LD 质量评估
+### 2.3 JSON-LD Quality Assessment
 
 ```python
 def analyze_json_ld(scripts: List[Tag]) -> int:
@@ -119,19 +119,19 @@ def analyze_json_ld(scripts: List[Tag]) -> int:
             data = json.loads(script.string)
             score = 0
             
-            # 基础分
+            # Base points
             if '@context' in data:
                 score += 5
             if '@type' in data:
                 score += 5
             
-            # 内容质量
+            # Content quality
             important_fields = ['name', 'description', 'url', 
                               'author', 'datePublished', 'image']
             if any(f in data for f in important_fields):
                 score += 5
             
-            # 丰富度
+            # Richness
             if len(script.string) > 500:
                 score += 10
             
@@ -142,29 +142,29 @@ def analyze_json_ld(scripts: List[Tag]) -> int:
     return min(25, max_score)
 ```
 
-### 2.4 Hidden Gem 检测
+### 2.4 Hidden Gem Detection
 
 ```python
 def is_hidden_gem(soup: BeautifulSoup, snr: float, json_ld_score: int) -> bool:
-    # 计算文本密度
+    # Calculate text density
     text = soup.get_text(strip=True)
     html_str = str(soup)
     text_density = len(text) / len(html_str) if html_str else 1
     
-    # 检测条件
+    # Detection criteria
     return (
-        text_density < 0.15 and           # 视觉丰富
-        json_ld_score >= 15 and            # 结构化数据好
-        bool(soup.find('h1')) and          # 基本内容质量
-        snr < 40                           # 低 SNR（视觉复杂）
+        text_density < 0.15 and           # Visually rich
+        json_ld_score >= 15 and           # Good structured data
+        bool(soup.find('h1')) and         # Basic content quality
+        snr < 40                          # Low SNR (visual complexity)
     )
 ```
 
 ---
 
-## 3. Token Economy 算法
+## 3. Token Economy Algorithm
 
-### 3.1 简单的阶梯评分
+### 3.1 Simple Tiered Scoring
 
 ```python
 def calculate_token_economy(clean_tokens: int) -> TokenResult:
@@ -187,26 +187,26 @@ def calculate_token_economy(clean_tokens: int) -> TokenResult:
     )
 ```
 
-### 3.2 为什么不用线性评分？
+### 3.2 Why Not Linear Scoring?
 
-我们测试了线性评分，但发现：
+We tested linear scoring but found issues:
 
-**线性评分的问题**：
-- 2000 tokens (优秀) vs 2100 tokens (良好) 只差 1.5 分
-- 但用户感知不到差异，造成"不公平"
+**Problem with Linear Scoring**:
+- 2000 tokens (excellent) vs 2100 tokens (good) differs by only 1.5 points
+- Users don't perceive this difference, causing "unfairness"
 
-**阶梯评分的优势**：
-- 清晰的等级边界
-- 符合工程实践（类似 HTTP 状态码）
-- 便于制定优化目标（"我要达到 Medium 级别"）
+**Advantage of Tiered Scoring**:
+- Clear grade boundaries
+- Matches engineering practice (like HTTP status codes)
+- Easy to set optimization goals ("I want to reach Medium level")
 
 ---
 
-## 4. Permissions 算法
+## 4. Permissions Algorithm
 
-### 4.1 Robots.txt 解析
+### 4.1 Robots.txt Parsing
 
-使用标准库 `urllib.robotparser`：
+Using standard library `urllib.robotparser`:
 
 ```python
 from urllib.robotparser import RobotFileParser
@@ -218,7 +218,7 @@ def check_robots_txt(url: str, user_agent: str) -> bool:
     return rp.can_fetch(user_agent, url)
 ```
 
-### 4.2 检查的 Agent 列表
+### 4.2 Agents Checked
 
 ```python
 AI_AGENTS = [
@@ -232,7 +232,7 @@ AI_AGENTS = [
 ]
 ```
 
-### 4.3 llms.txt 检测
+### 4.3 llms.txt Detection
 
 ```python
 def check_llms_txt(base_url: str) -> bool:
@@ -248,36 +248,36 @@ def check_llms_txt(base_url: str) -> bool:
 
 ---
 
-## 5. 权重设计原理
+## 5. Weight Design Principles
 
-### 5.1 为什么是 30/30/20/20？
+### 5.1 Why 30/30/20/20?
 
-| 维度 | 权重 | 理由 |
-|------|------|------|
-| SNR | 30% | 直接影响 AI 阅读成本，最关键 |
-| Semantic | 30% | 影响 AI 理解准确度，同样关键 |
-| Token Economy | 20% | 与 SNR 相关，但侧重成本而非质量 |
-| Permissions | 20% | 基础设施，但权重不宜过高 |
+| Dimension | Weight | Rationale |
+|-----------|--------|-----------|
+| SNR | 30% | Directly affects AI reading cost, most critical |
+| Semantic | 30% | Affects AI understanding accuracy, equally critical |
+| Token Economy | 20% | Related to SNR, but focuses on cost not quality |
+| Permissions | 20% | Infrastructure, but shouldn't dominate |
 
-### 5.2 为什么不加入 Graceful Degradation？
+### 5.2 Why Not Include Graceful Degradation?
 
-我们尝试过检测"无 JS 时的内容可用性"，但发现：
+We tried detecting "content availability without JS" but found:
 
-**问题**：
-- 现代框架（Next.js、Nuxt）的 SSR 会返回 HTML
-- 但 HTML 里可能只是占位符 + hydration 数据
-- 检测"内容质量" vs "有无内容" 很困难
+**Problem**:
+- Modern frameworks (Next.js, Nuxt) SSR returns HTML
+- But HTML may just be placeholders + hydration data
+- Detecting "content quality" vs "has content" is difficult
 
-**当前方案**：
-用 SNR 间接反映。如果 SSR 返回的是有意义的 HTML，SNR 通常 > 20%。
+**Current Solution**:
+Use SNR to indirectly reflect. If SSR returns meaningful HTML, SNR is typically > 20%.
 
 ---
 
-## 6. 性能优化
+## 6. Performance Optimization
 
-### 6.1 并行处理
+### 6.1 Parallel Processing
 
-四个维度可以并行计算：
+Four dimensions can be calculated in parallel:
 
 ```python
 with ThreadPoolExecutor(max_workers=4) as executor:
@@ -290,27 +290,27 @@ with ThreadPoolExecutor(max_workers=4) as executor:
     results = {k: f.result() for k, f in futures.items()}
 ```
 
-### 6.2 缓存策略
+### 6.2 Caching Strategy
 
-建议缓存：
-- robots.txt (TTL: 1小时)
-- llms.txt (TTL: 24小时)
-- 页面内容 (TTL: 根据网站更新频率)
+Recommended caching:
+- robots.txt (TTL: 1 hour)
+- llms.txt (TTL: 24 hours)
+- Page content (TTL: Based on website update frequency)
 
 ---
 
-## 7. 扩展维度（未来）
+## 7. Extension Dimensions (Future)
 
-### 7.1 候选维度
+### 7.1 Candidate Dimensions
 
-- **Accessibility (a11y)**: 无障碍性通常也利于 AI
-- **i18n**: 多语言支持质量
-- **API Availability**: 是否有开放的 API 供 AI 使用
-- **Freshness**: 内容更新频率
+- **Accessibility (a11y)**: Accessibility usually benefits AI too
+- **i18n**: Multi-language support quality
+- **API Availability**: Whether open API exists for AI use
+- **Freshness**: Content update frequency
 
-### 7.2 权重调整机制
+### 7.2 Dynamic Weight Adjustment
 
-未来可能根据网站类型动态调整权重：
+Future may dynamically adjust weights based on site type:
 
 ```python
 WEIGHTS = {
@@ -322,9 +322,9 @@ WEIGHTS = {
 
 ---
 
-## 8. 测试验证
+## 8. Testing and Validation
 
-### 8.1 单元测试
+### 8.1 Unit Testing
 
 ```python
 def test_snr_high():
@@ -334,38 +334,38 @@ def test_snr_high():
     assert result.snr_percent > 30
 ```
 
-### 8.2 集成测试
+### 8.2 Integration Testing
 
-测试真实网站，验证评分合理性：
-- docs.python.org: 应该得 A 级
-- medium.com: 应该得 C 级
-- github.com: 应该得 B 级
+Test real websites to validate scoring reasonableness:
+- docs.python.org: Should be Grade A
+- medium.com: Should be Grade C
+- github.com: Should be Grade B
 
 ---
 
-## 9. 调试工具
+## 9. Debugging Tools
 
-### 9.1 详细输出模式
+### 9.1 Verbose Output Mode
 
 ```bash
 python -m openaix https://example.com --verbose
 ```
 
-输出各维度的详细得分和计算过程。
+Outputs detailed scores and calculation process for each dimension.
 
-### 9.2 基准测试
+### 9.2 Benchmark Testing
 
 ```bash
 python benchmark.py --urls-file test_urls.txt --output report.md
 ```
 
-生成对比报告，查看行业基准。
+Generate comparison reports to view industry benchmarks.
 
 ---
 
-## 参考实现
+## Reference Implementation
 
-完整的算法实现参见：
+Complete algorithm implementations see:
 - `src/openaix/dimensions/snr.py`
 - `src/openaix/dimensions/semantic.py`
 - `src/openaix/dimensions/token.py`

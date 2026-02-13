@@ -1,159 +1,159 @@
 # OpenAIX Manifesto
-## 为智能体网络重构互联网
+## Rebuilding the Internet for the Agentic Web
 
-> 当你看到一个网站时，你看到的是设计师的杰作。
-> 当 GPT-4 看到一个网站时，它看到的是一堆 Token 和噪音。
-
----
-
-## 一、互联网正在死去
-
-这不是危言耸听。
-
-2025年，全球网页平均加载大小已经超过 **4MB**。其中只有不到 **15%** 的内容是机器可读的语义信息。剩下的 85% 是什么？
-
-- CSS 动画库
-- JavaScript 追踪器  
-- 响应式图片的 12 个变体
-- React 虚拟 DOM 的层层包装
-- A/B 测试的代码片段
-- 广告 SDK
-
-**人类看到的互联网，和 AI 看到的互联网，已经是两个完全不同的世界。**
+> When you look at a website, you see a designer's masterpiece.
+> When GPT-4 looks at a website, it sees a pile of tokens and noise.
 
 ---
 
-## 二、Token 正在杀死 AI
+## I. The Internet is Dying
 
-让我们算一笔账。
+This is not hyperbole.
 
-GPT-4 读取一个普通电商页面的成本：**$0.03**（约 2000 Tokens）
+In 2025, the average webpage size has exceeded **4MB**. Less than **15%** of that is machine-readable semantic content. What makes up the remaining 85%?
 
-听起来不贵？但如果你是一个 AI 搜索引擎，每天要索引 **100万个页面**：
+- CSS animation libraries
+- JavaScript trackers
+- 12 variants of responsive images
+- Layers of React virtual DOM wrappers
+- A/B testing code snippets
+- Advertising SDKs
 
-**每日成本：$30,000**  
-**每月成本：$900,000**  
-**每年成本：$10,800,000**
-
-这就是为什么 AI 公司开始限制爬取频率。这也是为什么你的 AI 助手经常"读不懂"最新的网页。
-
-**内容没有被隐藏，只是被埋在了噪音之下。**
-
----
-
-## 三、信息孤岛危机
-
-今天的互联网有三个层次：
-
-### 人类层（Human Layer）
-- 精美的视觉设计
-- 流畅的交互动画  
-- 丰富的多媒体内容
-- **问题：AI 无法直接消费**
-
-### API 层（API Layer）
-- 结构化 JSON 数据
-- 清晰的端点定义
-- **问题：封闭、碎片化、需要授权**
-
-### 暗网层（Dark Layer）
-- 隐藏在 JS 渲染后的内容
-- 深埋在 HTML 注释里的数据
-- **问题：对 AI 完全不可见**
-
-AI 不应该只能在 API 层和暗网层之间二选一。
+**The internet humans see and the internet AI sees are now two completely different worlds.**
 
 ---
 
-## 四、双模互联网宣言
+## II. Tokens are Killing AI
 
-我们相信，下一代互联网必须同时服务两个用户：
+Let's do the math.
 
-1. **人类用户** - 需要视觉、交互、情感共鸣
-2. **智能体用户** - 需要语义、结构、机器可读
+The cost for GPT-4 to read an average e-commerce page: **$0.03** (about 2,000 tokens)
 
-这不是妥协，这是**增强**。
+That doesn't sound expensive. But if you're an AI search engine indexing **1 million pages per day**:
 
-### 什么是 AIX（AI Experience）？
+**Daily cost: $30,000**  
+**Monthly cost: $900,000**  
+**Annual cost: $10,800,000**
 
-就像 UX（用户体验）关注人类如何与产品互动，AIX 关注 AI 如何与产品互动。
+This is why AI companies are limiting crawl frequencies. This is why your AI assistant often "can't read" the latest web pages.
 
-好的 AIX 意味着：
-- ✅ AI 可以用更少 Token 理解页面
-- ✅ AI 不会误解你的内容结构
-- ✅ AI 可以自信地引用你的信息
-- ✅ 你的网站成为 AI 的知识来源，而不是噪音来源
+**The content isn't hidden—it's buried under noise.**
 
 ---
 
-## 五、OpenAIX 的使命
+## III. The Information Silo Crisis
 
-OpenAIX 是一个开源标准，定义了"AI 友好网站"应该是什么样的。
+Today's internet has three layers:
 
-### 我们的原则
+### The Human Layer
+- Beautiful visual design
+- Smooth interactive animations
+- Rich multimedia content
+- **Problem: AI cannot directly consume this**
 
-1. **开放标准** - 不属于任何公司，属于整个互联网
-2. **向后兼容** - 不破坏现有网站，只是增加 AI 层
-3. **渐进增强** - 从 0 分到 100 分，每一步都有价值
-4. **量化评估** - 用数据说话，不凭感觉
+### The API Layer
+- Structured JSON data
+- Clear endpoint definitions
+- **Problem: Closed, fragmented, requires authorization**
 
-### 三大支柱
+### The Dark Layer
+- Content hidden behind JavaScript rendering
+- Data buried in HTML comments
+- **Problem: Completely invisible to AI**
+
+AI shouldn't have to choose between the API layer and the dark layer.
+
+---
+
+## IV. The Dual-Mode Internet Manifesto
+
+We believe the next generation of the internet must serve two users simultaneously:
+
+1. **Human users**—who need visuals, interaction, emotional resonance
+2. **Agent users**—who need semantics, structure, machine readability
+
+This is not a compromise. This is **enhancement**.
+
+### What is AIX (AI Experience)?
+
+Just as UX (User Experience) focuses on how humans interact with products, AIX focuses on how AI interacts with products.
+
+Good AIX means:
+- ✅ AI can understand pages with fewer tokens
+- ✅ AI won't misunderstand your content structure
+- ✅ AI can confidently cite your information
+- ✅ Your website becomes a knowledge source for AI, not a noise source
+
+---
+
+## V. The OpenAIX Mission
+
+OpenAIX is an open standard defining what an "AI-friendly website" should be.
+
+### Our Principles
+
+1. **Open Standard**—Belongs to no company, belongs to the entire internet
+2. **Backward Compatible**—Doesn't break existing websites, just adds an AI layer
+3. **Progressive Enhancement**—From 0 to 100 points, every step has value
+4. **Quantitative Assessment**—Let data speak, not intuition
+
+### Three Pillars
 
 ```
-语义结构（Semantic）
+Semantic Structure
     ↓
-让 AI 理解"这是什么"
+Let AI understand "what this is"
 
-信噪比（SNR）
+Signal-to-Noise Ratio (SNR)
     ↓
-让 AI 高效获取信息
+Let AI access information efficiently
 
-权限管理（Permissions）
+Permission Management
     ↓
-让 AI 知道"我能做什么"
+Let AI know "what I can do"
 ```
 
 ---
 
-## 六、未来图景
+## VI. The Future Vision
 
-### 2025：标准确立
-- OpenAIX v1.0 发布
-- 主流网站开始优化 AIX 分数
-- AI 搜索引擎优先索引高 AIX 网站
+### 2025: Standard Establishment
+- OpenAIX v1.0 release
+- Mainstream websites begin optimizing AIX scores
+- AI search engines prioritize high-AIX websites
 
-### 2026：工具普及  
-- llms.txt 成为网站标配
-- 建站工具自动生成 AI 层
-- AIX 分数出现在 SEO 报告中
+### 2026: Tool Proliferation
+- llms.txt becomes standard for websites
+- Site builders automatically generate AI layers
+- AIX scores appear in SEO reports
 
-### 2027：网络效应
-- AI 优先的世界到来
-- 高 AIX 网站获得流量红利
-- 互联网重新开放
-
----
-
-## 七、现在加入
-
-OpenAIX 不是一场革命，是一次进化。
-
-你不需要重写整个网站。只需要：
-
-1. 测试你的 AIX 分数
-2. 添加一个 llms.txt 文件
-3. 优化 JSON-LD 结构化数据
-4. 减少不必要的 HTML 包装
-
-每一步，你都在让互联网变得更开放、更高效、更智能。
+### 2027: Network Effects
+- The AI-first world arrives
+- High-AIX websites gain traffic advantages
+- The internet becomes open again
 
 ---
 
-## 推荐阅读
+## VII. Join Now
 
-- [技术规范](spec/v1.0.md) - 给工程师的实现指南
-- [评分算法](spec/metrics.md) - 四大维度的具体定义
-- [优化指南](spec/implementation.md) - 如何提升你的网站
+OpenAIX is not a revolution—it's an evolution.
+
+You don't need to rewrite your entire website. Just:
+
+1. Test your AIX score
+2. Add an llms.txt file
+3. Optimize JSON-LD structured data
+4. Reduce unnecessary HTML wrappers
+
+Every step makes the internet more open, more efficient, more intelligent.
+
+---
+
+## Further Reading
+
+- [Technical Specification](spec/v1.0.md) - Implementation guide for engineers
+- [Scoring Algorithms](spec/metrics.md) - Detailed definitions of four scoring dimensions
+- [Optimization Guide](spec/implementation.md) - How to improve your website
 
 ---
 

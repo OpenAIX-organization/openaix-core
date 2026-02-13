@@ -1,20 +1,20 @@
-# OpenAIX 实施指南
-## 如何提升你的网站 AIX 分数
+# OpenAIX Implementation Guide
+## How to Improve Your Website AIX Score from 0 to 100
 
-本文档为开发者提供具体可执行的优化步骤，从 0 到 100 分，每一步都有明确指南。
+This document provides developers with concrete, actionable optimization steps, from 0 to 100 points, with clear guidelines for each step.
 
 ---
 
-## 快速开始（Quick Win）
+## Quick Start (Quick Wins)
 
-### Step 1: 测试当前分数（5分钟）
+### Step 1: Test Current Score (5 minutes)
 
 ```bash
 pip install openaix-scorer
 python -m openaix https://your-site.com --pretty
 ```
 
-你会看到类似这样的输出：
+You'll see output like this:
 ```json
 {
   "score": 45,
@@ -28,17 +28,17 @@ python -m openaix https://your-site.com --pretty
 }
 ```
 
-**找出得分最低的维度，那就是你的优化重点。**
+**Identify the lowest-scoring dimension—that's your optimization priority.**
 
 ---
 
-## 优化路线图
+## Optimization Roadmap
 
-### 阶段一：低垂果实（30分钟，预计 +25分）
+### Phase 1: Low-Hanging Fruit (30 minutes, estimated +25 points)
 
-#### 1.1 添加 llms.txt（+20分）
+#### 1.1 Add llms.txt (+20 points)
 
-创建 `/llms.txt` 文件：
+Create `/llms.txt` file:
 
 ```
 # llms.txt for example.com
@@ -61,11 +61,11 @@ This is [Your Site Name], a platform for [description in 1-2 sentences].
 For AI access questions: ai@example.com
 ```
 
-**部署**：上传到网站根目录，确保 `https://yoursite.com/llms.txt` 可访问。
+**Deployment**: Upload to website root, ensure `https://yoursite.com/llms.txt` is accessible.
 
-#### 1.2 添加基础 JSON-LD（+10分）
+#### 1.2 Add Basic JSON-LD (+10 points)
 
-在 `<head>` 中添加：
+Add to `<head>`:
 
 ```html
 <script type="application/ld+json">
@@ -79,15 +79,15 @@ For AI access questions: ai@example.com
 </script>
 ```
 
-**工具**：使用 [Schema Markup Generator](https://www.google.com/webmasters/markup-helper/) 辅助生成。
+**Tool**: Use [Schema Markup Generator](https://www.google.com/webmasters/markup-helper/) to assist generation.
 
 ---
 
-### 阶段二：语义化改进（2-4小时，预计 +20分）
+### Phase 2: Semantic Improvements (2-4 hours, estimated +20 points)
 
-#### 2.1 使用语义化 HTML 标签
+#### 2.1 Use Semantic HTML Tags
 
-**改造前**：
+**Before**:
 ```html
 <div class="header">...</div>
 <div class="nav">...</div>
@@ -95,7 +95,7 @@ For AI access questions: ai@example.com
 <div class="footer">...</div>
 ```
 
-**改造后**：
+**After**:
 ```html
 <header>...</header>
 <nav>...</nav>
@@ -103,17 +103,17 @@ For AI access questions: ai@example.com
 <footer>...</footer>
 ```
 
-**优先级**：main > header > nav > article > section > footer > aside
+**Priority**: main > header > nav > article > section > footer > aside
 
-#### 2.2 优化标题层级
+#### 2.2 Optimize Heading Hierarchy
 
-**检查清单**：
-- [ ] 每个页面有且只有一个 H1
-- [ ] H1 包含页面的核心关键词
-- [ ] 使用 H2-H6 构建清晰的层级
-- [ ] 不要跳过层级（比如 H1 直接到 H3）
+**Checklist**:
+- [ ] Each page has exactly one H1
+- [ ] H1 contains the page's core keywords
+- [ ] Use H2-H6 to build clear hierarchy
+- [ ] Don't skip levels (e.g., H1 directly to H3)
 
-**示例**：
+**Example**:
 ```html
 <article>
   <h1>Main Article Title</h1>
@@ -129,11 +129,11 @@ For AI access questions: ai@example.com
 </article>
 ```
 
-#### 2.3 完善 JSON-LD
+#### 2.3 Complete JSON-LD
 
-根据页面类型选择合适的 Schema：
+Select appropriate Schema based on page type:
 
-**博客文章**：
+**Blog Post**:
 ```json
 {
   "@context": "https://schema.org",
@@ -148,7 +148,7 @@ For AI access questions: ai@example.com
 }
 ```
 
-**产品页面**：
+**Product Page**:
 ```json
 {
   "@context": "https://schema.org", 
@@ -164,7 +164,7 @@ For AI access questions: ai@example.com
 }
 ```
 
-**组织/公司**：
+**Organization/Company**:
 ```json
 {
   "@context": "https://schema.org",
@@ -181,42 +181,42 @@ For AI access questions: ai@example.com
 
 ---
 
-### 阶段三：提升 SNR（1-2天，预计 +30分）
+### Phase 3: Improve SNR (1-2 days, estimated +30 points)
 
-#### 3.1 识别噪音源
+#### 3.1 Identify Noise Sources
 
-运行分析：
+Run analysis:
 ```bash
 python -m openaix https://your-site.com --verbose
 ```
 
-关注：
-- Raw Tokens vs Clean Tokens 的差距
-- 哪些元素贡献了 Token 但没有语义价值
+Focus on:
+- Gap between Raw Tokens vs Clean Tokens
+- Which elements contribute tokens without semantic value
 
-#### 3.2 常见噪音源及解决方案
+#### 3.2 Common Noise Sources and Solutions
 
-**A. 内联样式**
+**A. Inline Styles**
 
 ```html
-❌ 改造前：
+❌ Before:
 <p style="color: red; font-size: 16px; margin: 10px;">Text</p>
 
-✅ 改造后：
+✅ After:
 <p class="warning-text">Text</p>
 
-<!-- CSS 移到外部文件 -->
+<!-- CSS moved to external file -->
 ```
 
-**B. 未使用的 CSS/JS**
+**B. Unused CSS/JS**
 
-- 使用 [PurgeCSS](https://purgecss.com/) 移除未使用的 CSS
-- 使用 [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) 分析 JS 体积
+- Use [PurgeCSS](https://purgecss.com/) to remove unused CSS
+- Use [Webpack Bundle Analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) to analyze JS size
 
-**C. 过度包装**
+**C. Excessive Wrappers**
 
 ```html
-❌ 改造前（过度包装）：
+❌ Before (excessive wrapping):
 <div class="wrapper">
   <div class="container">
     <div class="content-wrapper">
@@ -227,7 +227,7 @@ python -m openaix https://your-site.com --verbose
   </div>
 </div>
 
-✅ 改造后：
+✅ After:
 <main>
   <article>
     <h1>Title</h1>
@@ -235,23 +235,23 @@ python -m openaix https://your-site.com --verbose
 </main>
 ```
 
-**D. 内联 SVG**
+**D. Inline SVG**
 
 ```html
-❌ 改造前：
+❌ Before:
 <svg width="24" height="24" viewBox="0 0 24 24"...>
   <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
 </svg>
 
-✅ 改造后：
+✅ After:
 <img src="/icons/check.svg" alt="Check" width="24" height="24">
 ```
 
-#### 3.3 服务器端渲染 (SSR)
+#### 3.3 Server-Side Rendering (SSR)
 
-如果你是 React/Vue/Angular 应用：
+If you're using React/Vue/Angular:
 
-**Next.js** - 使用 `getServerSideProps` 或 `getStaticProps`：
+**Next.js** - Use `getServerSideProps` or `getStaticProps`:
 ```javascript
 export async function getStaticProps() {
   return {
@@ -262,7 +262,7 @@ export async function getStaticProps() {
 }
 ```
 
-**Nuxt.js** - 使用 `asyncData`：
+**Nuxt.js** - Use `asyncData`:
 ```javascript
 export default {
   async asyncData({ $content }) {
@@ -272,7 +272,7 @@ export default {
 }
 ```
 
-**Nuxt 3 / Nuxt Bridge** - 使用 `useAsyncData`：
+**Nuxt 3 / Nuxt Bridge** - Use `useAsyncData`:
 ```javascript
 const { data } = await useAsyncData('article', () => 
   queryContent('/article').findOne()
@@ -281,18 +281,18 @@ const { data } = await useAsyncData('article', () =>
 
 ---
 
-### 阶段四：高级优化（持续迭代，预计 +15分）
+### Phase 4: Advanced Optimization (Continuous iteration, estimated +15 points)
 
-#### 4.1 图片优化
+#### 4.1 Image Optimization
 
-**所有图片必须加 alt 属性**：
+**All images must have alt attributes**:
 
 ```html
 ❌ <img src="photo.jpg">
 ✅ <img src="photo.jpg" alt="Sunset over mountains with orange sky">
 ```
 
-**使用语义化图片标签**：
+**Use semantic image tags**:
 ```html
 <figure>
   <img src="chart.png" alt="Revenue growth chart showing 50% increase">
@@ -300,9 +300,9 @@ const { data } = await useAsyncData('article', () =>
 </figure>
 ```
 
-#### 4.2 优化 robots.txt
+#### 4.2 Optimize robots.txt
 
-确保 AI Agent 可以访问：
+Ensure AI Agents can access:
 
 ```
 User-agent: GPTBot
@@ -319,131 +319,131 @@ Disallow: /admin/
 Allow: /
 ```
 
-**检查的 Agent**：
+**Agents to Check**:
 - GPTBot (OpenAI)
 - ClaudeBot (Anthropic)
 - PerplexityBot (Perplexity)
 - Google-Extended (Google)
 
-#### 4.3 响应时间优化
+#### 4.3 Response Time Optimization
 
-**目标**：首字节时间 (TTFB) < 1.5秒
+**Goal**: Time to First Byte (TTFB) < 1.5 seconds
 
-**方法**：
-- 使用 CDN
-- 启用 Gzip/Brotli 压缩
-- 数据库查询优化
-- 使用缓存
+**Methods**:
+- Use CDN
+- Enable Gzip/Brotli compression
+- Database query optimization
+- Use caching
 
 ---
 
-## 各类型网站优化重点
+## Optimization Focus by Website Type
 
-### 博客/内容网站
+### Blog/Content Sites
 
-**重点**：SNR + Semantic
+**Focus**: SNR + Semantic
 
-- 使用语义化 HTML5 标签
-- 添加 Article schema
-- 确保 H1 包含主标题，H2 包含章节
-- 图片必须有描述性 alt
+- Use semantic HTML5 tags
+- Add Article schema
+- Ensure H1 contains main title, H2 contains sections
+- Images must have descriptive alt
 
-**目标分数**：A 级 (70+)
+**Target Score**: Grade A (70+)
 
-### 电商网站
+### E-commerce Sites
 
-**重点**：JSON-LD + Permissions
+**Focus**: JSON-LD + Permissions
 
-- Product schema 必须包含价格、库存
-- Organization schema 展示公司信息
-- 确保产品图片有 alt
-- robots.txt 允许爬虫访问产品页
+- Product schema must include price, inventory
+- Organization schema showing company info
+- Ensure product images have alt
+- robots.txt allows crawlers to access product pages
 
-**目标分数**：B+ 级 (60+)
+**Target Score**: Grade B+ (60+)
 
-### SaaS/文档网站
+### SaaS/Documentation Sites
 
-**重点**：SNR + Token Economy
+**Focus**: SNR + Token Economy
 
-- 减少 JS 依赖，优先 SSR
-- 使用清晰的标题层级
-- 代码示例使用语义化标记
+- Reduce JS dependency, prioritize SSR
+- Use clear heading hierarchy
+- Code examples use semantic markup
 - SoftwareApplication schema
 
-**目标分数**：A 级 (70+)
+**Target Score**: Grade A (70+)
 
-### 营销/展示网站
+### Marketing/Showcase Sites
 
-**重点**：Semantic + Hidden Gem
+**Focus**: Semantic + Hidden Gem
 
-- 视觉丰富但要有 JSON-LD
-- 使用 WebSite 和 Organization schema
-- 关键信息不要只放在图片里
+- Visually rich but need JSON-LD
+- Use WebSite and Organization schema
+- Don't put key information only in images
 
-**目标分数**：B 级 (50+)
+**Target Score**: Grade B (50+)
 
 ---
 
-## 验证清单
+## Validation Checklist
 
-### 基础检查（必须）
-- [ ] llms.txt 可访问
-- [ ] JSON-LD 通过 [Google Rich Results Test](https://search.google.com/test/rich-results)
-- [ ] 语义化标签使用正确
-- [ ] H1 存在且唯一
-- [ ] 所有图片有 alt
+### Basic Checks (Required)
+- [ ] llms.txt is accessible
+- [ ] JSON-LD passes [Google Rich Results Test](https://search.google.com/test/rich-results)
+- [ ] Semantic tags used correctly
+- [ ] H1 exists and is unique
+- [ ] All images have alt
 
-### 进阶检查（推荐）
+### Advanced Checks (Recommended)
 - [ ] SNR > 20%
-- [ ] AIX 分数 >= 70
-- [ ] robots.txt 允许主要 AI Agent
-- [ ] 响应时间 < 2秒
+- [ ] AIX Score >= 70
+- [ ] robots.txt allows major AI Agents
+- [ ] Response time < 2 seconds
 
 ---
 
-## 工具推荐
+## Recommended Tools
 
-| 工具 | 用途 | 链接 |
-|------|------|------|
-| OpenAIX Scorer | 测试 AIX 分数 | 本仓库 |
-| Schema Markup Validator | 验证 JSON-LD | validator.schema.org |
-| Google Rich Results Test | 测试结构化数据 | search.google.com/test/rich-results |
-| PageSpeed Insights | 性能测试 | pagespeed.web.dev |
-| W3C Validator | HTML 验证 | validator.w3.org |
-
----
-
-## 常见问题
-
-### Q: 我的网站是 SPA，怎么办？
-
-A: 考虑以下方案：
-1. **预渲染**：使用 Prerender.io 或 Rendertron
-2. **SSR**：迁移到 Next.js/Nuxt.js
-3. **混合方案**：关键页面 SSR，其余 CSR
-
-### Q: 需要为每个页面都写 JSON-LD 吗？
-
-A: 至少每个页面类型：
-- 首页：WebSite + Organization
-- 文章页：BlogPosting
-- 产品页：Product
-- 关于页：AboutPage
-
-### Q: 优化会影响现有 SEO 吗？
-
-A: 不会，反而有益：
-- 语义化 HTML 提升 SEO
-- JSON-LD 让搜索引擎理解更好
-- 快速加载提升排名
+| Tool | Purpose | Link |
+|------|---------|------|
+| OpenAIX Scorer | Test AIX score | This repository |
+| Schema Markup Validator | Validate JSON-LD | validator.schema.org |
+| Google Rich Results Test | Test structured data | search.google.com/test/rich-results |
+| PageSpeed Insights | Performance test | pagespeed.web.dev |
+| W3C Validator | HTML validation | validator.w3.org |
 
 ---
 
-## 下一步
+## Frequently Asked Questions
 
-1. 运行测试，确定当前分数
-2. 选择最快的优化项开始
-3. 每周检查一次分数变化
-4. 关注 [GitHub Issues](https://github.com/OpenAIX-orgnization/openaix-core/issues) 获取最新最佳实践
+### Q: My website is an SPA, what should I do?
 
-**让互联网对 AI 更友好，从今天开始！**
+A: Consider these options:
+1. **Prerender**: Use Prerender.io or Rendertron
+2. **SSR**: Migrate to Next.js/Nuxt.js
+3. **Hybrid**: SSR for key pages, CSR for others
+
+### Q: Do I need JSON-LD for every page?
+
+A: At least for each page type:
+- Homepage: WebSite + Organization
+- Article pages: BlogPosting
+- Product pages: Product
+- About page: AboutPage
+
+### Q: Will optimization affect existing SEO?
+
+A: No, it will actually help:
+- Semantic HTML improves SEO
+- JSON-LD helps search engines understand better
+- Fast loading improves rankings
+
+---
+
+## Next Steps
+
+1. Run test to determine current score
+2. Choose the fastest optimization item to start
+3. Check score changes weekly
+4. Follow [GitHub Issues](https://github.com/OpenAIX-organization/openaix-core/issues) for latest best practices
+
+**Make the internet more AI-friendly, starting today!**
