@@ -69,3 +69,6 @@ __pycache__/
 
 # Output directory
 output/
+
+# Evaluation data (auto-generated)
+data/

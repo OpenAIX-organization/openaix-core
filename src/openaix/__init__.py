@@ -13,5 +13,6 @@ __license__ = "MIT"
 from .scorer import OpenAIXScorer
 from .site_type import SiteTypeDetector
 from .weights import get_weights, get_site_description
+from .storage import EvaluationStorage, save_evaluation
 
-__all__ = ["OpenAIXScorer", "SiteTypeDetector", "get_weights", "get_site_description"]
+__all__ = ["OpenAIXScorer", "SiteTypeDetector", "get_weights", "get_site_description", "EvaluationStorage", "save_evaluation"]
