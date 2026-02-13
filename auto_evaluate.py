@@ -299,6 +299,11 @@ def git_push():
             f"📊 Auto eval: {count} sites - {timestamp}"
         ], check=False, capture_output=True)
         
+        # 先拉取再推送，避免冲突
+        pull_result = subprocess.run(["git", "pull", "--rebase"], capture_output=True, text=True, timeout=30)
+        if pull_result.returncode != 0:
+            print(f"   ⚠️ 拉取失败，尝试强制推送: {pull_result.stderr[:100]}")
+        
         push_result = subprocess.run(["git", "push"], capture_output=True, text=True)
         if push_result.returncode == 0:
             print("✅ 已推送到 GitHub")
@@ -309,12 +314,35 @@ def git_push():
         print(f"❌ Git 错误: {e}")
 
 
+def git_pull():
+    """拉取最新代码"""
+    try:
+        os.chdir(PROJECT_DIR)
+        print("🔄 拉取最新代码...")
+        result = subprocess.run(
+            ["git", "pull", "--rebase"],
+            capture_output=True,
+            text=True,
+            timeout=30
+        )
+        if result.returncode == 0:
+            print("   ✅ 代码已更新")
+        else:
+            print(f"   ⚠️ 拉取可能有冲突: {result.stderr[:100]}")
+    except Exception as e:
+        print(f"   ⚠️ 拉取失败: {e}")
+
+
 def main():
     print("="*60)
     print("🤖 OpenAIX 自动评测系统 v2.0")
     print("="*60)
     print(f"⏰ {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"📦 每小时评测: {BATCH_SIZE} 个网站")
+    print()
+    
+    # 先拉取最新代码
+    git_pull()
     print()
     
     # 已评测网站
