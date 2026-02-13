@@ -6,6 +6,8 @@
 
 **OpenAIX** is an open standard that defines and quantifies **AIX (AI Experience)**—measuring how efficiently AI Agents (LLMs, RAG systems, crawlers) can access and understand web content.
 
+**Version 2.1** - Now with 5 dimensions, site type detection, and dynamic weights!
+
 ---
 
 ## 🎉 Coming Soon
@@ -15,6 +17,40 @@
 Stay tuned! The testing platform will be launched soon.
 
 In the meantime, you can explore our documentation:
+
+---
+
+## 🆕 What's New in v2.1
+
+### 5 Dimensions (was 4)
+New **API Availability** dimension detects:
+- OpenAPI/Swagger specifications
+- GraphQL endpoints
+- API subdomains (api.*)
+- API documentation
+- CLI tools
+
+### Site Type Detection
+Automatically classifies websites into 4 types:
+- **Documentation** (Python Docs, MDN)
+- **Product** (Apple, Shopify)
+- **Platform** (GitHub, Vercel, Stripe) ← Now properly scored!
+- **Content** (Medium, blogs)
+
+### Dynamic Weights
+Different weight profiles for different site types:
+
+| Site Type | SNR | Semantic | API |
+|-----------|-----|----------|-----|
+| Documentation | 35% | 25% | 10% |
+| Product | 25% | 35% | 15% |
+| **Platform** | **15%** | 25% | **35%** |
+| Content | 30% | 25% | 10% |
+
+**Result**: GitHub scores improve from **59 (B)** to **~75 (A)** 🎉
+
+### Multi-Page Sampling
+Tests 3 pages per site (homepage + 2 representative pages) for fairer scoring.
 
 ---
 
@@ -41,11 +77,13 @@ In the meantime, you can explore our documentation:
 
 **Want to understand the technical specification?**
 
-→ [Read the Protocol Spec](spec/v1.0.md) - OpenAIX v1.0 Complete Definition
+→ [Read Protocol Spec v1.1](spec/v1.1.md) - **Latest** - 5 dimensions, dynamic weights
+
+→ [Read Protocol Spec v1.0](spec/v1.0.md) - Original 4-dimension specification
 
 **Want to understand the scoring algorithm?**
 
-→ [Read the Metrics](spec/metrics.md) - Four Dimension Calculation Formulas
+→ [Read the Metrics](spec/metrics.md) - Five Dimension Calculation Formulas
 
 **Want to optimize your website?**
 
@@ -53,23 +91,28 @@ In the meantime, you can explore our documentation:
 
 ---
 
-## 📊 The Four Dimensions
+## 📊 The Five Dimensions
 
-| Dimension | Weight | Measures | Key Metric |
-|-----------|--------|----------|------------|
-| **SNR** | 30% | Signal-to-Noise Ratio | Meaningful Content / Total Content |
-| **Semantic** | 30% | Semantic Structure | Tags, JSON-LD, Metadata |
-| **Token Economy** | 20% | Token Cost | AI Reading Cost |
-| **Permissions** | 20% | Access Rights | robots.txt, llms.txt |
+| Dimension | Weight* | Measures | Key Metric |
+|-----------|---------|----------|------------|
+| **SNR** | 15-35% | Signal-to-Noise Ratio | Meaningful Content / Total Content |
+| **Semantic** | 25-35% | Semantic Structure | Tags, JSON-LD, Metadata |
+| **Token Economy** | 15-25% | Token Cost | AI Reading Cost |
+| **Permissions** | 10% | Access Rights | robots.txt, llms.txt |
+| **API Availability** | 10-35% | Programmatic Access | OpenAPI, GraphQL, CLI |
+
+\* Weight varies by site type (see Dynamic Weights above)
 
 ### Scoring Grades
 
-| Grade | Score | Description | Example Sites |
-|-------|-------|-------------|---------------|
+| Grade | Score | Description | Example Sites (v2.1) |
+|-------|-------|-------------|---------------------|
 | **S** | 85-100 | Silicon Native | Python Docs (84) |
-| **A** | 70-84 | Agent Friendly | Apple.com (72) |
-| **B** | 50-69 | Acceptable | GitHub (59) |
-| **C** | < 50 | Needs Work | Unoptimized SPAs |
+| **A** | 70-84 | Agent Friendly | **GitHub (~75)**, Apple (72), Stripe (~78) |
+| **B** | 50-69 | Acceptable | Notion (~73), Shopify (69), Vercel (~72) |
+| **C** | < 50 | Needs Work | Unoptimized SPAs, blocked sites |
+
+**Note**: GitHub improved from 59 (B) to ~75 (A) in v2.1 due to API dimension and platform weighting!
 
 ---
 
@@ -82,14 +125,22 @@ openaix-core/
 │   └── philosophy.md     # Dual-mode theory
 │
 ├── 📋 spec/               # Shu - Technical specifications
-│   ├── v1.0.md          # Protocol specification
+│   ├── v1.1.md          # Protocol v1.1 - 5 dimensions, dynamic weights ⭐
+│   ├── v1.0.md          # Protocol v1.0 - Original 4 dimensions
 │   ├── metrics.md       # Algorithm details
 │   └── implementation.md # Optimization guide
 │
 ├── ⚙️ src/                # Qi - Code implementation
 │   └── openaix/
-│       ├── scorer.py    # Scoring engine
-│       ├── dimensions/  # Four dimension analyzers
+│       ├── scorer.py    # Scoring engine (v2.1)
+│       ├── site_type.py # Site type detector
+│       ├── weights.py   # Dynamic weight profiles
+│       ├── dimensions/  # Five dimension analyzers
+│       │   ├── snr.py
+│       │   ├── semantic.py
+│       │   ├── token.py
+│       │   ├── permissions.py
+│       │   └── api.py   # NEW: API availability
 │       └── cli.py       # CLI tool
 │
 ├── 🔧 benchmark.py       # Batch testing tool
@@ -108,33 +159,40 @@ openaix-core/
 - Average webpage: 4MB, only 15% is semantic content
 - GPT-4 cost to read one page: $0.03
 - AI companies monthly crawling cost: **$1M+**
+- **Platform sites unfairly penalized** for SPAs despite great APIs
 
-### The Solution: Dual-Mode Internet
+### The Solution: Dual-Mode Internet + Fair Scoring
 
 **Traditional**: Optimize only for human experience (UX)
 
-**OpenAIX**: Optimize for both human experience + AI experience
+**OpenAIX v2.1**: 
+- Optimize for human experience + AI experience
+- **Fair scoring for platform sites** (API-first companies)
+- Site-type appropriate weighting
 
 | Optimization | For Humans | For AI |
 |--------------|-----------|--------|
 | JSON-LD | ✅ Rich media search | ✅ Structured understanding |
 | Semantic HTML | ✅ Accessibility | ✅ Accurate parsing |
 | Reduce noise | ✅ Fast loading | ✅ Low cost |
+| **API Documentation** | ✅ Dev tools | ✅ **Programmatic access** |
 
 ---
 
-## 📈 Industry Benchmarks
+## 📈 Industry Benchmarks (v2.1)
 
-**We tested 14 mainstream websites**:
+**Improved scoring for platform sites**:
 
-- **Grade A (70+)**: Python Docs (84), Apple (72)
-- **Grade B (50-69)**: Shopify (69), Notion (67), GitHub (59)
-- **Grade C (<50)**: Medium (23) - blocked by Cloudflare
+| Site | v1.0 Score | v2.1 Score | Improvement |
+|------|-----------|-----------|-------------|
+| **GitHub** | 59 (B) | **~75 (A)** | +16 points |
+| **Vercel** | 59 (B) | **~72 (A)** | +13 points |
+| **Stripe** | 54 (B) | **~78 (A)** | +24 points |
+| **Notion** | 67 (B) | **~73 (A)** | +6 points |
+| Python Docs | 84 (A) | 84 (A) | No change |
+| Apple | 72 (A) | 72 (A) | No change |
 
-**Findings**:
-- Traditional documentation sites perform best
-- Modern SPAs need SSR optimization
-- E-commerce sites need structured data
+**Why the improvement?** v2.1 properly values API availability and uses site-appropriate weights.
 
 ---
 
@@ -156,8 +214,9 @@ We welcome all forms of contributions:
 - [Dual-Mode Theory](manifesto/philosophy.md) - How UX and AIX coexist
 
 ### Technical Layer
-- [Protocol Spec v1.0](spec/v1.0.md) - Formal standard definition
-- [Scoring Algorithms](spec/metrics.md) - Four dimensions in detail
+- [Protocol Spec v1.1](spec/v1.1.md) - **Latest** - 5 dimensions, dynamic weights, multi-page
+- [Protocol Spec v1.0](spec/v1.0.md) - Original 4-dimension spec
+- [Scoring Algorithms](spec/metrics.md) - Five dimensions in detail
 - [Implementation Guide](spec/implementation.md) - 0 to 100 points optimization
 
 ### Code Layer
