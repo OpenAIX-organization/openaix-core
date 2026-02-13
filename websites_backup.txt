@@ -1,0 +1,60 @@
+# OpenAIX 评测网站列表
+# 每行一个 URL，# 开头的是注释
+
+# AI 公司
+https://openai.com
+https://anthropic.com
+https://claude.ai
+https://gemini.google.com
+https://platform.openai.com
+
+# 开发者平台
+https://github.com
+https://stackoverflow.com
+https://docs.python.org
+https://developer.mozilla.org
+https://docs.npmjs.com
+
+# 技术框架
+https://nextjs.org
+https://react.dev
+https://vuejs.org
+https://angular.io
+https://tailwindcss.com
+https://docs.astro.build
+
+# 云服务
+https://vercel.com
+https://netlify.com
+https://cloudflare.com
+https://aws.amazon.com
+
+# 产品工具
+https://notion.so
+https://figma.com
+https://linear.app
+https://stripe.com
+https://twilio.com
+
+# 电商平台
+https://shopify.com
+https://amazon.com
+https://ebay.com
+
+# 内容平台
+https://medium.com
+https://substack.com
+https://dev.to
+
+# 大公司
+https://apple.com
+https://google.com
+https://microsoft.com
+https://meta.com
+https://twitter.com
+
+# 开源项目
+https://nodejs.org
+https://redis.io
+https://postgresql.org
+https://mongodb.com
