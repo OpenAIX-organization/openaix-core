@@ -4,6 +4,8 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Status](https://img.shields.io/badge/status-alpha-orange)]()
 
+**English** | [中文](README_CN.md)
+
 **OpenAIX** is an open standard that defines and quantifies **AIX (AI Experience)**—measuring how efficiently AI Agents (LLMs, RAG systems, crawlers) can access and understand web content.
 
 **Version 2.1** - Now with 5 dimensions, site type detection, and dynamic weights!
