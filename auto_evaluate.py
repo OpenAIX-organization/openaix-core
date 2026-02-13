@@ -12,8 +12,18 @@ import sys
 import json
 import random
 import subprocess
+import requests
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlparse
+
+try:
+    from bs4 import BeautifulSoup
+    BS4_AVAILABLE = True
+except ImportError:
+    BS4_AVAILABLE = False
+    print("⚠️ 警告: beautifulsoup4 未安装，网站内容分析功能将受限")
+    print("   安装命令: pip install beautifulsoup4 lxml")
 
 # 配置
 PROJECT_DIR = Path("/home/wesley/.openclaw/workspace/openaix-core")
@@ -135,8 +145,196 @@ def select_websites(batch_size=BATCH_SIZE):
     return selected
 
 
+def analyze_website_content(url, timeout=10):
+    """
+    分析网站内容，提取关键信息用于数据库建设
+    
+    返回:
+        dict: 包含网站定位、主要内容、AI可用信息等
+    """
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        }
+        
+        response = requests.get(url, headers=headers, timeout=timeout, allow_redirects=True)
+        response.raise_for_status()
+        
+        content = response.text
+        parsed_url = urlparse(response.url)
+        
+        analysis = {
+            'url': url,
+            'final_url': response.url,
+            'domain': parsed_url.netloc,
+            'title': '',
+            'meta_description': '',
+            'main_content_preview': '',
+            'content_type': 'unknown',
+            'ai_use_cases': [],
+            'key_topics': [],
+            'language': '',
+            'has_structured_data': False,
+            'extracted_at': datetime.now().isoformat()
+        }
+        
+        if BS4_AVAILABLE and content:
+            soup = BeautifulSoup(content, 'lxml')
+            
+            # 提取标题
+            title_tag = soup.find('title')
+            if title_tag:
+                analysis['title'] = title_tag.get_text(strip=True)[:200]
+            
+            # 提取 meta description
+            meta_desc = soup.find('meta', attrs={'name': 'description'}) or \
+                       soup.find('meta', attrs={'property': 'og:description'})
+            if meta_desc:
+                analysis['meta_description'] = meta_desc.get('content', '')[:500]
+            
+            # 提取语言
+            html_tag = soup.find('html')
+            if html_tag and html_tag.get('lang'):
+                analysis['language'] = html_tag.get('lang')
+            
+            # 提取主要内容预览
+            content_selectors = ['main', 'article', '[role="main"]', '.content', 
+                               '.main-content', '#content', '#main-content', 'body']
+            
+            main_text = ''
+            for selector in content_selectors:
+                element = soup.select_one(selector)
+                if element:
+                    text = element.get_text(separator=' ', strip=True)
+                    text = ' '.join(text.split())
+                    main_text = text[:1500]  # 取前1500字符
+                    break
+            
+            analysis['main_content_preview'] = main_text
+            
+            # 提取关键主题（从 headings 中）
+            headings = soup.find_all(['h1', 'h2', 'h3'])
+            keywords = []
+            for h in headings[:10]:
+                text = h.get_text(strip=True)
+                if text and len(text) > 3:
+                    keywords.append(text[:100])
+            analysis['key_topics'] = keywords[:5]
+            
+            # 检测结构化数据
+            structured_selectors = ['script[type="application/ld+json"]', '[itemscope]']
+            for selector in structured_selectors:
+                if soup.select(selector):
+                    analysis['has_structured_data'] = True
+                    break
+            
+            # 检测内容类型
+            domain_lower = analysis['domain'].lower()
+            desc_lower = analysis['meta_description'].lower()
+            
+            if any(x in domain_lower for x in ['docs.', 'documentation', 'wiki', 'help']) or \
+               'documentation' in desc_lower:
+                analysis['content_type'] = 'documentation'
+            elif any(x in domain_lower for x in ['news', 'blog', 'medium', 'substack']):
+                analysis['content_type'] = 'news/blog'
+            elif any(x in domain_lower for x in ['shop', 'store', 'amazon', 'ebay']) or \
+                 soup.find('meta', attrs={'property': 'product:price'}):
+                analysis['content_type'] = 'e-commerce'
+            elif any(x in domain_lower for x in ['edu', 'university', 'college', 'mit.', 'harvard.']):
+                analysis['content_type'] = 'education'
+            elif any(x in domain_lower for x in ['github', 'gitlab', 'bitbucket']):
+                analysis['content_type'] = 'code_repository'
+            elif any(x in domain_lower for x in ['youtube', 'vimeo', 'tiktok', 'bilibili']):
+                analysis['content_type'] = 'video_platform'
+            elif soup.find('form'):
+                analysis['content_type'] = 'web_application'
+            else:
+                analysis['content_type'] = 'general_website'
+            
+            # AI 使用场景建议
+            ai_use_cases_map = {
+                'documentation': [
+                    '技术文档问答与检索',
+                    'API 使用示例生成',
+                    '错误排查与解决方案推荐',
+                    '代码片段提取与解释',
+                    '版本变更说明分析'
+                ],
+                'news/blog': [
+                    '内容摘要与关键信息提取',
+                    '行业趋势分析与预测',
+                    '多语言翻译与本地化',
+                    '情感分析与观点识别',
+                    '热点话题追踪'
+                ],
+                'e-commerce': [
+                    '产品价格监控与比较',
+                    '商品描述智能优化',
+                    '用户评价情感分析',
+                    '库存状态监控',
+                    '竞品分析报告生成'
+                ],
+                'education': [
+                    '学习资料智能整理',
+                    '课程推荐与规划',
+                    '研究论文摘要与分析',
+                    '知识点提取与知识图谱构建',
+                    '学术资源检索'
+                ],
+                'code_repository': [
+                    '代码审查与质量分析',
+                    '项目文档自动生成',
+                    '依赖关系与安全分析',
+                    '功能模块识别与提取',
+                    '贡献者行为分析'
+                ],
+                'video_platform': [
+                    '视频内容转录与摘要',
+                    '字幕生成与翻译',
+                    '内容分类与标签提取',
+                    '创作者分析',
+                    '趋势视频识别'
+                ],
+                'web_application': [
+                    '功能可用性监控',
+                    '用户流程分析',
+                    '表单数据处理',
+                    '自动化测试支持',
+                    '性能监控'
+                ],
+                'general_website': [
+                    '网站内容摘要',
+                    '信息分类与标签',
+                    '关键词与主题提取',
+                    '更新监控与变更检测',
+                    'SEO 内容分析'
+                ]
+            }
+            
+            analysis['ai_use_cases'] = ai_use_cases_map.get(analysis['content_type'], 
+                                                             ai_use_cases_map['general_website'])
+            
+            # 生成网站定位描述
+            if analysis['title'] and analysis['meta_description']:
+                analysis['site_positioning'] = f"{analysis['title']} - {analysis['meta_description'][:200]}"
+            elif analysis['title']:
+                analysis['site_positioning'] = analysis['title']
+            else:
+                analysis['site_positioning'] = f"{analysis['domain']} ({analysis['content_type']})"
+        
+        return analysis
+        
+    except requests.exceptions.Timeout:
+        return {'error': '连接超时', 'url': url, 'content_type': 'timeout', 'extracted_at': datetime.now().isoformat()}
+    except requests.exceptions.RequestException as e:
+        return {'error': str(e), 'url': url, 'content_type': 'error', 'extracted_at': datetime.now().isoformat()}
+    except Exception as e:
+        return {'error': f'分析错误: {str(e)}', 'url': url, 'content_type': 'error', 'extracted_at': datetime.now().isoformat()}
+
+
 def evaluate_website(url, output_dir):
-    """评测单个网站"""
+    """评测单个网站（包含AIX评分和内容分析）"""
     timestamp = datetime.now().strftime('%H%M%S')
     domain = url.replace('https://', '').replace('http://', '').replace('/', '_')
     output_file = output_dir / f"{timestamp}_{domain}.json"
@@ -144,6 +342,7 @@ def evaluate_website(url, output_dir):
     
     print(f"\n🔍 评测: {url}")
     
+    # Step 1: 运行 AIX 评分
     cmd = [
         str(VENV_PYTHON),
         str(BENCHMARK_SCRIPT),
@@ -153,6 +352,7 @@ def evaluate_website(url, output_dir):
         "--timeout", "15"
     ]
     
+    aix_result = None
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
         
@@ -161,27 +361,39 @@ def evaluate_website(url, output_dir):
             if os.path.exists(json_file):
                 with open(json_file, 'r') as f:
                     data = json.load(f)
-                
-                evaluation = {
-                    "url": url,
-                    "timestamp": datetime.now().isoformat(),
-                    "result": data[0] if data else None
-                }
-                
-                with open(output_file, 'w') as f:
-                    json.dump(evaluation, f, indent=2)
-                
-                if evaluation["result"] and evaluation["result"].get("success"):
-                    score = evaluation["result"]["result"]["score"]
-                    grade = evaluation["result"]["result"]["grade"]
-                    print(f"   ✅ {score}/100 ({grade})")
-                    return evaluation
-        
-        print(f"   ❌ 失败")
-        return None
-        
+                aix_result = data[0] if data else None
     except Exception as e:
-        print(f"   ❌ 错误: {e}")
+        print(f"   ⚠️ AIX评分错误: {e}")
+    
+    # Step 2: 分析网站内容
+    print(f"   📄 分析网站内容...")
+    content_analysis = analyze_website_content(url, timeout=8)
+    
+    # Step 3: 合并结果
+    evaluation = {
+        "url": url,
+        "timestamp": datetime.now().isoformat(),
+        "result": aix_result,
+        "content_analysis": content_analysis
+    }
+    
+    # 保存结果
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(evaluation, f, indent=2, ensure_ascii=False)
+    
+    # 输出结果摘要
+    if aix_result and aix_result.get("success"):
+        score = aix_result["result"]["score"]
+        grade = aix_result["result"]["grade"]
+        content_type = content_analysis.get('content_type', 'unknown')
+        print(f"   ✅ AIX: {score}/100 ({grade}) | 类型: {content_type}")
+        return evaluation
+    elif content_analysis and not content_analysis.get('error'):
+        content_type = content_analysis.get('content_type', 'unknown')
+        print(f"   ⚠️ AIX失败，内容分析完成 | 类型: {content_type}")
+        return evaluation
+    else:
+        print(f"   ❌ 失败")
         return None
 
 
