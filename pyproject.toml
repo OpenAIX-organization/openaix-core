@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "openaix-scorer"
-version = "2.0.0"
-description = "AI Experience (AIX) Evaluation System for websites"
+version = "2.1.0"
+description = "AI Experience (AIX) Evaluation System - 5 dimensions with API availability and dynamic weights"
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
