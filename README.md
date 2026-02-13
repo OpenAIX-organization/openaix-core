@@ -1,162 +1,240 @@
-# OpenAIX Scorer v2.0
+# OpenAIX
+## The Web was built for eyes. We are indexing it for minds.
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Status](https://img.shields.io/badge/status-alpha-orange)
-![AIX](https://img.shields.io/badge/AIX-Standard-black)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](pyproject.toml)
+[![Status](https://img.shields.io/badge/status-alpha-orange)]()
 
-> **"The Web was built for eyes. We are indexing it for minds."**
+**OpenAIX** 是一个开源标准，定义和量化网站的 **AIX（AI Experience）**——衡量 AI Agent（LLM、RAG系统、爬虫）访问和理解网页的效率。
 
-The **OpenAIX Scorer** evaluates websites based on their **AI Experience (AIX)** — measuring how effectively an AI Agent (LLM, RAG, Crawler) can retrieve and understand the content.
+---
 
-## 🧐 Why AIX?
-
-Modern web development optimizes for Human UX (Visuals, Animations, Interactivity). This often creates a hostile environment for AI Agents:
-- **High Noise**: HTML/CSS bloat wastes tokens ($$$).
-- **Hallucinations**: Ambiguous data structures confuse LLMs.
-- **Inaccessibility**: Content hidden behind client-side JS rendering.
-
-**OpenAIX bridges the gap.** We help developers build "Hybrid Interfaces" — beautiful for humans, structured for machines.
-
-## 📊 The 4 Core Dimensions
-
-1. **Signal-to-Noise Ratio (SNR)**: 30%
-   - Measures the density of semantic content vs. HTML boilerplate.
-
-2. **Semantic Structure**: 30%
-   - Checks for valid HTML5 semantic tags and JSON-LD metadata.
-
-3. **Token Economy**: 20%
-   - Calculates the cost for an LLM to "read" the page.
-
-4. **Agent Permissions**: 20%
-   - Verifies `robots.txt`, `llms.txt`, and API accessibility.
-
-## 🚀 Quick Start
-
-### Installation
+## 🚀 快速开始
 
 ```bash
-# Clone the repository
-git clone https://github.com/OpenAIX/openaix-scorer.git
-cd openaix-scorer
+# 安装
+pip install openaix-scorer
 
-# Install in development mode
-pip install -e .
+# 测试你的网站
+python -m openaix https://your-site.com
 
-# Or install with development dependencies
+# 生成详细报告
+python -m openaix https://your-site.com --format md --output report.md
+```
+
+---
+
+## 📖 你是哪类读者？
+
+### 👔 我是决策者 / 产品经理 / 投资人
+
+**想了解为什么 AIX 很重要？**
+
+→ [阅读白皮书](manifesto/index.md) - 《为智能体网络重构互联网》
+
+**想知道为什么 UX 和 AIX 必须共存？**
+
+→ [阅读哲学](manifesto/philosophy.md) - 双模互联网理论
+
+**关键洞察**：
+- 💰 AI 公司每年花费 **$1000万+** 在网页爬取上
+- 🔍 你的内容可能被埋在 HTML 噪音之下
+- 📈 高 AIX 网站将获得 AI 搜索的流量红利
+
+---
+
+### 👨‍💻 我是开发者 / 工程师 / CTO
+
+**想了解技术规范和实现？**
+
+→ [阅读协议规范](spec/v1.0.md) - OpenAIX v1.0 完整定义
+
+**想了解评分算法？**
+
+→ [阅读算法详解](spec/metrics.md) - 四大维度计算公式
+
+**想优化你的网站？**
+
+→ [阅读实施指南](spec/implementation.md) - 从 0 到 100 分的优化路线图
+
+**快速优化清单**：
+- [ ] 添加 `llms.txt` (+20分)
+- [ ] 添加 JSON-LD 结构化数据 (+15分)
+- [ ] 使用语义化 HTML 标签 (+10分)
+- [ ] 优化 HTML 噪音 (+30分)
+
+---
+
+## 📊 评分概览
+
+### 四大维度
+
+| 维度 | 权重 | 衡量什么 | 关键指标 |
+|------|------|----------|----------|
+| **SNR** | 30% | 信噪比 | 有效内容 / 总内容 |
+| **Semantic** | 30% | 语义结构 | 标签、JSON-LD、元数据 |
+| **Token Economy** | 20% | Token 成本 | AI 阅读成本 |
+| **Permissions** | 20% | 访问权限 | robots.txt, llms.txt |
+
+### 评分等级
+
+| 等级 | 分数 | 描述 | 典型网站 |
+|------|------|------|----------|
+| **S** | 85-100 | Silicon Native | Python Docs (84) |
+| **A** | 70-84 | Agent Friendly | Apple.com (72) |
+| **B** | 50-69 | Acceptable | GitHub (59) |
+| **C** | < 50 | Needs Work | SPA 未优化站点 |
+
+**查看详细基准数据**：[benchmark_report_v2.md](output/benchmark_report_v2.md)
+
+---
+
+## 🏗️ 项目结构
+
+```
+openaix-core/
+├── 📜 manifesto/          # 道 - 白皮书和理念
+│   ├── index.md          # 主宣言
+│   └── philosophy.md     # 双模理论
+│
+├── 📋 spec/               # 术 - 技术规范
+│   ├── v1.0.md          # 协议规范
+│   ├── metrics.md       # 算法详解
+│   └── implementation.md # 实施指南
+│
+├── ⚙️ src/                # 器 - 代码实现
+│   └── openaix/
+│       ├── scorer.py    # 评分引擎
+│       ├── dimensions/  # 四维度分析器
+│       └── cli.py       # 命令行工具
+│
+├── 🔧 benchmark.py       # 批量测试工具
+├── 🧪 tests/             # 测试套件
+└── 📄 examples/          # 示例代码
+```
+
+**设计理念**：道（Manifesto）/ 术（Spec）/ 器（Code）三位一体
+
+---
+
+## 💻 开发者指南
+
+### 安装
+
+```bash
+# 克隆仓库
+git clone https://github.com/OpenAIX-orgnization/openaix-core.git
+cd openaix-core
+
+# 安装（开发模式）
 pip install -e ".[dev]"
 ```
 
-### Usage
-
-#### Command Line
-
-```bash
-# Score a single URL
-python -m openaix https://stripe.com/docs
-
-# Pretty print JSON output
-python -m openaix https://example.com --pretty
-
-# Generate Markdown report
-python -m openaix https://example.com --format md --output report.md
-```
-
-#### Python API
+### 使用
 
 ```python
 from openaix import OpenAIXScorer
 
 scorer = OpenAIXScorer()
-result = scorer.score("https://stripe.com/docs")
+result = scorer.score("https://example.com")
 
-print(f"Score: {result['score']}/100")
+print(f"AIX Score: {result['score']}/100")
 print(f"Grade: {result['grade']}")
 print(f"SNR: {result['dimensions']['snr']['snr_percent']:.1f}%")
 ```
 
-#### Batch Evaluation
+### 批量测试
 
 ```bash
-# Evaluate multiple URLs
-python benchmark.py https://example.com https://test.com
+# 测试多个 URL
+python benchmark.py https://site1.com https://site2.com
 
-# Evaluate from file
-python benchmark.py --urls-file urls.txt --output output/report.md
+# 从文件读取
+python benchmark.py --urls-file urls.txt --output report.md
 ```
 
-### Sample Output
+---
 
-```json
-{
-  "target": "https://stripe.com/docs",
-  "score": 75,
-  "grade": "Class A (Agent Friendly)",
-  "class": "Agent Friendly",
-  "metrics": {
-    "snr": "35%",
-    "token_cost": "Low",
-    "json_ld": true,
-    "llms_txt": false
-  },
-  "dimensions": {
-    "snr": {"score": 85, "snr_percent": 35.2, ...},
-    "semantic": {"score": 72, "json_ld_present": true, ...},
-    "token_economy": {"score": 100, "cost_rating": "Low", ...},
-    "permissions": {"score": 90, "llms_txt_present": false, ...}
-  },
-  "suggestions": [
-    "✅ Agent Friendly. Good structure and low noise.",
-    "📋 Add JSON-LD structured data to improve AI comprehension."
-  ],
-  "timestamp": "2026-02-13T16:30:00Z",
-  "version": "2.0.0"
-}
-```
+## 🎯 为什么需要 OpenAIX？
 
-## 🏆 Scoring Classes
+### 问题：AI 无法高效读取现代网页
 
-| Class | Score Range | Description |
-| :--- | :--- | :--- |
-| **S** | 85-100 | **Silicon Native**. Excellent for AI agents. |
-| **A** | 70-84 | **Agent Friendly**. Good semantics, low noise. |
-| **B** | 50-69 | **Acceptable**. Works for agents but could improve. |
-| **C** | < 50 | **Needs Improvement**. Significant barriers for AI. |
+- 平均网页 4MB，只有 15% 是语义内容
+- GPT-4 读取一个页面的成本：$0.03
+- AI 公司每月爬取成本：**$100万+**
 
-## 📁 Project Structure
+### 解决方案：双模互联网
 
-```
-openaix-scorer/
-├── src/openaix/           # Main package
-│   ├── __init__.py
-│   ├── scorer.py          # Main scorer class
-│   ├── cli.py             # Command line interface
-│   ├── dimensions/        # Scoring dimensions
-│   │   ├── snr.py         # Signal-to-Noise Ratio
-│   │   ├── semantic.py    # Semantic Structure
-│   │   ├── token.py       # Token Economy
-│   │   └── permissions.py # Agent Permissions
-│   └── utils/             # Utility functions
-│       └── helpers.py
-├── tests/                 # Test suite
-├── docs/                  # Documentation
-├── examples/              # Usage examples
-├── output/                # Generated reports (gitignored)
-└── benchmark.py           # Batch evaluation tool
-```
+**传统**：只优化人类体验（UX）
 
-## 🤝 Contributing
+**OpenAIX**：同时优化人类体验 + AI 体验
 
-We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+| 优化项 | 对人类 | 对 AI |
+|--------|--------|-------|
+| JSON-LD | ✅ 富媒体搜索 | ✅ 结构化理解 |
+| 语义 HTML | ✅ 无障碍 | ✅ 准确解析 |
+| 减少噪音 | ✅ 加载快 | ✅ 低成本 |
 
-- Found a site that scores incorrectly? [Open an Issue](https://github.com/OpenAIX/openaix-scorer/issues).
-- Want to propose a new metric? Submit an RFC.
+---
 
-## 📝 Changelog
+## 📈 行业基准
 
-See [CHANGELOG.md](CHANGELOG.md) for version history.
+**我们测试了 14 个主流网站**：
 
-## 📜 License
+- **A 级 (70+)**：Python Docs (84), Apple (72)
+- **B 级 (50-69)**：Shopify (69), Notion (67), GitHub (59)
+- **C 级 (<50)**：Medium (23) - 被 Cloudflare 阻挡
+
+**发现**：
+- 传统文档站点表现最好
+- 现代 SPA 需要 SSR 优化
+- 电商站点结构化数据至关重要
+
+---
+
+## 🤝 贡献
+
+我们欢迎所有形式的贡献：
+
+- 🐛 [提交 Bug](https://github.com/OpenAIX-orgnization/openaix-core/issues)
+- 💡 [提出新想法](https://github.com/OpenAIX-orgnization/openaix-core/discussions)
+- 📝 [改进文档](spec/)
+- 🔧 [提交代码](CONTRIBUTING.md)
+
+---
+
+## 📚 文档导航
+
+### 理念层
+- [主宣言](manifesto/index.md) - 为什么 AIX 很重要
+- [双模理论](manifesto/philosophy.md) - UX 与 AIX 如何共存
+
+### 技术层
+- [协议规范 v1.0](spec/v1.0.md) - 正式标准定义
+- [评分算法](spec/metrics.md) - 四大维度详解
+- [实施指南](spec/implementation.md) - 从 0 到 100 分优化
+
+### 代码层
+- [API 文档](docs/API.md) - Python API 参考
+- [架构文档](docs/ARCHITECTURE.md) - 系统架构设计
+- [示例代码](examples/) - 使用示例
+
+---
+
+## 📜 许可证
 
 MIT © [OpenAIX.org](https://openaix.org)
+
+---
+
+## 🔗 相关链接
+
+- **GitHub**: https://github.com/OpenAIX-orgnization/openaix-core
+- **问题反馈**: [GitHub Issues](https://github.com/OpenAIX-orgnization/openaix-core/issues)
+- **讨论区**: [GitHub Discussions](https://github.com/OpenAIX-orgnization/openaix-core/discussions)
+
+---
+
+**The Web was built for eyes. We are indexing it for minds.**
+
+*让互联网对 AI 更友好，从今天开始。*
