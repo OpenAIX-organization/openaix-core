@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 926 个
 - **平均分数**: 50.1/100
-- **最后更新**: 2026-02-16 02:15
+- **最后更新**: 2026-02-16 03:05
 
 ### 等级分布
 
@@ -269,6 +269,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| sites.google.com | 52 | C | 2026-02-16 03:05 |
+| dx.doi.org | 64 | B | 2026-02-16 03:05 |
+| getbootstrap.com | 50 | C | 2026-02-16 03:05 |
 | vatican.va | 31 | C | 2026-02-16 02:15 |
 | mitre.org | 61 | B | 2026-02-16 02:15 |
 | microsoft.com | 64 | B | 2026-02-16 02:12 |
@@ -280,7 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | lnkd.in | 44 | C | 2026-02-16 01:15 |
 | zdnet.com | 30 | C | 2026-02-16 01:15 |
 | mastercard.com | 48 | C | 2026-02-16 01:07 |
-| acs.org | 36 | C | 2026-02-16 01:07 |
-| allaboutcookies.org | 32 | C | 2026-02-16 01:07 |
-| pbs.org | 46 | C | 2026-02-16 01:05 |
 <!-- EVALUATION_RESULTS_END -->
