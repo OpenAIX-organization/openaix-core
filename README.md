@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 926 个
 - **平均分数**: 50.1/100
-- **最后更新**: 2026-02-16 03:06
+- **最后更新**: 2026-02-16 03:17
 
 ### 等级分布
 
@@ -269,6 +269,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| pcmag.com | 56 | B | 2026-02-16 03:17 |
+| moodle.org | 50 | C | 2026-02-16 03:17 |
+| springer.com | 60 | B | 2026-02-16 03:17 |
+| bbc.com | 43 | C | 2026-02-16 03:16 |
+| cam.ac.uk | 61 | B | 2026-02-16 03:16 |
+| ey.com | 60 | B | 2026-02-16 03:15 |
+| aol.com | 38 | C | 2026-02-16 03:15 |
 | help.opera.com | 76 | A | 2026-02-16 03:06 |
 | duke.edu | 65 | B | 2026-02-16 03:06 |
 | iana.org | 73 | A | 2026-02-16 03:06 |
@@ -276,11 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | dx.doi.org | 64 | B | 2026-02-16 03:05 |
 | getbootstrap.com | 50 | C | 2026-02-16 03:05 |
 | vatican.va | 31 | C | 2026-02-16 02:15 |
-| mitre.org | 61 | B | 2026-02-16 02:15 |
-| microsoft.com | 64 | B | 2026-02-16 02:12 |
-| healthline.com | 47 | C | 2026-02-16 02:12 |
-| nikkei.com | 56 | C | 2026-02-16 02:12 |
-| congress.gov | 24 | C | 2026-02-16 02:12 |
-| meetup.com | 63 | B | 2026-02-16 02:12 |
-| opensource.org | 58 | B | 2026-02-16 01:16 |
 <!-- EVALUATION_RESULTS_END -->
