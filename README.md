@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 926 个
 - **平均分数**: 50.1/100
-- **最后更新**: 2026-02-16 10:07
+- **最后更新**: 2026-02-16 10:10
 
 ### 等级分布
 
@@ -269,6 +269,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| rt.com | 40 | C | 2026-02-16 10:09 |
+| admin.ch | 70 | B | 2026-02-16 10:09 |
+| wikimedia.org | 49 | C | 2026-02-16 10:09 |
+| biomedcentral.com | 60 | B | 2026-02-16 10:09 |
+| zend.com | 53 | B | 2026-02-16 10:08 |
+| ccc.de | 68 | B | 2026-02-16 10:08 |
+| twitter.com | 40 | C | 2026-02-16 10:08 |
 | huffingtonpost.com | 38 | C | 2026-02-16 10:07 |
 | medlineplus.gov | 70 | B | 2026-02-16 10:07 |
 | akismet.com | 52 | C | 2026-02-16 10:06 |
@@ -276,11 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | cancer.gov | 55 | B | 2026-02-16 09:10 |
 | ca.gov | 55 | B | 2026-02-16 09:10 |
 | calameo.com | 76 | A | 2026-02-16 09:10 |
-| de-de.facebook.com | 49 | C | 2026-02-16 09:09 |
-| feedly.com | 59 | C | 2026-02-16 09:09 |
-| com.com | 51 | C | 2026-02-16 08:15 |
-| umn.edu | 61 | B | 2026-02-16 08:15 |
-| pcmag.com | 56 | B | 2026-02-16 08:15 |
-| iop.org | 49 | C | 2026-02-16 08:09 |
-| playstation.com | 47 | C | 2026-02-16 08:08 |
 <!-- EVALUATION_RESULTS_END -->
