@@ -32,7 +32,7 @@ URLS_FILE = PROJECT_DIR / "websites.txt"
 BENCHMARK_SCRIPT = PROJECT_DIR / "benchmark.py"
 VENV_PYTHON = PROJECT_DIR / "venv" / "bin" / "python3"
 EVALUATED_LOG = DATA_DIR / "evaluated_sites.json"
-BATCH_SIZE = 3  # 每小时评测数量
+BATCH_SIZE = 5  # 每小时评测数量
 
 # 确保目录存在
 DATA_DIR.mkdir(parents=True, exist_ok=True)
