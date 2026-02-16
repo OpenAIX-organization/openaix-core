@@ -269,6 +269,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| gemini.google.com | 32 | C | 2026-02-17 02:08 |
+| de.wikipedia.org | 63 | B | 2026-02-17 02:08 |
+| entrepreneur.com | 29 | C | 2026-02-17 02:08 |
 | airbnb.com | 49 | C | 2026-02-17 02:08 |
 | wa.link | 69 | B | 2026-02-17 02:08 |
 | teamviewer.com | 31 | C | 2026-02-17 02:08 |
@@ -280,7 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ameblo.jp | 63 | C | 2026-02-17 01:15 |
 | energy.gov | 59 | B | 2026-02-17 01:08 |
 | t.co | 32 | C | 2026-02-17 01:08 |
-| docs.google.com | 38 | C | 2026-02-17 01:07 |
-| unesco.org | 49 | C | 2026-02-17 01:07 |
-| fbi.gov | 24 | C | 2026-02-17 01:06 |
 <!-- EVALUATION_RESULTS_END -->
