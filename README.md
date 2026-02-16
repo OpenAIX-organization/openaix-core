@@ -269,6 +269,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| hugedomains.com | 35 | C | 2026-02-16 15:17 |
+| discord.com | 69 | B | 2026-02-16 15:17 |
+| domainmarket.com | 24 | C | 2026-02-16 15:17 |
 | altervista.org | 74 | B | 2026-02-16 15:17 |
 | nps.gov | 67 | B | 2026-02-16 15:17 |
 | science.org | 22 | C | 2026-02-16 15:16 |
@@ -280,7 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | goodreads.com | 69 | B | 2026-02-16 15:07 |
 | bigcartel.com | 45 | C | 2026-02-16 15:07 |
 | walmart.com | 59 | C | 2026-02-16 15:06 |
-| fc2.com | 62 | B | 2026-02-16 15:06 |
-| justia.com | 22 | C | 2026-02-16 15:06 |
-| twilio.com | 62 | C | 2026-02-16 14:15 |
 <!-- EVALUATION_RESULTS_END -->
