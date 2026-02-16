@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 926 个
 - **平均分数**: 50.1/100
-- **最后更新**: 2026-02-16 22:16
+- **最后更新**: 2026-02-16 23:09
 
 ### 等级分布
 
@@ -269,10 +269,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| chatgpt.com | 20 | C | 2026-02-16 23:09 |
+| ovh.com | 47 | C | 2026-02-16 23:09 |
+| docs.npmjs.com | 42 | C | 2026-02-16 23:09 |
+| aliyun.com | 44 | C | 2026-02-16 23:09 |
 | networkadvertising.org | 55 | B | 2026-02-16 22:16 |
 | lego.com | 22 | C | 2026-02-16 22:15 |
 | gimp.org | 76 | A | 2026-02-16 22:15 |
-| ovh.com | 47 | C | 2026-02-16 22:12 |
 | wiktionary.org | 62 | B | 2026-02-16 22:11 |
 | yandex.ru | 32 | C | 2026-02-16 22:10 |
 | ucsb.edu | 54 | B | 2026-02-16 22:10 |
@@ -280,7 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | shopify.com | 55 | C | 2026-02-16 21:15 |
 | pexels.com | 24 | C | 2026-02-16 21:15 |
 | ea.com | 45 | C | 2026-02-16 21:15 |
-| notion.site | 65 | B | 2026-02-16 21:07 |
-| outlook.com | 37 | C | 2026-02-16 21:06 |
-| jetbrains.com | 46 | C | 2026-02-16 21:06 |
 <!-- EVALUATION_RESULTS_END -->
