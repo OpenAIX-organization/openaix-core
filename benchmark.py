@@ -181,7 +181,7 @@ def generate_markdown_report(results: List[Dict[str, Any]], anomalies: List[Dict
             continue
         
         result = item['result']
-        dims = result['dimensions']
+        dims = result.get('dimensions', {})
         url = result['target'][:40] + ('...' if len(result['target']) > 40 else '')
         
         snr = dims.get('snr', {}).get('score', 0)
