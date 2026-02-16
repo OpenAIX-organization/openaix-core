@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 926 个
 - **平均分数**: 50.2/100
-- **最后更新**: 2026-02-16 15:08
+- **最后更新**: 2026-02-16 15:17
 
 ### 等级分布
 
@@ -269,6 +269,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| altervista.org | 74 | B | 2026-02-16 15:17 |
+| nps.gov | 67 | B | 2026-02-16 15:17 |
+| science.org | 22 | C | 2026-02-16 15:16 |
+| beian.miit.gov.cn | 30 | C | 2026-02-16 15:16 |
+| cutt.ly | 63 | B | 2026-02-16 15:16 |
+| scholar.google.com | 29 | C | 2026-02-16 15:15 |
+| google.fr | 28 | C | 2026-02-16 15:15 |
 | jimdo.com | 58 | B | 2026-02-16 15:08 |
 | goodreads.com | 69 | B | 2026-02-16 15:07 |
 | bigcartel.com | 45 | C | 2026-02-16 15:07 |
@@ -276,11 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | fc2.com | 62 | B | 2026-02-16 15:06 |
 | justia.com | 22 | C | 2026-02-16 15:06 |
 | twilio.com | 62 | C | 2026-02-16 14:15 |
-| typepad.com | 25 | C | 2026-02-16 14:15 |
-| forbes.com | 43 | C | 2026-02-16 14:15 |
-| mpg.de | 45 | C | 2026-02-16 14:06 |
-| gizmodo.com | 59 | B | 2026-02-16 14:05 |
-| wikimedia.org | 49 | C | 2026-02-16 14:05 |
-| fcc.gov | 61 | B | 2026-02-16 14:05 |
-| curl.se | 47 | C | 2026-02-16 14:05 |
 <!-- EVALUATION_RESULTS_END -->
