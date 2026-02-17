@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 948 个
 - **平均分数**: 48.9/100
-- **最后更新**: 2026-02-18 02:06
+- **最后更新**: 2026-02-18 02:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| theregister.com | 22 | C | 2026-02-18 02:07 |
+| billboard.com | 32 | C | 2026-02-18 02:07 |
+| strato.de | 58 | B | 2026-02-18 02:07 |
+| gitlab.com | 58 | C | 2026-02-18 02:07 |
+| walmart.com | 58 | C | 2026-02-18 02:06 |
 | deezer.com | 57 | C | 2026-02-18 02:06 |
 | clevelandclinic.org | 60 | B | 2026-02-18 02:05 |
 | autodesk.com | 43 | C | 2026-02-18 02:05 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | mpg.de | 45 | C | 2026-02-18 01:15 |
 | tesla.com | 37 | C | 2026-02-18 01:15 |
 | pexels.com | 24 | C | 2026-02-18 01:15 |
-| ec-lyon.fr | 0 | ? | 2026-02-18 01:15 |
-| nasa.gov | 59 | C | 2026-02-18 01:10 |
-| fiverr.com | 65 | B | 2026-02-18 01:10 |
-| navy.mil | 0 | ? | 2026-02-18 01:10 |
-| termsfeed.com | 24 | C | 2026-02-18 01:09 |
 <!-- EVALUATION_RESULTS_END -->
