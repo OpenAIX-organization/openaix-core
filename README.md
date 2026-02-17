@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 949 个
 - **平均分数**: 48.9/100
-- **最后更新**: 2026-02-18 05:08
+- **最后更新**: 2026-02-18 05:15
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| zillow.com | 26 | C | 2026-02-18 05:15 |
+| w.soundcloud.com | 64 | B | 2026-02-18 05:15 |
+| gitlab.com | 58 | C | 2026-02-18 05:15 |
+| osu.edu | 54 | B | 2026-02-18 05:15 |
+| feeds.feedburner.com | 47 | C | 2026-02-18 05:15 |
 | dailymotion.com | 52 | C | 2026-02-18 05:08 |
 | mariadb.org | 61 | B | 2026-02-18 05:08 |
 | line.me | 78 | A | 2026-02-18 05:08 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | medium.com | 24 | C | 2026-02-18 05:06 |
 | wustl.edu | 68 | B | 2026-02-18 05:06 |
 | bmj.com | 36 | C | 2026-02-18 05:06 |
-| api.whatsapp.com | 37 | C | 2026-02-18 05:06 |
-| wiley.com | 36 | C | 2026-02-18 05:05 |
-| oreilly.com | 53 | C | 2026-02-18 05:05 |
-| welt.de | 39 | C | 2026-02-18 04:16 |
-| amazon.co.uk | 39 | C | 2026-02-18 04:16 |
 <!-- EVALUATION_RESULTS_END -->
