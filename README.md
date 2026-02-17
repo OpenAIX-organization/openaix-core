@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 949 个
 - **平均分数**: 48.9/100
-- **最后更新**: 2026-02-18 03:03
+- **最后更新**: 2026-02-18 03:06
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| buydomains.com | 22 | C | 2026-02-18 03:06 |
+| cve.org | 46 | C | 2026-02-18 03:06 |
+| undp.org | 62 | B | 2026-02-18 03:06 |
+| stanford.edu | 45 | C | 2026-02-18 03:06 |
+| dol.gov | 70 | B | 2026-02-18 03:05 |
 | mitre.org | 61 | B | 2026-02-18 03:03 |
 | tandfonline.com | 22 | C | 2026-02-18 03:03 |
 | yandex.ru | 30 | C | 2026-02-18 03:03 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | indeed.com | 54 | B | 2026-02-18 02:15 |
 | libsyn.com | 62 | B | 2026-02-18 02:15 |
 | canva.com | 24 | C | 2026-02-18 02:15 |
-| ssrn.com | 24 | C | 2026-02-18 02:15 |
-| beian.miit.gov.cn | 30 | C | 2026-02-18 02:08 |
-| envato.com | 44 | C | 2026-02-18 02:08 |
-| colorado.edu | 68 | B | 2026-02-18 02:07 |
-| coe.int | 43 | C | 2026-02-18 02:07 |
 <!-- EVALUATION_RESULTS_END -->
