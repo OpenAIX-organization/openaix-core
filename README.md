@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 943 个
 - **平均分数**: 49.2/100
-- **最后更新**: 2026-02-17 23:07
+- **最后更新**: 2026-02-17 23:15
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| foxnews.com | 51 | C | 2026-02-17 23:15 |
+| google.co.in | 26 | C | 2026-02-17 23:15 |
+| open.spotify.com | 46 | C | 2026-02-17 23:15 |
+| wp.com | 59 | B | 2026-02-17 23:15 |
+| ftc.gov | 51 | C | 2026-02-17 23:15 |
 | fcc.gov | 61 | B | 2026-02-17 23:07 |
 | broadcom.com | 35 | C | 2026-02-17 23:07 |
 | soundcloud.com | 66 | B | 2026-02-17 23:07 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | google.co.uk | 26 | C | 2026-02-17 23:06 |
 | samsung.com | 63 | B | 2026-02-17 23:05 |
 | bsky.app | 40 | C | 2026-02-17 23:05 |
-| unesco.org | 49 | C | 2026-02-17 23:05 |
-| canada.ca | 63 | B | 2026-02-17 22:15 |
-| wordpress.com | 59 | B | 2026-02-17 22:14 |
-| so.com | 39 | C | 2026-02-17 22:14 |
-| thoughtco.com | 60 | B | 2026-02-17 22:14 |
 <!-- EVALUATION_RESULTS_END -->
