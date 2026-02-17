@@ -254,8 +254,8 @@ MIT © [OpenAIX.org](https://openaix.org)
 ## 📊 评测统计
 
 - **总计评测网站**: 949 个
-- **平均分数**: 48.8/100
-- **最后更新**: 2026-02-18 06:09
+- **平均分数**: 48.9/100
+- **最后更新**: 2026-02-18 06:10
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| rollingstone.com | 41 | C | 2026-02-18 06:10 |
+| youronlinechoices.com | 73 | A | 2026-02-18 06:10 |
+| amazon.de | 43 | C | 2026-02-18 06:10 |
+| policies.google.com | 42 | C | 2026-02-18 06:10 |
+| wustl.edu | 68 | B | 2026-02-18 06:10 |
 | psychologytoday.com | 52 | C | 2026-02-18 06:09 |
 | phys.org | 30 | C | 2026-02-18 06:09 |
 | open.spotify.com | 46 | C | 2026-02-18 06:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | w.soundcloud.com | 64 | B | 2026-02-18 05:15 |
 | gitlab.com | 58 | C | 2026-02-18 05:15 |
 | osu.edu | 54 | B | 2026-02-18 05:15 |
-| feeds.feedburner.com | 47 | C | 2026-02-18 05:15 |
-| dailymotion.com | 52 | C | 2026-02-18 05:08 |
-| mariadb.org | 61 | B | 2026-02-18 05:08 |
-| line.me | 78 | A | 2026-02-18 05:08 |
-| jd.com | 60 | B | 2026-02-18 05:08 |
 <!-- EVALUATION_RESULTS_END -->
