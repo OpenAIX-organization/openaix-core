@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 935 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 11:09
+- **最后更新**: 2026-02-17 11:16
 
 ### 等级分布
 
@@ -269,8 +269,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fedoraproject.org | 48 | C | 2026-02-17 11:16 |
+| cloudflare.com | 55 | C | 2026-02-17 11:15 |
+| ok.ru | 43 | C | 2026-02-17 11:15 |
+| getpocket.com | 57 | B | 2026-02-17 11:15 |
+| ft.com | 25 | C | 2026-02-17 11:15 |
 | ucl.ac.uk | 52 | C | 2026-02-17 11:09 |
-| ft.com | 48 | C | 2026-02-17 11:09 |
 | google.es | 28 | C | 2026-02-17 11:08 |
 | flickr.com | 58 | C | 2026-02-17 11:08 |
 | ftc.gov | 51 | C | 2026-02-17 11:08 |
@@ -279,8 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | census.gov | 52 | C | 2026-02-17 11:07 |
 | perl.com | 47 | C | 2026-02-17 11:07 |
 | verizon.com | 63 | B | 2026-02-17 11:07 |
-| ndtv.com | 48 | C | 2026-02-17 11:07 |
-| globo.com | 34 | C | 2026-02-17 11:07 |
-| cve.org | 46 | C | 2026-02-17 11:06 |
-| commons.wikimedia.org | 71 | A | 2026-02-17 11:06 |
 <!-- EVALUATION_RESULTS_END -->
