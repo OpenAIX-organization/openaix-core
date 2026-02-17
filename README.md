@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 936 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 14:05
+- **最后更新**: 2026-02-17 14:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| umich.edu | 22 | C | 2026-02-17 14:16 |
+| researchgate.net | 31 | C | 2026-02-17 14:15 |
+| cpanel.net | 55 | C | 2026-02-17 14:15 |
+| fiverr.com | 65 | B | 2026-02-17 14:15 |
+| telegram.org | 64 | C | 2026-02-17 14:15 |
 | mi.com | 60 | B | 2026-02-17 14:05 |
 | mlb.com | 63 | B | 2026-02-17 14:04 |
 | mozilla.org | 73 | A | 2026-02-17 14:04 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | nobelprize.org | 59 | C | 2026-02-17 13:12 |
 | amazon.co.jp | 42 | C | 2026-02-17 13:12 |
 | deviantart.com | 66 | B | 2026-02-17 13:12 |
-| go.th | 0 | ? | 2026-02-17 13:12 |
-| investing.com | 45 | C | 2026-02-17 13:12 |
-| telegra.ph | 46 | C | 2026-02-17 13:12 |
-| 1drv.ms | 23 | C | 2026-02-17 13:11 |
-| ifeng.com | 38 | C | 2026-02-17 13:11 |
 <!-- EVALUATION_RESULTS_END -->
