@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 936 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 15:06
+- **最后更新**: 2026-02-17 15:15
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| flic.kr | 58 | C | 2026-02-17 15:15 |
+| ucla.edu | 75 | A | 2026-02-17 15:15 |
+| docs.google.com | 38 | C | 2026-02-17 15:15 |
+| reddit.com | 46 | C | 2026-02-17 15:15 |
+| android.com | 63 | B | 2026-02-17 15:15 |
 | britannica.com | 68 | B | 2026-02-17 15:06 |
 | latimes.com | 46 | C | 2026-02-17 15:06 |
 | welt.de | 39 | C | 2026-02-17 15:06 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | theverge.com | 37 | C | 2026-02-17 15:04 |
 | woocommerce.com | 64 | C | 2026-02-17 15:04 |
 | cia.gov | 51 | B | 2026-02-17 15:04 |
-| notion.so | 56 | B | 2026-02-17 15:04 |
-| umich.edu | 22 | C | 2026-02-17 14:16 |
-| researchgate.net | 31 | C | 2026-02-17 14:15 |
-| cpanel.net | 55 | C | 2026-02-17 14:15 |
-| fiverr.com | 65 | B | 2026-02-17 14:15 |
 <!-- EVALUATION_RESULTS_END -->
