@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 936 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 17:09
+- **最后更新**: 2026-02-17 17:15
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| w.soundcloud.com | 64 | B | 2026-02-17 17:15 |
+| ieee.org | 30 | C | 2026-02-17 17:15 |
+| substack.com | 36 | C | 2026-02-17 17:15 |
+| wikia.com | 50 | C | 2026-02-17 17:15 |
+| nejm.org | 23 | C | 2026-02-17 17:15 |
 | theatlantic.com | 65 | B | 2026-02-17 17:09 |
 | bing.com | 56 | B | 2026-02-17 17:09 |
 | kickstarter.com | 24 | C | 2026-02-17 17:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | amazon.fr | 43 | C | 2026-02-17 16:15 |
 | ucdavis.edu | 68 | B | 2026-02-17 16:15 |
 | developers.google.com | 50 | C | 2026-02-17 16:15 |
-| developer.mozilla.org | 57 | C | 2026-02-17 16:15 |
-| meetup.com | 63 | B | 2026-02-17 16:12 |
-| digg.com | 54 | B | 2026-02-17 16:11 |
-| marketwatch.com | 29 | C | 2026-02-17 16:11 |
-| lifehacker.com | 56 | B | 2026-02-17 16:11 |
 <!-- EVALUATION_RESULTS_END -->
