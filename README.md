@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 937 个
 - **平均分数**: 49.5/100
-- **最后更新**: 2026-02-17 20:07
+- **最后更新**: 2026-02-17 20:15
 
 ### 等级分布
 
@@ -269,18 +269,18 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| matterport.com | 65 | C | 2026-02-17 20:15 |
+| youku.com | 37 | C | 2026-02-17 20:15 |
+| pubmed.ncbi.nlm.nih.gov | 59 | B | 2026-02-17 20:15 |
+| noaa.gov | 64 | B | 2026-02-17 20:15 |
+| googleapis.com | 46 | C | 2026-02-17 20:15 |
 | dribbble.com | 57 | B | 2026-02-17 20:07 |
 | dx.doi.org | 64 | B | 2026-02-17 20:06 |
 | guardian.co.uk | 33 | C | 2026-02-17 20:06 |
 | fedoraproject.org | 48 | C | 2026-02-17 20:06 |
-| pubmed.ncbi.nlm.nih.gov | 59 | B | 2026-02-17 20:06 |
 | upenn.edu | 63 | B | 2026-02-17 19:16 |
 | itunes.apple.com | 62 | B | 2026-02-17 19:16 |
 | deezer.com | 57 | C | 2026-02-17 19:15 |
 | squarespace.com | 62 | C | 2026-02-17 19:15 |
 | altervista.org | 74 | B | 2026-02-17 19:15 |
-| angular.io | 58 | C | 2026-02-17 19:07 |
-| drive.google.com | 40 | C | 2026-02-17 19:07 |
-| dw.com | 28 | C | 2026-02-17 19:07 |
-| lemonde.fr | 49 | C | 2026-02-17 19:07 |
 <!-- EVALUATION_RESULTS_END -->
