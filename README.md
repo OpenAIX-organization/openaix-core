@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 949 个
 - **平均分数**: 48.9/100
-- **最后更新**: 2026-02-18 03:06
+- **最后更新**: 2026-02-18 03:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| dell.com | 67 | C | 2026-02-18 03:16 |
+| amazon.com | 39 | C | 2026-02-18 03:15 |
+| plus.google.com | 66 | C | 2026-02-18 03:15 |
+| maps.google.com | 24 | C | 2026-02-18 03:15 |
+| cell.com | 22 | C | 2026-02-18 03:15 |
 | buydomains.com | 22 | C | 2026-02-18 03:06 |
 | cve.org | 46 | C | 2026-02-18 03:06 |
 | undp.org | 62 | B | 2026-02-18 03:06 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | tandfonline.com | 22 | C | 2026-02-18 03:03 |
 | yandex.ru | 30 | C | 2026-02-18 03:03 |
 | weather.com | 47 | C | 2026-02-18 03:03 |
-| wordpress.com | 59 | B | 2026-02-18 03:03 |
-| gob.es | 0 | ? | 2026-02-18 02:15 |
-| indeed.com | 54 | B | 2026-02-18 02:15 |
-| libsyn.com | 62 | B | 2026-02-18 02:15 |
-| canva.com | 24 | C | 2026-02-18 02:15 |
 <!-- EVALUATION_RESULTS_END -->
