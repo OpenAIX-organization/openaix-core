@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 936 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 18:08
+- **最后更新**: 2026-02-17 18:09
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| help.opera.com | 76 | A | 2026-02-17 18:09 |
+| webmd.com | 37 | C | 2026-02-17 18:09 |
+| un.org | 64 | B | 2026-02-17 18:09 |
+| moodle.com | 53 | B | 2026-02-17 18:09 |
+| binance.com | 30 | C | 2026-02-17 18:09 |
 | outlook.com | 37 | C | 2026-02-17 18:08 |
 | linktr.ee | 54 | C | 2026-02-17 18:08 |
 | thehill.com | 23 | C | 2026-02-17 18:08 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ieee.org | 30 | C | 2026-02-17 17:15 |
 | substack.com | 36 | C | 2026-02-17 17:15 |
 | wikia.com | 50 | C | 2026-02-17 17:15 |
-| nejm.org | 23 | C | 2026-02-17 17:15 |
-| theatlantic.com | 65 | B | 2026-02-17 17:09 |
-| bing.com | 56 | B | 2026-02-17 17:09 |
-| kickstarter.com | 24 | C | 2026-02-17 17:09 |
-| politico.eu | 51 | C | 2026-02-17 17:09 |
 <!-- EVALUATION_RESULTS_END -->
