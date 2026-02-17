@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 943 个
 - **平均分数**: 49.2/100
-- **最后更新**: 2026-02-17 22:15
+- **最后更新**: 2026-02-17 23:06
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| service.gov.uk | 62 | C | 2026-02-17 23:06 |
+| google.co.uk | 26 | C | 2026-02-17 23:06 |
+| samsung.com | 63 | B | 2026-02-17 23:05 |
+| bsky.app | 40 | C | 2026-02-17 23:05 |
+| unesco.org | 49 | C | 2026-02-17 23:05 |
 | canada.ca | 63 | B | 2026-02-17 22:15 |
 | wordpress.com | 59 | B | 2026-02-17 22:14 |
 | so.com | 39 | C | 2026-02-17 22:14 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | oecd.org | 22 | C | 2026-02-17 22:13 |
 | gouv.fr | 0 | ? | 2026-02-17 22:13 |
 | themeisle.com | 58 | B | 2026-02-17 22:13 |
-| fiverr.com | 65 | B | 2026-02-17 22:12 |
-| prezi.com | 60 | C | 2026-02-17 22:12 |
-| thesun.co.uk | 33 | C | 2026-02-17 22:12 |
-| northwestern.edu | 75 | A | 2026-02-17 22:11 |
-| history.com | 45 | C | 2026-02-17 22:11 |
 <!-- EVALUATION_RESULTS_END -->
