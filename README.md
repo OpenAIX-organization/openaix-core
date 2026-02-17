@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 943 个
 - **平均分数**: 49.2/100
-- **最后更新**: 2026-02-17 23:06
+- **最后更新**: 2026-02-17 23:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fcc.gov | 61 | B | 2026-02-17 23:07 |
+| broadcom.com | 35 | C | 2026-02-17 23:07 |
+| soundcloud.com | 66 | B | 2026-02-17 23:07 |
+| about.com | 56 | B | 2026-02-17 23:07 |
+| statista.com | 51 | C | 2026-02-17 23:07 |
 | service.gov.uk | 62 | C | 2026-02-17 23:06 |
 | google.co.uk | 26 | C | 2026-02-17 23:06 |
 | samsung.com | 63 | B | 2026-02-17 23:05 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | wordpress.com | 59 | B | 2026-02-17 22:14 |
 | so.com | 39 | C | 2026-02-17 22:14 |
 | thoughtco.com | 60 | B | 2026-02-17 22:14 |
-| cn.com | 56 | C | 2026-02-17 22:14 |
-| xing.com | 0 | ? | 2026-02-17 22:13 |
-| oecd.org | 22 | C | 2026-02-17 22:13 |
-| gouv.fr | 0 | ? | 2026-02-17 22:13 |
-| themeisle.com | 58 | B | 2026-02-17 22:13 |
 <!-- EVALUATION_RESULTS_END -->
