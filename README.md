@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 948 个
 - **平均分数**: 48.9/100
-- **最后更新**: 2026-02-18 01:16
+- **最后更新**: 2026-02-18 02:06
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| deezer.com | 57 | C | 2026-02-18 02:06 |
+| clevelandclinic.org | 60 | B | 2026-02-18 02:05 |
+| autodesk.com | 43 | C | 2026-02-18 02:05 |
+| economist.com | 24 | C | 2026-02-18 02:05 |
+| bbc.com | 43 | C | 2026-02-18 02:05 |
 | service.weibo.com | 0 | ? | 2026-02-18 01:16 |
 | mpg.de | 45 | C | 2026-02-18 01:15 |
 | tesla.com | 37 | C | 2026-02-18 01:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | fiverr.com | 65 | B | 2026-02-18 01:10 |
 | navy.mil | 0 | ? | 2026-02-18 01:10 |
 | termsfeed.com | 24 | C | 2026-02-18 01:09 |
-| pewresearch.org | 48 | C | 2026-02-18 01:09 |
-| windows.net | 0 | ? | 2026-02-18 01:08 |
-| fcc.gov | 61 | B | 2026-02-18 01:08 |
-| metro.co.uk | 46 | C | 2026-02-18 01:08 |
-| ieee.org | 30 | C | 2026-02-18 01:08 |
 <!-- EVALUATION_RESULTS_END -->
