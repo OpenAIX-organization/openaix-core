@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 930 个
 - **平均分数**: 49.9/100
-- **最后更新**: 2026-02-17 07:15
+- **最后更新**: 2026-02-17 08:13
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| duckduckgo.com | 56 | C | 2026-02-17 08:13 |
+| web.facebook.com | 49 | C | 2026-02-17 08:13 |
+| howstuffworks.com | 52 | B | 2026-02-17 08:12 |
+| mastodon.social | 34 | C | 2026-02-17 08:12 |
+| or.id | 0 | ? | 2026-02-17 08:12 |
 | zoom.com | 60 | B | 2026-02-17 07:15 |
 | psychologytoday.com | 71 | A | 2026-02-17 07:15 |
 | cdc.gov | 70 | B | 2026-02-17 07:15 |
@@ -276,11 +281,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | allaboutcookies.org | 32 | C | 2026-02-17 07:15 |
 | mailchimp.com | 62 | C | 2026-02-17 07:08 |
 | apachefriends.org | 56 | B | 2026-02-17 07:07 |
-| or.id | 0 | ? | 2026-02-17 07:06 |
 | angular.io | 58 | C | 2026-02-17 07:06 |
 | xkcd.com | 47 | C | 2026-02-17 07:06 |
-| fedex.com | 60 | C | 2026-02-17 06:15 |
-| metmuseum.org | 54 | B | 2026-02-17 06:15 |
-| urldefense.com | 44 | C | 2026-02-17 06:15 |
-| theguardian.com | 34 | C | 2026-02-17 06:09 |
 <!-- EVALUATION_RESULTS_END -->
