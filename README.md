@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 936 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 15:15
+- **最后更新**: 2026-02-17 16:10
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| goodreads.com | 69 | B | 2026-02-17 16:10 |
+| maps.google.com | 24 | C | 2026-02-17 16:10 |
+| binance.com | 30 | C | 2026-02-17 16:10 |
+| discord.gg | 73 | C | 2026-02-17 16:10 |
+| metro.co.uk | 45 | C | 2026-02-17 16:09 |
 | flic.kr | 58 | C | 2026-02-17 15:15 |
 | ucla.edu | 75 | A | 2026-02-17 15:15 |
 | docs.google.com | 38 | C | 2026-02-17 15:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | latimes.com | 46 | C | 2026-02-17 15:06 |
 | welt.de | 39 | C | 2026-02-17 15:06 |
 | claude.ai | 22 | C | 2026-02-17 15:06 |
-| smh.com.au | 39 | C | 2026-02-17 15:06 |
-| oup.com | 56 | B | 2026-02-17 15:05 |
-| theverge.com | 37 | C | 2026-02-17 15:04 |
-| woocommerce.com | 64 | C | 2026-02-17 15:04 |
-| cia.gov | 51 | B | 2026-02-17 15:04 |
 <!-- EVALUATION_RESULTS_END -->
