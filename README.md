@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 951 个
 - **平均分数**: 48.7/100
-- **最后更新**: 2026-02-18 07:07
+- **最后更新**: 2026-02-18 07:16
 
 ### 等级分布
 
@@ -269,6 +269,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| notion.site | 65 | B | 2026-02-18 07:16 |
+| firefox.com | 71 | A | 2026-02-18 07:16 |
+| colorado.edu | 68 | B | 2026-02-18 07:16 |
+| europa.eu | 54 | B | 2026-02-18 07:16 |
+| jhu.edu | 36 | C | 2026-02-18 07:16 |
+| unfccc.int | 53 | C | 2026-02-18 07:15 |
 | cloudflare.com | 55 | C | 2026-02-18 07:07 |
 | support.google.com | 53 | C | 2026-02-18 07:07 |
 | theverge.com | 40 | C | 2026-02-18 07:06 |
@@ -277,10 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | eurekalert.org | 64 | B | 2026-02-18 06:15 |
 | ubc.ca | 63 | B | 2026-02-18 06:15 |
 | jquery.com | 65 | C | 2026-02-18 06:15 |
-| apps.apple.com | 38 | C | 2026-02-18 06:15 |
-| mps.gov.cn | 0 | ? | 2026-02-18 06:15 |
-| rollingstone.com | 41 | C | 2026-02-18 06:10 |
-| youronlinechoices.com | 73 | A | 2026-02-18 06:10 |
-| amazon.de | 43 | C | 2026-02-18 06:10 |
-| policies.google.com | 42 | C | 2026-02-18 06:10 |
 <!-- EVALUATION_RESULTS_END -->
