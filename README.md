@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 949 个
 - **平均分数**: 48.9/100
-- **最后更新**: 2026-02-18 04:11
+- **最后更新**: 2026-02-18 04:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| welt.de | 39 | C | 2026-02-18 04:16 |
+| amazon.co.uk | 39 | C | 2026-02-18 04:16 |
+| etsy.com | 32 | C | 2026-02-18 04:15 |
+| cloud.microsoft | 68 | B | 2026-02-18 04:15 |
+| github.com | 64 | C | 2026-02-18 04:15 |
 | workspaceupdates.googleblog. | 40 | C | 2026-02-18 04:11 |
 | playstation.com | 47 | C | 2026-02-18 04:09 |
 | merriam-webster.com | 51 | C | 2026-02-18 04:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | apache.org | 71 | A | 2026-02-18 04:08 |
 | about.me | 58 | C | 2026-02-18 04:07 |
 | bu.edu | 57 | B | 2026-02-18 04:07 |
-| dell.com | 67 | C | 2026-02-18 03:16 |
-| amazon.com | 39 | C | 2026-02-18 03:15 |
-| plus.google.com | 66 | C | 2026-02-18 03:15 |
-| maps.google.com | 24 | C | 2026-02-18 03:15 |
-| cell.com | 22 | C | 2026-02-18 03:15 |
 <!-- EVALUATION_RESULTS_END -->
