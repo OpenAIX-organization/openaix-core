@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 934 个
 - **平均分数**: 49.7/100
-- **最后更新**: 2026-02-17 10:15
+- **最后更新**: 2026-02-17 11:06
 
 ### 等级分布
 
@@ -269,6 +269,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| enable-javascript.com | 76 | A | 2026-02-17 11:06 |
+| mysql.com | 59 | B | 2026-02-17 11:06 |
+| cmu.edu | 68 | B | 2026-02-17 11:06 |
+| thetimes.co.uk | 49 | C | 2026-02-17 11:06 |
+| github.com | 64 | C | 2026-02-17 11:05 |
+| cisco.com | 52 | B | 2026-02-17 11:05 |
 | nejm.org | 22 | C | 2026-02-17 10:15 |
 | accounts.google.com | 38 | C | 2026-02-17 10:15 |
 | privacyshield.gov | 0 | ? | 2026-02-17 10:15 |
@@ -277,10 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ucla.edu | 75 | A | 2026-02-17 10:13 |
 | eventbrite.com | 55 | C | 2026-02-17 10:11 |
 | theconversation.com | 40 | C | 2026-02-17 10:11 |
-| barnesandnoble.com | 58 | B | 2026-02-17 10:09 |
-| airbnb.com | 49 | C | 2026-02-17 10:08 |
-| army.mil | 0 | ? | 2026-02-17 10:06 |
-| digitaltrends.com | 37 | C | 2026-02-17 10:06 |
-| cloud.microsoft | 68 | B | 2026-02-17 09:15 |
-| wpa.qq.com | 54 | B | 2026-02-17 09:15 |
 <!-- EVALUATION_RESULTS_END -->
