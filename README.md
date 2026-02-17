@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 943 个
 - **平均分数**: 49.2/100
-- **最后更新**: 2026-02-17 23:15
+- **最后更新**: 2026-02-18 00:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| podcasts.apple.com | 53 | B | 2026-02-18 00:07 |
+| intuit.com | 42 | C | 2026-02-18 00:07 |
+| vk.com | 46 | C | 2026-02-18 00:07 |
+| mit.edu | 63 | B | 2026-02-18 00:06 |
+| twilio.com | 62 | C | 2026-02-18 00:06 |
 | foxnews.com | 51 | C | 2026-02-17 23:15 |
 | google.co.in | 26 | C | 2026-02-17 23:15 |
 | open.spotify.com | 46 | C | 2026-02-17 23:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | broadcom.com | 35 | C | 2026-02-17 23:07 |
 | soundcloud.com | 66 | B | 2026-02-17 23:07 |
 | about.com | 56 | B | 2026-02-17 23:07 |
-| statista.com | 51 | C | 2026-02-17 23:07 |
-| service.gov.uk | 62 | C | 2026-02-17 23:06 |
-| google.co.uk | 26 | C | 2026-02-17 23:06 |
-| samsung.com | 63 | B | 2026-02-17 23:05 |
-| bsky.app | 40 | C | 2026-02-17 23:05 |
 <!-- EVALUATION_RESULTS_END -->
