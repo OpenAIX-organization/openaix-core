@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 941 个
 - **平均分数**: 49.3/100
-- **最后更新**: 2026-02-17 21:16
+- **最后更新**: 2026-02-17 22:11
 
 ### 等级分布
 
@@ -269,6 +269,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| northwestern.edu | 75 | A | 2026-02-17 22:11 |
+| history.com | 45 | C | 2026-02-17 22:11 |
+| amzn.to | 36 | C | 2026-02-17 22:11 |
+| www.nhs.uk | 63 | B | 2026-02-17 22:11 |
+| fb.watch | 32 | C | 2026-02-17 22:11 |
+| getpocket.com | 57 | B | 2026-02-17 22:10 |
+| timesofindia.indiatimes.com | 42 | C | 2026-02-17 22:10 |
 | pbs.org | 46 | C | 2026-02-17 21:16 |
 | pages.dev | 62 | C | 2026-02-17 21:16 |
 | hostinger.com | 56 | C | 2026-02-17 21:15 |
@@ -276,11 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | nyu.edu | 39 | C | 2026-02-17 21:15 |
 | vercel.app | 65 | C | 2026-02-17 21:15 |
 | meta.com | 32 | C | 2026-02-17 21:09 |
-| nymag.com | 36 | C | 2026-02-17 21:09 |
-| itu.int | 0 | ? | 2026-02-17 21:08 |
-| react.dev | 46 | C | 2026-02-17 21:08 |
-| livejournal.com | 57 | B | 2026-02-17 21:08 |
-| sakura.ne.jp | 0 | ? | 2026-02-17 21:08 |
-| usatoday.com | 31 | C | 2026-02-17 21:07 |
-| books.google.com | 26 | C | 2026-02-17 21:07 |
 <!-- EVALUATION_RESULTS_END -->
