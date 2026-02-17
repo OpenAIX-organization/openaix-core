@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 935 个
 - **平均分数**: 49.6/100
-- **最后更新**: 2026-02-17 12:10
+- **最后更新**: 2026-02-17 12:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| pages.dev | 62 | C | 2026-02-17 12:16 |
+| dw.com | 28 | C | 2026-02-17 12:15 |
+| eurekalert.org | 64 | B | 2026-02-17 12:15 |
+| anthropic.com | 48 | C | 2026-02-17 12:15 |
+| line.me | 78 | A | 2026-02-17 12:15 |
 | rutgers.edu | 65 | B | 2026-02-17 12:10 |
 | joomla.org | 63 | B | 2026-02-17 12:09 |
 | rfc-editor.org | 41 | C | 2026-02-17 12:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | heylink.me | 24 | C | 2026-02-17 12:08 |
 | dailymotion.com | 52 | C | 2026-02-17 12:08 |
 | it.com | 74 | A | 2026-02-17 12:08 |
-| github.com | 64 | C | 2026-02-17 12:08 |
-| fedoraproject.org | 48 | C | 2026-02-17 11:16 |
-| cloudflare.com | 55 | C | 2026-02-17 11:15 |
-| ok.ru | 43 | C | 2026-02-17 11:15 |
-| getpocket.com | 57 | B | 2026-02-17 11:15 |
 <!-- EVALUATION_RESULTS_END -->
