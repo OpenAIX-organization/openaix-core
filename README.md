@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 958 个
 - **平均分数**: 48.5/100
-- **最后更新**: 2026-02-18 20:07
+- **最后更新**: 2026-02-18 20:09
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| hbr.org | 51 | C | 2026-02-18 20:09 |
+| vmware.com | 32 | C | 2026-02-18 20:08 |
+| mailchi.mp | 53 | C | 2026-02-18 20:08 |
+| northwestern.edu | 75 | A | 2026-02-18 20:08 |
+| colorado.edu | 68 | B | 2026-02-18 20:07 |
 | nginx.com | 54 | C | 2026-02-18 20:07 |
 | support.mozilla.org | 45 | C | 2026-02-18 20:06 |
 | smh.com.au | 39 | C | 2026-02-18 20:06 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | securityfocus.com | 0 | ? | 2026-02-18 19:15 |
 | moz.com | 55 | B | 2026-02-18 19:15 |
 | istockphoto.com | 39 | C | 2026-02-18 19:15 |
-| webflow.io | 48 | C | 2026-02-18 19:15 |
-| prezi.com | 48 | C | 2026-02-18 19:10 |
-| google.ca | 26 | C | 2026-02-18 19:10 |
-| thetimes.co.uk | 0 | ? | 2026-02-18 19:10 |
-| yahoo.co.jp | 55 | B | 2026-02-18 19:10 |
 <!-- EVALUATION_RESULTS_END -->
