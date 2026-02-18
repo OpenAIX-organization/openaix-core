@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 951 个
 - **平均分数**: 48.7/100
-- **最后更新**: 2026-02-18 09:10
+- **最后更新**: 2026-02-18 09:12
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| britannica.com | 68 | B | 2026-02-18 09:12 |
+| dropbox.com | 53 | C | 2026-02-18 09:12 |
+| spotify.com | 56 | B | 2026-02-18 09:11 |
+| deezer.com | 57 | C | 2026-02-18 09:11 |
+| workspaceupdates.googleblog. | 40 | C | 2026-02-18 09:11 |
 | ca.gov | 55 | B | 2026-02-18 09:10 |
 | deadline.com | 53 | B | 2026-02-18 09:10 |
 | lefigaro.fr | 48 | C | 2026-02-18 09:10 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | it.com | 74 | A | 2026-02-18 08:19 |
 | rt.com | 36 | C | 2026-02-18 08:19 |
 | b-cdn.net | 61 | C | 2026-02-18 08:18 |
-| en.wikipedia.org | 71 | A | 2026-02-18 08:18 |
-| dropcatch.com | 34 | C | 2026-02-18 08:17 |
-| unep.org | 63 | B | 2026-02-18 08:16 |
-| 1drv.ms | 23 | C | 2026-02-18 08:16 |
-| lonelyplanet.com | 64 | B | 2026-02-18 08:16 |
 <!-- EVALUATION_RESULTS_END -->
