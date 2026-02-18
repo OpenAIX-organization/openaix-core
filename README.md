@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 961 个
 - **平均分数**: 48.3/100
-- **最后更新**: 2026-02-19 00:10
+- **最后更新**: 2026-02-19 00:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| unesco.org | 49 | C | 2026-02-19 00:16 |
+| thenai.org | 55 | B | 2026-02-19 00:16 |
+| duckduckgo.com | 56 | C | 2026-02-19 00:15 |
+| docs.astro.build | 40 | C | 2026-02-19 00:15 |
+| 1688.com | 48 | C | 2026-02-19 00:15 |
 | beian.miit.gov.cn | 30 | C | 2026-02-19 00:10 |
 | ameblo.jp | 63 | C | 2026-02-19 00:09 |
 | colorlib.com | 54 | B | 2026-02-19 00:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | youtube.com | 38 | C | 2026-02-19 00:09 |
 | policies.google.com | 42 | C | 2026-02-19 00:09 |
 | salon.com | 62 | B | 2026-02-19 00:08 |
-| business.safety.google | 66 | B | 2026-02-19 00:08 |
-| yahoo.com | 40 | C | 2026-02-19 00:08 |
-| wpa.qq.com | 54 | B | 2026-02-19 00:08 |
-| pixabay.com | 22 | C | 2026-02-19 00:08 |
-| nih.gov | 50 | C | 2026-02-19 00:08 |
 <!-- EVALUATION_RESULTS_END -->
