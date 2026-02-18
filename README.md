@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 967 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 03:10
+- **最后更新**: 2026-02-19 03:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| billboard.com | 32 | C | 2026-02-19 03:16 |
+| istockphoto.com | 39 | C | 2026-02-19 03:16 |
+| venturebeat.com | 27 | C | 2026-02-19 03:15 |
+| nydailynews.com | 58 | C | 2026-02-19 03:15 |
+| usps.com | 67 | B | 2026-02-19 03:15 |
 | nsw.gov.au | 64 | C | 2026-02-19 03:10 |
 | asu.edu | 36 | C | 2026-02-19 03:10 |
 | europa.eu | 54 | B | 2026-02-19 03:10 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | urbandictionary.com | 69 | B | 2026-02-19 03:09 |
 | weforum.org | 49 | C | 2026-02-19 03:09 |
 | or.kr | 0 | ? | 2026-02-19 03:08 |
-| it.com | 74 | A | 2026-02-19 03:08 |
-| on.ca | 0 | ? | 2026-02-19 02:15 |
-| usps.com | 67 | B | 2026-02-19 02:15 |
-| justia.com | 22 | C | 2026-02-19 02:15 |
-| huffpost.com | 37 | C | 2026-02-19 02:15 |
 <!-- EVALUATION_RESULTS_END -->
