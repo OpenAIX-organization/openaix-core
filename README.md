@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 953 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 13:11
+- **最后更新**: 2026-02-18 13:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| pinterest.com | 44 | C | 2026-02-18 13:16 |
+| wpastra.com | 51 | C | 2026-02-18 13:15 |
+| scholar.google.com | 29 | C | 2026-02-18 13:15 |
+| accor.com | 0 | ? | 2026-02-18 13:15 |
+| cell.com | 22 | C | 2026-02-18 13:15 |
 | m.facebook.com | 50 | C | 2026-02-18 13:11 |
 | teamviewer.com | 31 | C | 2026-02-18 13:11 |
 | mega.nz | 38 | C | 2026-02-18 13:11 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | engadget.com | 41 | C | 2026-02-18 13:10 |
 | britannica.com | 68 | B | 2026-02-18 13:10 |
 | irs.gov | 70 | B | 2026-02-18 13:10 |
-| entrepreneur.com | 29 | C | 2026-02-18 13:10 |
-| azurewebsites.net | 0 | ? | 2026-02-18 13:10 |
-| tandfonline.com | 22 | C | 2026-02-18 13:10 |
-| shorturl.at | 22 | C | 2026-02-18 13:10 |
-| pnas.org | 24 | C | 2026-02-18 13:08 |
 <!-- EVALUATION_RESULTS_END -->
