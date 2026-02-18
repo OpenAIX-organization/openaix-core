@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 07:07
+- **最后更新**: 2026-02-19 07:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| nsw.gov.au | 64 | C | 2026-02-19 07:08 |
+| mailchi.mp | 53 | C | 2026-02-19 07:08 |
+| lonelyplanet.com | 64 | B | 2026-02-19 07:08 |
+| sun.com | 64 | B | 2026-02-19 07:08 |
+| aws.amazon.com | 60 | C | 2026-02-19 07:08 |
 | pewresearch.org | 48 | C | 2026-02-19 07:07 |
 | dailymail.co.uk | 48 | C | 2026-02-19 07:07 |
 | globo.com | 34 | C | 2026-02-19 07:06 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | nytimes.com | 43 | C | 2026-02-19 06:17 |
 | unicef.org | 36 | C | 2026-02-19 06:17 |
 | duckduckgo.com | 56 | C | 2026-02-19 06:15 |
-| eff.org | 71 | A | 2026-02-19 06:10 |
-| americanexpress.com | 49 | C | 2026-02-19 06:10 |
-| elegantthemes.com | 50 | C | 2026-02-19 06:10 |
-| wisc.edu | 61 | B | 2026-02-19 06:10 |
-| anchor.fm | 66 | C | 2026-02-19 06:09 |
 <!-- EVALUATION_RESULTS_END -->
