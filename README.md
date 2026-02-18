@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 967 个
 - **平均分数**: 48.2/100
-- **最后更新**: 2026-02-19 04:16
+- **最后更新**: 2026-02-19 05:09
 
 ### 等级分布
 
@@ -269,18 +269,18 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| myshopify.com | 42 | C | 2026-02-19 05:09 |
+| pypi.org | 54 | B | 2026-02-19 05:09 |
+| eurekalert.org | 64 | B | 2026-02-19 05:09 |
+| unsplash.com | 49 | C | 2026-02-19 05:09 |
+| newscientist.com | 37 | C | 2026-02-19 05:09 |
+| plos.org | 57 | C | 2026-02-19 05:06 |
+| nyu.edu | 39 | C | 2026-02-19 05:06 |
+| techtarget.com | 52 | B | 2026-02-19 05:06 |
+| justice.gov | 0 | ? | 2026-02-19 05:06 |
 | medlineplus.gov | 70 | B | 2026-02-19 04:16 |
 | shutterstock.com | 29 | C | 2026-02-19 04:15 |
 | lua.org | 63 | B | 2026-02-19 04:15 |
 | allaboutcookies.org | 32 | C | 2026-02-19 04:15 |
 | ft.com | 48 | C | 2026-02-19 04:15 |
-| youronlinechoices.eu | 73 | A | 2026-02-19 04:11 |
-| mediawiki.org | 76 | A | 2026-02-19 04:10 |
-| gitbook.io | 58 | C | 2026-02-19 04:10 |
-| mitre.org | 61 | B | 2026-02-19 04:10 |
-| bitly.com | 62 | B | 2026-02-19 04:10 |
-| coursera.org | 48 | C | 2026-02-19 04:10 |
-| rt.com | 36 | C | 2026-02-19 04:09 |
-| thehill.com | 23 | C | 2026-02-19 04:09 |
-| fliphtml5.com | 61 | B | 2026-02-19 04:09 |
 <!-- EVALUATION_RESULTS_END -->
