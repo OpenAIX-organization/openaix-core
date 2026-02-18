@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 956 个
 - **平均分数**: 48.5/100
-- **最后更新**: 2026-02-18 17:07
+- **最后更新**: 2026-02-18 17:09
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| lnkd.in | 44 | C | 2026-02-18 17:09 |
+| gemini.google.com | 32 | C | 2026-02-18 17:09 |
+| googleapis.com | 46 | C | 2026-02-18 17:09 |
+| goo.gl | 43 | C | 2026-02-18 17:08 |
+| columbia.edu | 22 | C | 2026-02-18 17:08 |
 | thetimes.co.uk | 0 | ? | 2026-02-18 17:07 |
 | slate.com | 46 | C | 2026-02-18 17:07 |
 | g.page | 64 | C | 2026-02-18 17:07 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | healthline.com | 47 | C | 2026-02-18 17:06 |
 | coe.int | 43 | C | 2026-02-18 17:05 |
 | technologyreview.com | 32 | C | 2026-02-18 16:16 |
-| vice.com | 55 | B | 2026-02-18 16:16 |
-| plesk.com | 53 | C | 2026-02-18 16:16 |
-| discord.gg | 73 | C | 2026-02-18 16:15 |
-| gc.ca | 0 | ? | 2026-02-18 16:15 |
-| springer.com | 60 | B | 2026-02-18 16:15 |
 <!-- EVALUATION_RESULTS_END -->
