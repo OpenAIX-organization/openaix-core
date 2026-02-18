@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 953 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 14:03
+- **最后更新**: 2026-02-18 14:07
 
 ### 等级分布
 
@@ -269,6 +269,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| telegra.ph | 46 | C | 2026-02-18 14:07 |
+| themegrill.com | 53 | B | 2026-02-18 14:07 |
+| urbandictionary.com | 65 | B | 2026-02-18 14:05 |
+| ea.com | 45 | C | 2026-02-18 14:05 |
 | amazon.fr | 43 | C | 2026-02-18 14:03 |
 | slate.com | 46 | C | 2026-02-18 14:03 |
 | digitaltrends.com | 37 | C | 2026-02-18 14:03 |
@@ -279,8 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | scholar.google.com | 29 | C | 2026-02-18 13:15 |
 | accor.com | 0 | ? | 2026-02-18 13:15 |
 | cell.com | 22 | C | 2026-02-18 13:15 |
-| m.facebook.com | 50 | C | 2026-02-18 13:11 |
-| teamviewer.com | 31 | C | 2026-02-18 13:11 |
-| mega.nz | 38 | C | 2026-02-18 13:11 |
-| ahrefs.com | 55 | C | 2026-02-18 13:11 |
 <!-- EVALUATION_RESULTS_END -->
