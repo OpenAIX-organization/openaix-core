@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 959 个
 - **平均分数**: 48.4/100
-- **最后更新**: 2026-02-18 20:15
+- **最后更新**: 2026-02-18 21:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| weforum.org | 49 | C | 2026-02-18 21:07 |
+| appspot.com | 54 | C | 2026-02-18 21:07 |
+| sedo.com | 48 | C | 2026-02-18 21:07 |
+| matomo.org | 64 | C | 2026-02-18 21:06 |
+| history.com | 45 | C | 2026-02-18 21:06 |
 | medscape.com | 43 | C | 2026-02-18 20:15 |
 | gemini.google.com | 32 | C | 2026-02-18 20:15 |
 | youtube-nocookie.com | 0 | ? | 2026-02-18 20:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | vmware.com | 32 | C | 2026-02-18 20:08 |
 | mailchi.mp | 53 | C | 2026-02-18 20:08 |
 | northwestern.edu | 75 | A | 2026-02-18 20:08 |
-| colorado.edu | 68 | B | 2026-02-18 20:07 |
-| nginx.com | 54 | C | 2026-02-18 20:07 |
-| support.mozilla.org | 45 | C | 2026-02-18 20:06 |
-| smh.com.au | 39 | C | 2026-02-18 20:06 |
-| web.dev | 45 | C | 2026-02-18 20:06 |
 <!-- EVALUATION_RESULTS_END -->
