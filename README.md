@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 953 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 14:16
+- **最后更新**: 2026-02-18 15:06
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| isc.org | 56 | B | 2026-02-18 15:06 |
+| senate.gov | 70 | B | 2026-02-18 15:06 |
+| linear.app | 63 | C | 2026-02-18 15:06 |
+| fr.wikipedia.org | 68 | B | 2026-02-18 15:06 |
+| mozilla.com | 73 | A | 2026-02-18 15:06 |
 | docs.python.org | 76 | A | 2026-02-18 14:16 |
 | altervista.org | 74 | B | 2026-02-18 14:16 |
 | techradar.com | 46 | C | 2026-02-18 14:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | urbandictionary.com | 65 | B | 2026-02-18 14:05 |
 | ea.com | 45 | C | 2026-02-18 14:05 |
 | amazon.fr | 43 | C | 2026-02-18 14:03 |
-| slate.com | 46 | C | 2026-02-18 14:03 |
-| digitaltrends.com | 37 | C | 2026-02-18 14:03 |
-| duke.edu | 65 | B | 2026-02-18 14:02 |
-| duckduckgo.com | 56 | C | 2026-02-18 14:02 |
-| pinterest.com | 44 | C | 2026-02-18 13:16 |
 <!-- EVALUATION_RESULTS_END -->
