@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 956 个
 - **平均分数**: 48.5/100
-- **最后更新**: 2026-02-18 17:09
+- **最后更新**: 2026-02-18 17:15
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fastcompany.com | 31 | C | 2026-02-18 17:15 |
+| ico.org.uk | 60 | B | 2026-02-18 17:15 |
+| ssrn.com | 25 | C | 2026-02-18 17:15 |
+| myshopify.com | 42 | C | 2026-02-18 17:15 |
+| soundcloud.com | 66 | B | 2026-02-18 17:15 |
 | lnkd.in | 44 | C | 2026-02-18 17:09 |
 | gemini.google.com | 32 | C | 2026-02-18 17:09 |
 | googleapis.com | 46 | C | 2026-02-18 17:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | slate.com | 46 | C | 2026-02-18 17:07 |
 | g.page | 64 | C | 2026-02-18 17:07 |
 | foursquare.com | 63 | C | 2026-02-18 17:07 |
-| co.com | 78 | A | 2026-02-18 17:07 |
-| zendesk.com | 48 | C | 2026-02-18 17:06 |
-| healthline.com | 47 | C | 2026-02-18 17:06 |
-| coe.int | 43 | C | 2026-02-18 17:05 |
-| technologyreview.com | 32 | C | 2026-02-18 16:16 |
 <!-- EVALUATION_RESULTS_END -->
