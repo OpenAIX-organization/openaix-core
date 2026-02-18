@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 952 个
 - **平均分数**: 48.7/100
-- **最后更新**: 2026-02-18 11:17
+- **最后更新**: 2026-02-18 12:09
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| yahoo.com | 40 | C | 2026-02-18 12:09 |
+| walmart.com | 59 | C | 2026-02-18 12:09 |
+| amazon.co.jp | 42 | C | 2026-02-18 12:08 |
+| cancer.gov | 55 | B | 2026-02-18 12:08 |
+| developers.google.com | 53 | C | 2026-02-18 12:08 |
 | weebly.com | 68 | B | 2026-02-18 11:17 |
 | microsoftonline.com | 0 | ? | 2026-02-18 11:17 |
 | v.qq.com | 30 | C | 2026-02-18 11:17 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | uchicago.edu | 59 | B | 2026-02-18 11:15 |
 | mi.com | 60 | B | 2026-02-18 11:15 |
 | inc.com | 31 | C | 2026-02-18 11:15 |
-| github.com | 64 | C | 2026-02-18 11:09 |
-| appspot.com | 54 | C | 2026-02-18 11:09 |
-| zillow.com | 26 | C | 2026-02-18 11:09 |
-| cloud.microsoft | 68 | B | 2026-02-18 11:09 |
-| wix.com | 51 | C | 2026-02-18 11:09 |
 <!-- EVALUATION_RESULTS_END -->
