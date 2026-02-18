@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 953 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 13:10
+- **最后更新**: 2026-02-18 13:11
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| mega.nz | 38 | C | 2026-02-18 13:11 |
+| ahrefs.com | 55 | C | 2026-02-18 13:11 |
+| elpais.com | 58 | C | 2026-02-18 13:11 |
+| huffpost.com | 39 | C | 2026-02-18 13:10 |
+| engadget.com | 41 | C | 2026-02-18 13:10 |
 | britannica.com | 68 | B | 2026-02-18 13:10 |
 | irs.gov | 70 | B | 2026-02-18 13:10 |
 | entrepreneur.com | 29 | C | 2026-02-18 13:10 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | pnas.org | 24 | C | 2026-02-18 13:08 |
 | lww.com | 22 | C | 2026-02-18 13:08 |
 | mashable.com | 52 | B | 2026-02-18 13:07 |
-| books.google.com | 26 | C | 2026-02-18 12:14 |
-| 500px.com | 32 | C | 2026-02-18 12:14 |
-| vatican.va | 31 | C | 2026-02-18 12:13 |
-| php.net | 68 | B | 2026-02-18 12:10 |
-| yahoo.com | 40 | C | 2026-02-18 12:09 |
 <!-- EVALUATION_RESULTS_END -->
