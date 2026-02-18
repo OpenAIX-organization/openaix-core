@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 953 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 14:07
+- **最后更新**: 2026-02-18 14:16
 
 ### 等级分布
 
@@ -269,8 +269,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| docs.python.org | 76 | A | 2026-02-18 14:16 |
+| altervista.org | 74 | B | 2026-02-18 14:16 |
+| techradar.com | 46 | C | 2026-02-18 14:15 |
+| ucla.edu | 75 | A | 2026-02-18 14:15 |
+| themegrill.com | 53 | B | 2026-02-18 14:15 |
 | telegra.ph | 46 | C | 2026-02-18 14:07 |
-| themegrill.com | 53 | B | 2026-02-18 14:07 |
 | urbandictionary.com | 65 | B | 2026-02-18 14:05 |
 | ea.com | 45 | C | 2026-02-18 14:05 |
 | amazon.fr | 43 | C | 2026-02-18 14:03 |
@@ -279,8 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | duke.edu | 65 | B | 2026-02-18 14:02 |
 | duckduckgo.com | 56 | C | 2026-02-18 14:02 |
 | pinterest.com | 44 | C | 2026-02-18 13:16 |
-| wpastra.com | 51 | C | 2026-02-18 13:15 |
-| scholar.google.com | 29 | C | 2026-02-18 13:15 |
-| accor.com | 0 | ? | 2026-02-18 13:15 |
-| cell.com | 22 | C | 2026-02-18 13:15 |
 <!-- EVALUATION_RESULTS_END -->
