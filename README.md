@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 06:17
+- **最后更新**: 2026-02-19 07:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| pewresearch.org | 48 | C | 2026-02-19 07:07 |
+| dailymail.co.uk | 48 | C | 2026-02-19 07:07 |
+| globo.com | 34 | C | 2026-02-19 07:06 |
+| timeanddate.com | 33 | C | 2026-02-19 07:06 |
+| aarp.org | 57 | B | 2026-02-19 07:06 |
 | zoho.com | 84 | A | 2026-02-19 06:17 |
 | nytimes.com | 43 | C | 2026-02-19 06:17 |
 | unicef.org | 36 | C | 2026-02-19 06:17 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | elegantthemes.com | 50 | C | 2026-02-19 06:10 |
 | wisc.edu | 61 | B | 2026-02-19 06:10 |
 | anchor.fm | 66 | C | 2026-02-19 06:09 |
-| justia.com | 22 | C | 2026-02-19 06:09 |
-| i.imgur.com | 65 | B | 2026-02-19 06:09 |
-| stumbleupon.com | 45 | C | 2026-02-19 06:09 |
-| newyorker.com | 41 | C | 2026-02-19 06:09 |
-| www.ncbi.nlm.nih.gov | 56 | C | 2026-02-19 06:08 |
 <!-- EVALUATION_RESULTS_END -->
