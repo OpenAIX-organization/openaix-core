@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 960 个
 - **平均分数**: 48.4/100
-- **最后更新**: 2026-02-18 22:08
+- **最后更新**: 2026-02-18 22:10
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| pnas.org | 24 | C | 2026-02-18 22:10 |
+| jamanetwork.com | 22 | C | 2026-02-18 22:09 |
+| foxnews.com | 51 | C | 2026-02-18 22:09 |
+| ucdavis.edu | 68 | B | 2026-02-18 22:09 |
+| vimeo.com | 45 | C | 2026-02-18 22:09 |
 | qualtrics.com | 62 | B | 2026-02-18 22:08 |
 | princeton.edu | 0 | ? | 2026-02-18 22:08 |
 | kernel.org | 78 | A | 2026-02-18 22:08 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | workspaceupdates.googleblog. | 40 | C | 2026-02-18 21:08 |
 | i.imgur.com | 65 | B | 2026-02-18 21:08 |
 | gamespot.com | 24 | C | 2026-02-18 21:08 |
-| iheart.com | 50 | C | 2026-02-18 21:08 |
-| weforum.org | 49 | C | 2026-02-18 21:07 |
-| appspot.com | 54 | C | 2026-02-18 21:07 |
-| sedo.com | 48 | C | 2026-02-18 21:07 |
-| matomo.org | 64 | C | 2026-02-18 21:06 |
 <!-- EVALUATION_RESULTS_END -->
