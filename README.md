@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 964 个
 - **平均分数**: 48.3/100
-- **最后更新**: 2026-02-19 01:18
+- **最后更新**: 2026-02-19 02:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| zillow.com | 26 | C | 2026-02-19 02:08 |
+| steampowered.com | 42 | C | 2026-02-19 02:07 |
+| hhs.gov | 53 | C | 2026-02-19 02:07 |
+| quora.com | 22 | C | 2026-02-19 02:07 |
+| web.archive.org | 37 | C | 2026-02-19 02:07 |
 | launchpad.net | 70 | B | 2026-02-19 01:18 |
 | lefigaro.fr | 48 | C | 2026-02-19 01:18 |
 | discord.gg | 73 | C | 2026-02-19 01:18 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | automattic.com | 64 | B | 2026-02-19 01:16 |
 | naver.com | 32 | C | 2026-02-19 01:16 |
 | eepurl.com | 75 | A | 2026-02-19 01:16 |
-| play.google.com | 34 | C | 2026-02-19 01:16 |
-| beian.miit.gov.cn | 30 | C | 2026-02-19 01:16 |
-| npr.org | 49 | C | 2026-02-19 01:15 |
-| youronlinechoices.com | 73 | A | 2026-02-19 01:15 |
-| thenai.org | 55 | B | 2026-02-19 01:15 |
 <!-- EVALUATION_RESULTS_END -->
