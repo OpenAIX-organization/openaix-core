@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 959 个
 - **平均分数**: 48.4/100
-- **最后更新**: 2026-02-18 21:07
+- **最后更新**: 2026-02-18 21:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| google.ru | 26 | C | 2026-02-18 21:08 |
+| workspaceupdates.googleblog. | 40 | C | 2026-02-18 21:08 |
+| i.imgur.com | 65 | B | 2026-02-18 21:08 |
+| gamespot.com | 24 | C | 2026-02-18 21:08 |
+| iheart.com | 50 | C | 2026-02-18 21:08 |
 | weforum.org | 49 | C | 2026-02-18 21:07 |
 | appspot.com | 54 | C | 2026-02-18 21:07 |
 | sedo.com | 48 | C | 2026-02-18 21:07 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gemini.google.com | 32 | C | 2026-02-18 20:15 |
 | youtube-nocookie.com | 0 | ? | 2026-02-18 20:15 |
 | or.id | 0 | ? | 2026-02-18 20:15 |
-| gravatar.com | 49 | C | 2026-02-18 20:15 |
-| hbr.org | 51 | C | 2026-02-18 20:09 |
-| vmware.com | 32 | C | 2026-02-18 20:08 |
-| mailchi.mp | 53 | C | 2026-02-18 20:08 |
-| northwestern.edu | 75 | A | 2026-02-18 20:08 |
 <!-- EVALUATION_RESULTS_END -->
