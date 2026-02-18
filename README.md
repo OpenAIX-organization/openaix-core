@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 961 个
 - **平均分数**: 48.3/100
-- **最后更新**: 2026-02-19 00:07
+- **最后更新**: 2026-02-19 00:09
 
 ### 等级分布
 
@@ -269,18 +269,18 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| archives.gov | 61 | B | 2026-02-19 00:09 |
+| sina.com.cn | 49 | C | 2026-02-19 00:09 |
+| youtube.com | 38 | C | 2026-02-19 00:09 |
+| policies.google.com | 42 | C | 2026-02-19 00:09 |
+| salon.com | 62 | B | 2026-02-19 00:08 |
+| business.safety.google | 66 | B | 2026-02-19 00:08 |
+| yahoo.com | 40 | C | 2026-02-19 00:08 |
+| wpa.qq.com | 54 | B | 2026-02-19 00:08 |
+| pixabay.com | 22 | C | 2026-02-19 00:08 |
+| nih.gov | 50 | C | 2026-02-19 00:08 |
+| baidu.com | 32 | C | 2026-02-19 00:08 |
 | sciencedirect.com | 40 | C | 2026-02-19 00:07 |
 | vercel.app | 65 | C | 2026-02-19 00:07 |
 | buydomains.com | 22 | C | 2026-02-19 00:07 |
-| uiuc.edu | 69 | B | 2026-02-19 00:07 |
-| mail.google.com | 38 | C | 2026-02-19 00:06 |
-| lefigaro.fr | 48 | C | 2026-02-18 23:15 |
-| archives.gov | 61 | B | 2026-02-18 23:15 |
-| plus.google.com | 66 | C | 2026-02-18 23:15 |
-| beian.gov.cn | 0 | ? | 2026-02-18 23:15 |
-| dx.doi.org | 64 | B | 2026-02-18 23:15 |
-| lemonde.fr | 50 | C | 2026-02-18 23:09 |
-| caltech.edu | 65 | B | 2026-02-18 23:08 |
-| mailinabox.email | 53 | C | 2026-02-18 23:08 |
-| fda.gov | 71 | A | 2026-02-18 23:08 |
 <!-- EVALUATION_RESULTS_END -->
