@@ -269,6 +269,8 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| m.facebook.com | 50 | C | 2026-02-18 13:11 |
+| teamviewer.com | 31 | C | 2026-02-18 13:11 |
 | mega.nz | 38 | C | 2026-02-18 13:11 |
 | ahrefs.com | 55 | C | 2026-02-18 13:11 |
 | elpais.com | 58 | C | 2026-02-18 13:11 |
@@ -281,6 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | tandfonline.com | 22 | C | 2026-02-18 13:10 |
 | shorturl.at | 22 | C | 2026-02-18 13:10 |
 | pnas.org | 24 | C | 2026-02-18 13:08 |
-| lww.com | 22 | C | 2026-02-18 13:08 |
-| mashable.com | 52 | B | 2026-02-18 13:07 |
 <!-- EVALUATION_RESULTS_END -->
