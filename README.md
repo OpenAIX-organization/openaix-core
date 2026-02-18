@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 953 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 15:06
+- **最后更新**: 2026-02-18 15:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| wikihow.com | 50 | C | 2026-02-18 15:08 |
+| fc2.com | 62 | B | 2026-02-18 15:08 |
+| drupal.org | 56 | B | 2026-02-18 15:08 |
+| slashdot.org | 26 | C | 2026-02-18 15:07 |
+| nytimes.com | 43 | C | 2026-02-18 15:07 |
 | isc.org | 56 | B | 2026-02-18 15:06 |
 | senate.gov | 70 | B | 2026-02-18 15:06 |
 | linear.app | 63 | C | 2026-02-18 15:06 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | altervista.org | 74 | B | 2026-02-18 14:16 |
 | techradar.com | 46 | C | 2026-02-18 14:15 |
 | ucla.edu | 75 | A | 2026-02-18 14:15 |
-| themegrill.com | 53 | B | 2026-02-18 14:15 |
-| telegra.ph | 46 | C | 2026-02-18 14:07 |
-| urbandictionary.com | 65 | B | 2026-02-18 14:05 |
-| ea.com | 45 | C | 2026-02-18 14:05 |
-| amazon.fr | 43 | C | 2026-02-18 14:03 |
 <!-- EVALUATION_RESULTS_END -->
