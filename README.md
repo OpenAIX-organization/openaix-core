@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 961 个
 - **平均分数**: 48.3/100
-- **最后更新**: 2026-02-18 23:07
+- **最后更新**: 2026-02-18 23:09
 
 ### 等级分布
 
@@ -269,6 +269,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| lemonde.fr | 50 | C | 2026-02-18 23:09 |
+| caltech.edu | 65 | B | 2026-02-18 23:08 |
+| mailinabox.email | 53 | C | 2026-02-18 23:08 |
+| fda.gov | 71 | A | 2026-02-18 23:08 |
 | docs.python.org | 76 | A | 2026-02-18 23:07 |
 | docs.npmjs.com | 42 | C | 2026-02-18 23:07 |
 | forbes.com | 43 | C | 2026-02-18 23:07 |
@@ -278,9 +282,5 @@ MIT © [OpenAIX.org](https://openaix.org)
 | miit.gov.cn | 0 | ? | 2026-02-18 22:16 |
 | indiegogo.com | 24 | C | 2026-02-18 22:16 |
 | acs.org | 36 | C | 2026-02-18 22:16 |
-| caltech.edu | 65 | B | 2026-02-18 22:16 |
 | rollingstone.com | 41 | C | 2026-02-18 22:15 |
-| redhat.com | 46 | C | 2026-02-18 22:15 |
-| ucla.edu | 75 | A | 2026-02-18 22:15 |
-| pnas.org | 24 | C | 2026-02-18 22:10 |
 <!-- EVALUATION_RESULTS_END -->
