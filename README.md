@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 951 个
 - **平均分数**: 48.7/100
-- **最后更新**: 2026-02-18 10:12
+- **最后更新**: 2026-02-18 11:09
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| github.com | 64 | C | 2026-02-18 11:09 |
+| appspot.com | 54 | C | 2026-02-18 11:09 |
+| zillow.com | 26 | C | 2026-02-18 11:09 |
+| cloud.microsoft | 68 | B | 2026-02-18 11:09 |
+| wix.com | 51 | C | 2026-02-18 11:09 |
 | berkeley.edu | 70 | B | 2026-02-18 10:12 |
 | en.wikipedia.org | 71 | A | 2026-02-18 10:12 |
 | de.wikipedia.org | 64 | B | 2026-02-18 10:12 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | qualtrics.com | 62 | B | 2026-02-18 10:10 |
 | themeisle.com | 58 | B | 2026-02-18 10:10 |
 | twimg.com | 0 | ? | 2026-02-18 10:10 |
-| vice.com | 55 | B | 2026-02-18 10:10 |
-| anchor.fm | 66 | C | 2026-02-18 09:16 |
-| youtu.be | 46 | C | 2026-02-18 09:15 |
-| isc.org | 56 | B | 2026-02-18 09:15 |
-| wp.com | 59 | B | 2026-02-18 09:15 |
 <!-- EVALUATION_RESULTS_END -->
