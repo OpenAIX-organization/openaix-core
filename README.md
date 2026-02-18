@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 957 个
 - **平均分数**: 48.5/100
-- **最后更新**: 2026-02-18 19:09
+- **最后更新**: 2026-02-18 19:10
 
 ### 等级分布
 
@@ -269,6 +269,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| prezi.com | 48 | C | 2026-02-18 19:10 |
+| google.ca | 26 | C | 2026-02-18 19:10 |
+| thetimes.co.uk | 0 | ? | 2026-02-18 19:10 |
+| yahoo.co.jp | 55 | B | 2026-02-18 19:10 |
+| postgresql.org | 78 | A | 2026-02-18 19:10 |
+| maps.google.com | 24 | C | 2026-02-18 19:09 |
 | aboutcookies.org | 48 | C | 2026-02-18 19:09 |
 | uci.edu | 54 | B | 2026-02-18 19:08 |
 | upenn.edu | 63 | B | 2026-02-18 19:08 |
@@ -277,10 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | att.com | 55 | C | 2026-02-18 18:16 |
 | cpan.org | 72 | A | 2026-02-18 18:15 |
 | dev.to | 54 | C | 2026-02-18 18:15 |
-| support.google.com | 53 | C | 2026-02-18 18:15 |
-| lua.org | 63 | B | 2026-02-18 18:08 |
-| expireddomains.com | 22 | C | 2026-02-18 18:08 |
-| last.fm | 63 | B | 2026-02-18 18:08 |
-| meetup.com | 63 | B | 2026-02-18 18:08 |
-| statcounter.com | 66 | C | 2026-02-18 18:08 |
 <!-- EVALUATION_RESULTS_END -->
