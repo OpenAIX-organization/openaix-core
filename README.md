@@ -269,6 +269,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| e-recht24.de | 76 | A | 2026-02-19 00:09 |
 | archives.gov | 61 | B | 2026-02-19 00:09 |
 | sina.com.cn | 49 | C | 2026-02-19 00:09 |
 | youtube.com | 38 | C | 2026-02-19 00:09 |
@@ -282,5 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | baidu.com | 32 | C | 2026-02-19 00:08 |
 | sciencedirect.com | 40 | C | 2026-02-19 00:07 |
 | vercel.app | 65 | C | 2026-02-19 00:07 |
-| buydomains.com | 22 | C | 2026-02-19 00:07 |
 <!-- EVALUATION_RESULTS_END -->
