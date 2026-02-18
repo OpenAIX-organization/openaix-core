@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 954 个
 - **平均分数**: 48.6/100
-- **最后更新**: 2026-02-18 16:08
+- **最后更新**: 2026-02-18 16:10
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| booking.com | 36 | C | 2026-02-18 16:10 |
+| edx.org | 45 | C | 2026-02-18 16:09 |
+| aboutcookies.org | 48 | C | 2026-02-18 16:09 |
+| slideshare.net | 48 | C | 2026-02-18 16:09 |
+| technologyreview.com | 32 | C | 2026-02-18 16:08 |
 | digitaltrends.com | 37 | C | 2026-02-18 16:08 |
 | plos.org | 57 | C | 2026-02-18 16:07 |
 | dot.gov | 61 | B | 2026-02-18 16:07 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gartner.com | 60 | B | 2026-02-18 15:17 |
 | indiana.edu | 49 | C | 2026-02-18 15:15 |
 | heise.de | 48 | C | 2026-02-18 15:15 |
-| ilo.org | 52 | C | 2026-02-18 15:10 |
-| amazon.de | 43 | C | 2026-02-18 15:09 |
-| in.net | 0 | ? | 2026-02-18 15:09 |
-| live.com | 41 | C | 2026-02-18 15:09 |
-| discord.gg | 73 | C | 2026-02-18 15:09 |
 <!-- EVALUATION_RESULTS_END -->
