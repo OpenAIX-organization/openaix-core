@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 956 个
 - **平均分数**: 48.5/100
-- **最后更新**: 2026-02-18 17:15
+- **最后更新**: 2026-02-18 18:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| w3schools.com | 41 | C | 2026-02-18 18:07 |
+| justia.com | 22 | C | 2026-02-18 18:06 |
+| lefigaro.fr | 48 | C | 2026-02-18 18:06 |
+| wordpress.org | 62 | B | 2026-02-18 18:06 |
+| bmj.com | 36 | C | 2026-02-18 18:06 |
 | fastcompany.com | 31 | C | 2026-02-18 17:15 |
 | ico.org.uk | 60 | B | 2026-02-18 17:15 |
 | ssrn.com | 25 | C | 2026-02-18 17:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gemini.google.com | 32 | C | 2026-02-18 17:09 |
 | googleapis.com | 46 | C | 2026-02-18 17:09 |
 | goo.gl | 43 | C | 2026-02-18 17:08 |
-| columbia.edu | 22 | C | 2026-02-18 17:08 |
-| thetimes.co.uk | 0 | ? | 2026-02-18 17:07 |
-| slate.com | 46 | C | 2026-02-18 17:07 |
-| g.page | 64 | C | 2026-02-18 17:07 |
-| foursquare.com | 63 | C | 2026-02-18 17:07 |
 <!-- EVALUATION_RESULTS_END -->
