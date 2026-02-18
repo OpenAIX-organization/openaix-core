@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 964 个
 - **平均分数**: 48.3/100
-- **最后更新**: 2026-02-19 01:16
+- **最后更新**: 2026-02-19 01:17
 
 ### 等级分布
 
@@ -269,6 +269,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fiverr.com | 65 | B | 2026-02-19 01:17 |
+| networkadvertising.org | 55 | B | 2026-02-19 01:17 |
+| federalregister.gov | 66 | B | 2026-02-19 01:16 |
 | automattic.com | 64 | B | 2026-02-19 01:16 |
 | naver.com | 32 | C | 2026-02-19 01:16 |
 | eepurl.com | 75 | A | 2026-02-19 01:16 |
@@ -280,7 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | huggingface.co | 52 | C | 2026-02-19 01:07 |
 | sfgate.com | 26 | C | 2026-02-19 01:07 |
 | urldefense.com | 44 | C | 2026-02-19 01:07 |
-| history.com | 45 | C | 2026-02-19 01:07 |
-| scientificamerican.com | 48 | C | 2026-02-19 01:07 |
-| thesun.co.uk | 33 | C | 2026-02-19 01:06 |
 <!-- EVALUATION_RESULTS_END -->
