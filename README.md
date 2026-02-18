@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 957 个
 - **平均分数**: 48.5/100
-- **最后更新**: 2026-02-18 18:08
+- **最后更新**: 2026-02-18 18:16
 
 ### 等级分布
 
@@ -269,6 +269,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| att.com | 55 | C | 2026-02-18 18:16 |
+| cpan.org | 72 | A | 2026-02-18 18:15 |
+| dev.to | 54 | C | 2026-02-18 18:15 |
+| support.google.com | 53 | C | 2026-02-18 18:15 |
 | lua.org | 63 | B | 2026-02-18 18:08 |
 | expireddomains.com | 22 | C | 2026-02-18 18:08 |
 | last.fm | 63 | B | 2026-02-18 18:08 |
@@ -279,8 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | lefigaro.fr | 48 | C | 2026-02-18 18:06 |
 | wordpress.org | 62 | B | 2026-02-18 18:06 |
 | bmj.com | 36 | C | 2026-02-18 18:06 |
-| fastcompany.com | 31 | C | 2026-02-18 17:15 |
-| ico.org.uk | 60 | B | 2026-02-18 17:15 |
-| ssrn.com | 25 | C | 2026-02-18 17:15 |
-| myshopify.com | 42 | C | 2026-02-18 17:15 |
 <!-- EVALUATION_RESULTS_END -->
