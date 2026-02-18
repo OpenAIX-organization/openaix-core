@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 05:17
+- **最后更新**: 2026-02-19 06:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| www.ncbi.nlm.nih.gov | 56 | C | 2026-02-19 06:08 |
+| paypal.me | 53 | C | 2026-02-19 06:08 |
+| ilo.org | 52 | C | 2026-02-19 06:08 |
+| princeton.edu | 0 | ? | 2026-02-19 06:07 |
+| venturebeat.com | 27 | C | 2026-02-19 06:07 |
 | mysql.com | 59 | B | 2026-02-19 05:15 |
 | automattic.com | 64 | B | 2026-02-19 05:15 |
 | yp.to | 0 | ? | 2026-02-19 05:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | eurekalert.org | 64 | B | 2026-02-19 05:09 |
 | unsplash.com | 49 | C | 2026-02-19 05:09 |
 | newscientist.com | 37 | C | 2026-02-19 05:09 |
-| plos.org | 57 | C | 2026-02-19 05:06 |
-| nyu.edu | 39 | C | 2026-02-19 05:06 |
-| techtarget.com | 52 | B | 2026-02-19 05:06 |
-| justice.gov | 0 | ? | 2026-02-19 05:06 |
-| medlineplus.gov | 70 | B | 2026-02-19 04:16 |
 <!-- EVALUATION_RESULTS_END -->
