@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 951 个
 - **平均分数**: 48.7/100
-- **最后更新**: 2026-02-18 09:16
+- **最后更新**: 2026-02-18 10:10
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| google.cn | 66 | B | 2026-02-18 10:10 |
+| qualtrics.com | 62 | B | 2026-02-18 10:10 |
+| themeisle.com | 58 | B | 2026-02-18 10:10 |
+| twimg.com | 0 | ? | 2026-02-18 10:10 |
+| vice.com | 55 | B | 2026-02-18 10:10 |
 | anchor.fm | 66 | C | 2026-02-18 09:16 |
 | youtu.be | 46 | C | 2026-02-18 09:15 |
 | isc.org | 56 | B | 2026-02-18 09:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | dropbox.com | 53 | C | 2026-02-18 09:12 |
 | spotify.com | 56 | B | 2026-02-18 09:11 |
 | deezer.com | 57 | C | 2026-02-18 09:11 |
-| workspaceupdates.googleblog. | 40 | C | 2026-02-18 09:11 |
-| ca.gov | 55 | B | 2026-02-18 09:10 |
-| deadline.com | 53 | B | 2026-02-18 09:10 |
-| lefigaro.fr | 48 | C | 2026-02-18 09:10 |
-| nps.gov | 67 | B | 2026-02-18 09:10 |
 <!-- EVALUATION_RESULTS_END -->
