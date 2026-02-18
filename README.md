@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 951 个
 - **平均分数**: 48.7/100
-- **最后更新**: 2026-02-18 08:09
+- **最后更新**: 2026-02-18 08:13
 
 ### 等级分布
 
@@ -269,6 +269,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fcc.gov | 61 | B | 2026-02-18 08:13 |
+| dev.to | 51 | C | 2026-02-18 08:11 |
+| hopkinsmedicine.org | 36 | C | 2026-02-18 08:11 |
+| pitt.edu | 62 | B | 2026-02-18 08:11 |
+| caniuse.com | 67 | B | 2026-02-18 08:11 |
+| opensource.org | 58 | B | 2026-02-18 08:10 |
+| libsyn.com | 62 | B | 2026-02-18 08:10 |
 | jd.com | 60 | B | 2026-02-18 08:09 |
 | hyatt.com | 31 | C | 2026-02-18 08:08 |
 | caltech.edu | 65 | B | 2026-02-18 08:08 |
@@ -276,11 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | beian.miit.gov.cn | 30 | C | 2026-02-18 08:08 |
 | dmoz.org | 0 | ? | 2026-02-18 08:08 |
 | meetup.com | 63 | B | 2026-02-18 08:07 |
-| verizon.com | 63 | B | 2026-02-18 08:07 |
-| notion.site | 65 | B | 2026-02-18 07:16 |
-| firefox.com | 71 | A | 2026-02-18 07:16 |
-| colorado.edu | 68 | B | 2026-02-18 07:16 |
-| europa.eu | 54 | B | 2026-02-18 07:16 |
-| jhu.edu | 36 | C | 2026-02-18 07:16 |
-| unfccc.int | 53 | C | 2026-02-18 07:15 |
 <!-- EVALUATION_RESULTS_END -->
