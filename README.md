@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 961 个
 - **平均分数**: 48.3/100
-- **最后更新**: 2026-02-18 22:16
+- **最后更新**: 2026-02-18 23:07
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| docs.python.org | 76 | A | 2026-02-18 23:07 |
+| docs.npmjs.com | 42 | C | 2026-02-18 23:07 |
+| forbes.com | 43 | C | 2026-02-18 23:07 |
+| validator.w3.org | 69 | B | 2026-02-18 23:07 |
+| fb.watch | 32 | C | 2026-02-18 23:06 |
 | ico.org.uk | 60 | B | 2026-02-18 22:16 |
 | miit.gov.cn | 0 | ? | 2026-02-18 22:16 |
 | indiegogo.com | 24 | C | 2026-02-18 22:16 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | redhat.com | 46 | C | 2026-02-18 22:15 |
 | ucla.edu | 75 | A | 2026-02-18 22:15 |
 | pnas.org | 24 | C | 2026-02-18 22:10 |
-| jamanetwork.com | 22 | C | 2026-02-18 22:09 |
-| foxnews.com | 51 | C | 2026-02-18 22:09 |
-| ucdavis.edu | 68 | B | 2026-02-18 22:09 |
-| vimeo.com | 45 | C | 2026-02-18 22:09 |
-| qualtrics.com | 62 | B | 2026-02-18 22:08 |
 <!-- EVALUATION_RESULTS_END -->
