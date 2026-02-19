@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 18:16
+- **最后更新**: 2026-02-19 19:06
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| livejournal.com | 57 | B | 2026-02-19 19:06 |
+| nextjs.org | 59 | C | 2026-02-19 19:06 |
+| meetup.com | 63 | B | 2026-02-19 19:06 |
+| journals.lww.com | 22 | C | 2026-02-19 19:06 |
+| open.spotify.com | 46 | C | 2026-02-19 19:06 |
 | haxx.se | 48 | C | 2026-02-19 18:16 |
 | m.facebook.com | 43 | C | 2026-02-19 18:16 |
 | nbcnews.com | 37 | C | 2026-02-19 18:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | faqs.org | 0 | ? | 2026-02-19 18:08 |
 | ey.com | 60 | B | 2026-02-19 18:08 |
 | ted.com | 33 | C | 2026-02-19 18:08 |
-| arxiv.org | 53 | C | 2026-02-19 18:07 |
-| cdc.gov | 70 | A | 2026-02-19 18:07 |
-| heise.de | 47 | C | 2026-02-19 18:07 |
-| or.kr | 0 | ? | 2026-02-19 18:06 |
-| medicalnewstoday.com | 39 | C | 2026-02-19 18:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
