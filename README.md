@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 07:15
+- **最后更新**: 2026-02-19 08:11
 
 ### 等级分布
 
@@ -269,18 +269,18 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| ucl.ac.uk | 52 | C | 2026-02-19 08:11 |
+| nypost.com | 45 | C | 2026-02-19 08:11 |
+| bund.de | 36 | C | 2026-02-19 08:10 |
+| engadget.com | 41 | C | 2026-02-19 08:10 |
+| weforum.org | 49 | C | 2026-02-19 08:10 |
+| aliexpress.com | 37 | C | 2026-02-19 08:09 |
+| heylink.me | 24 | C | 2026-02-19 08:09 |
+| pcworld.com | 38 | C | 2026-02-19 08:09 |
+| unicef.org | 35 | C | 2026-02-19 08:09 |
 | tandfonline.com | 23 | C | 2026-02-19 07:15 |
 | purdue.edu | 55 | B | 2026-02-19 07:15 |
 | lonelyplanet.com | 64 | B | 2026-02-19 07:15 |
 | ccc.de | 68 | B | 2026-02-19 07:15 |
 | themegrill.com | 53 | B | 2026-02-19 07:15 |
-| nsw.gov.au | 64 | C | 2026-02-19 07:08 |
-| mailchi.mp | 53 | C | 2026-02-19 07:08 |
-| sun.com | 64 | B | 2026-02-19 07:08 |
-| aws.amazon.com | 60 | C | 2026-02-19 07:08 |
-| pewresearch.org | 48 | C | 2026-02-19 07:07 |
-| dailymail.co.uk | 48 | C | 2026-02-19 07:07 |
-| globo.com | 34 | C | 2026-02-19 07:06 |
-| timeanddate.com | 33 | C | 2026-02-19 07:06 |
-| aarp.org | 57 | B | 2026-02-19 07:06 |
 <!-- EVALUATION_RESULTS_END -->
