@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-20 03:07
+- **最后更新**: 2026-02-20 03:09
 
 ### 等级分布
 
@@ -278,6 +278,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| www.ncbi.nlm.nih.gov | 56 | C | 2026-02-20 03:09 |
+| hyatt.com | 31 | C | 2026-02-20 03:09 |
+| fb.com | 42 | C | 2026-02-20 03:09 |
+| thenai.org | 55 | B | 2026-02-20 03:08 |
 | vmware.com | 32 | C | 2026-02-20 03:07 |
 | lego.com | 22 | C | 2026-02-20 03:07 |
 | imdb.com | 30 | C | 2026-02-20 03:07 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | brookings.edu | 49 | C | 2026-02-20 02:18 |
 | mystrikingly.com | 52 | C | 2026-02-20 02:18 |
 | gartner.com | 60 | B | 2026-02-20 02:18 |
-| congress.gov | 24 | C | 2026-02-20 02:17 |
-| coursera.org | 48 | C | 2026-02-20 02:17 |
-| zhihu.com | 48 | C | 2026-02-20 02:17 |
-| mixcloud.com | 37 | C | 2026-02-20 02:17 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
