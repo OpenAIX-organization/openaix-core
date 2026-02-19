@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 972 个
 - **平均分数**: 48.0/100
-- **最后更新**: 2026-02-19 14:08
+- **最后更新**: 2026-02-19 14:11
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| 4.bp.blogspot.com | 36 | C | 2026-02-19 14:11 |
+| thenai.org | 55 | B | 2026-02-19 14:10 |
+| buzzfeed.com | 39 | C | 2026-02-19 14:10 |
+| www.gov.cn | 43 | C | 2026-02-19 14:09 |
+| curl.se | 47 | C | 2026-02-19 14:09 |
 | slack.com | 62 | B | 2026-02-19 14:08 |
 | v.qq.com | 30 | C | 2026-02-19 14:08 |
 | mediafire.com | 27 | C | 2026-02-19 14:07 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | books.google.com | 26 | C | 2026-02-19 13:15 |
 | developer.mozilla.org | 57 | C | 2026-02-19 13:15 |
 | pcmag.com | 56 | B | 2026-02-19 13:15 |
-| miitbeian.gov.cn | 0 | ? | 2026-02-19 13:15 |
-| example.com | 0 | ? | 2026-02-19 13:08 |
-| wixsite.com | 0 | ? | 2026-02-19 13:08 |
-| oup.com | 56 | B | 2026-02-19 13:08 |
-| semrush.com | 68 | B | 2026-02-19 13:08 |
 <!-- EVALUATION_RESULTS_END -->
