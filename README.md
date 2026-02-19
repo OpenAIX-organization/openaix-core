@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 969 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 10:10
+- **最后更新**: 2026-02-19 10:11
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| bund.de | 36 | C | 2026-02-19 10:11 |
+| faqs.org | 0 | ? | 2026-02-19 10:11 |
+| on.ca | 0 | ? | 2026-02-19 10:11 |
+| cambridge.org | 50 | C | 2026-02-19 10:11 |
+| stackoverflow.com | 52 | C | 2026-02-19 10:10 |
 | gnu.org | 69 | B | 2026-02-19 10:10 |
 | google.ca | 26 | C | 2026-02-19 10:10 |
 | docs.python.org | 76 | A | 2026-02-19 10:10 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | service.gov.uk | 62 | C | 2026-02-19 09:15 |
 | prnewswire.com | 66 | B | 2026-02-19 09:15 |
 | arizona.edu | 71 | B | 2026-02-19 09:15 |
-| buydomains.com | 22 | C | 2026-02-19 09:15 |
-| debian.org | 70 | B | 2026-02-19 09:11 |
-| dx.doi.org | 64 | B | 2026-02-19 09:11 |
-| iana.org | 73 | A | 2026-02-19 09:11 |
-| trendmicro.com | 53 | B | 2026-02-19 09:10 |
 <!-- EVALUATION_RESULTS_END -->
