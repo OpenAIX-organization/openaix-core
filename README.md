@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 08:17
+- **最后更新**: 2026-02-19 09:09
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| launchpad.net | 70 | B | 2026-02-19 09:09 |
+| teamviewer.com | 31 | C | 2026-02-19 09:09 |
+| support.microsoft.com | 58 | B | 2026-02-19 09:09 |
+| harvard.edu | 66 | B | 2026-02-19 09:08 |
+| cn.com | 56 | C | 2026-02-19 09:08 |
 | platform.openai.com | 15 | C | 2026-02-19 08:17 |
 | unep.org | 63 | B | 2026-02-19 08:17 |
 | bitnami.com | 52 | C | 2026-02-19 08:16 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | pubmed.ncbi.nlm.nih.gov | 59 | B | 2026-02-19 08:16 |
 | behance.net | 22 | C | 2026-02-19 08:16 |
 | gofundme.com | 50 | C | 2026-02-19 08:16 |
-| slideshare.net | 48 | C | 2026-02-19 08:16 |
-| purdue.edu | 55 | B | 2026-02-19 08:15 |
-| utoronto.ca | 63 | B | 2026-02-19 08:15 |
-| spotify.com | 56 | B | 2026-02-19 08:13 |
-| nih.gov | 50 | C | 2026-02-19 08:13 |
 <!-- EVALUATION_RESULTS_END -->
