@@ -15,22 +15,17 @@ from .dimensions import (
 from .site_type import SiteTypeDetector
 from .weights import get_weights, get_site_description
 from .utils import normalize_url, get_timestamp
+from .dynamic_ranking import DynamicRanker
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
 logger = logging.getLogger('openaix')
 
 
 class OpenAIXScorer:
-    """Evaluates AI Experience (AIX) of websites with dynamic weights."""
-    
-    THRESHOLDS = {
-        'silicon_native': 85,
-        'agent_friendly': 70,
-        'human_optimized': 50,
-    }
+    """Evaluates AI Experience (AIX) of websites with dynamic weights and ranking."""
     
     def __init__(self, timeout: int = 10, rate_limit: float = 1.0, 
-                 multi_page: bool = True):
+                 multi_page: bool = True, history_dir: str = 'data/evaluations'):
         self.timeout = timeout
         self.rate_limit = rate_limit
         self.multi_page = multi_page
@@ -45,6 +40,7 @@ class OpenAIXScorer:
         self.permissions_analyzer = PermissionsAnalyzer(self.session, timeout)
         self.api_analyzer = APIAvailabilityAnalyzer(timeout)
         self.site_detector = SiteTypeDetector()
+        self.ranker = DynamicRanker(history_dir)
     
     def score(self, url: str) -> Dict[str, Any]:
         """Score a website with multi-page sampling and dynamic weights."""
@@ -109,6 +105,11 @@ class OpenAIXScorer:
             'score': final_score,
             'grade': grade_info['grade'],
             'class': grade_info['class'],
+            'rank_info': {
+                'percentile': grade_info.get('percentile', 'N/A'),
+                'rank': grade_info.get('rank', 'N/A'),
+                'total_samples': self.ranker.get_percentile_thresholds().get('total_samples', 0)
+            },
             'site_type': {
                 'type': site_type,
                 'description': get_site_description(site_type),
@@ -224,29 +225,26 @@ class OpenAIXScorer:
             )
     
     def _calculate_grade(self, score: int) -> Dict[str, str]:
-        """Calculate letter grade from score."""
-        if score >= self.THRESHOLDS['silicon_native']:
-            return {'grade': 'Class S (Silicon Native)', 'class': 'Silicon Native'}
-        elif score >= self.THRESHOLDS['agent_friendly']:
-            return {'grade': 'Class A (Agent Friendly)', 'class': 'Agent Friendly'}
-        elif score >= self.THRESHOLDS['human_optimized']:
-            return {'grade': 'Class B (Human Optimized)', 'class': 'Human Optimized'}
-        else:
-            return {'grade': 'Class C (Needs Improvement)', 'class': 'Needs Improvement'}
+        """Calculate grade using dynamic percentile ranking."""
+        return self.ranker.calculate_grade(score)
     
     def _generate_suggestions(self, dimensions: Dict, total_score: int, 
                              site_type: str) -> List[str]:
-        """Generate improvement suggestions."""
+        """Generate improvement suggestions based on dynamic grade."""
         suggestions = []
         
-        if total_score >= 85:
-            suggestions.append("✨ Silicon Native! Excellent for AI agents.")
-        elif total_score >= 70:
-            suggestions.append("✅ Agent Friendly. Good structure and API access.")
-        elif total_score >= 50:
-            suggestions.append("⚠️ Acceptable but has improvement opportunities.")
+        # Get dynamic grade info
+        grade_info = self._calculate_grade(total_score)
+        short_grade = grade_info.get('short_grade', 'C')
+        
+        if short_grade == 'S':
+            suggestions.append("✨ Class S - Silicon Native! Top 2% AI experience.")
+        elif short_grade == 'A':
+            suggestions.append("✅ Class A - Agent Friendly. Top 20% performance.")
+        elif short_grade == 'B':
+            suggestions.append("⚠️ Class B - Human Optimized. Top 50%, room to improve.")
         else:
-            suggestions.append("🔧 Needs significant improvements.")
+            suggestions.append("🔧 Class C - Needs Improvement. Bottom 50%.")
         
         # Dimension-specific suggestions
         if dimensions['snr']['score'] < 30:
