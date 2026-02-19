@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 970 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 12:16
+- **最后更新**: 2026-02-19 13:05
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| healthline.com | 47 | C | 2026-02-19 13:05 |
+| colorado.edu | 68 | B | 2026-02-19 13:05 |
+| redis.io | 49 | C | 2026-02-19 13:05 |
+| wiley.com | 35 | C | 2026-02-19 13:05 |
+| jhu.edu | 35 | C | 2026-02-19 13:05 |
 | nps.gov | 67 | B | 2026-02-19 12:16 |
 | deviantart.com | 66 | B | 2026-02-19 12:15 |
 | history.com | 45 | C | 2026-02-19 12:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | fedoraproject.org | 48 | C | 2026-02-19 12:08 |
 | ilo.org | 52 | C | 2026-02-19 12:08 |
 | wa.link | 69 | B | 2026-02-19 12:08 |
-| termsfeed.com | 24 | C | 2026-02-19 12:07 |
-| state.gov | 60 | B | 2026-02-19 12:07 |
-| ovhcloud.com | 52 | C | 2026-02-19 12:07 |
-| php.net | 68 | B | 2026-02-19 12:06 |
-| newsweek.com | 37 | C | 2026-02-19 12:06 |
 <!-- EVALUATION_RESULTS_END -->
