@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 16:07
+- **最后更新**: 2026-02-19 16:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| pages.dev | 62 | C | 2026-02-19 16:09 |
+| mozilla.org | 73 | A | 2026-02-19 16:09 |
+| france24.com | 53 | B | 2026-02-19 16:08 |
+| jotform.com | 60 | C | 2026-02-19 16:08 |
+| sohu.com | 55 | B | 2026-02-19 16:08 |
 | dailymotion.com | 52 | C | 2026-02-19 16:07 |
 | flickr.com | 58 | C | 2026-02-19 16:07 |
 | arstechnica.com | 58 | C | 2026-02-19 16:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gc.ca | 0 | ? | 2026-02-19 15:16 |
 | www.nhs.uk | 63 | S | 2026-02-19 15:16 |
 | georgetown.edu | 52 | S | 2026-02-19 15:15 |
-| substack.com | 36 | S | 2026-02-19 15:15 |
-| prestashop.com | 71 | S | 2026-02-19 15:04 |
-| eu.com | 63 | S | 2026-02-19 15:03 |
-| si.edu | 0 | ? | 2026-02-19 15:03 |
-| oup.com | 56 | S | 2026-02-19 15:03 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
