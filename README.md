@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 22:17
+- **最后更新**: 2026-02-19 23:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| wpguardian.com | 52 | C | 2026-02-19 23:07 |
+| android.com | 63 | B | 2026-02-19 23:07 |
+| uci.edu | 54 | B | 2026-02-19 23:07 |
+| hbr.org | 51 | C | 2026-02-19 23:07 |
+| nokia.com | 53 | C | 2026-02-19 23:07 |
 | jd.com | 60 | C | 2026-02-19 22:17 |
 | hugedomains.com | 36 | C | 2026-02-19 22:16 |
 | windows.net | 0 | ? | 2026-02-19 22:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | trustpilot.com | 58 | C | 2026-02-19 22:14 |
 | apps.apple.com | 38 | C | 2026-02-19 22:13 |
 | mixcloud.com | 37 | C | 2026-02-19 22:11 |
-| trendmicro.com | 53 | C | 2026-02-19 21:16 |
-| aliexpress.com | 37 | C | 2026-02-19 21:16 |
-| mozilla.com | 72 | A | 2026-02-19 21:15 |
-| wpguardian.com | 52 | C | 2026-02-19 21:15 |
-| ok.ru | 43 | C | 2026-02-19 21:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
