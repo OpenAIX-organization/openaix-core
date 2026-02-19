@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 970 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 11:09
+- **最后更新**: 2026-02-19 11:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| news.google.com | 48 | C | 2026-02-19 11:16 |
+| nydailynews.com | 57 | C | 2026-02-19 11:16 |
+| linear.app | 63 | C | 2026-02-19 11:16 |
+| weibo.com | 39 | C | 2026-02-19 11:15 |
+| variety.com | 42 | C | 2026-02-19 11:15 |
 | acm.org | 42 | C | 2026-02-19 11:09 |
 | gartner.com | 60 | B | 2026-02-19 11:09 |
 | digital.com | 0 | ? | 2026-02-19 11:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | visualstudio.com | 51 | C | 2026-02-19 11:08 |
 | dreamhost.com | 57 | C | 2026-02-19 11:08 |
 | marketwatch.com | 29 | C | 2026-02-19 11:08 |
-| vox.com | 42 | C | 2026-02-19 11:08 |
-| unc.edu | 66 | B | 2026-02-19 11:07 |
-| naver.com | 32 | C | 2026-02-19 11:07 |
-| doubleclick.net | 54 | C | 2026-02-19 11:07 |
-| haxx.se | 48 | C | 2026-02-19 11:07 |
 <!-- EVALUATION_RESULTS_END -->
