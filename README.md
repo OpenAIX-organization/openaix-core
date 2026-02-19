@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 969 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 11:07
+- **最后更新**: 2026-02-19 11:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| broadcom.com | 35 | C | 2026-02-19 11:08 |
+| visualstudio.com | 51 | C | 2026-02-19 11:08 |
+| dreamhost.com | 57 | C | 2026-02-19 11:08 |
+| marketwatch.com | 29 | C | 2026-02-19 11:08 |
+| vox.com | 42 | C | 2026-02-19 11:08 |
 | unc.edu | 66 | B | 2026-02-19 11:07 |
 | naver.com | 32 | C | 2026-02-19 11:07 |
 | doubleclick.net | 54 | C | 2026-02-19 11:07 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | issuu.com | 54 | C | 2026-02-19 10:15 |
 | frontiersin.org | 49 | C | 2026-02-19 10:15 |
 | addtoany.com | 65 | B | 2026-02-19 10:15 |
-| zoom.com | 60 | B | 2026-02-19 10:15 |
-| bund.de | 36 | C | 2026-02-19 10:11 |
-| faqs.org | 0 | ? | 2026-02-19 10:11 |
-| on.ca | 0 | ? | 2026-02-19 10:11 |
-| cambridge.org | 50 | C | 2026-02-19 10:11 |
 <!-- EVALUATION_RESULTS_END -->
