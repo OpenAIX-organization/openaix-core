@@ -278,6 +278,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| asu.edu | 36 | C | 2026-02-20 06:08 |
+| matterport.com | 65 | C | 2026-02-20 06:08 |
+| laracasts.com | 28 | C | 2026-02-20 06:08 |
 | mp.weixin.qq.com | 39 | C | 2026-02-20 06:08 |
 | qc.ca | 0 | ? | 2026-02-20 06:08 |
 | ilo.org | 52 | C | 2026-02-20 06:08 |
@@ -289,9 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | bloomberg.com | 41 | C | 2026-02-20 06:07 |
 | lego.com | 23 | C | 2026-02-20 06:07 |
 | workspaceupdates.googleblog. | 39 | C | 2026-02-20 05:16 |
-| wpguardian.io | 52 | C | 2026-02-20 05:15 |
-| 1.envato.market | 42 | C | 2026-02-20 05:15 |
-| envato.com | 44 | C | 2026-02-20 05:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
