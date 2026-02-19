@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 975 个
 - **平均分数**: 47.8/100
-- **最后更新**: 2026-02-20 05:10
+- **最后更新**: 2026-02-20 05:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| workspaceupdates.googleblog. | 39 | C | 2026-02-20 05:16 |
+| wpguardian.io | 52 | C | 2026-02-20 05:15 |
+| 1.envato.market | 42 | C | 2026-02-20 05:15 |
+| envato.com | 44 | C | 2026-02-20 05:15 |
+| share.google | 55 | C | 2026-02-20 05:15 |
 | aliyuncs.com | 71 | A | 2026-02-20 05:10 |
 | docs.npmjs.com | 42 | C | 2026-02-20 05:10 |
 | hollywoodreporter.com | 36 | C | 2026-02-20 05:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ikea.com | 36 | C | 2026-02-20 05:08 |
 | envato.market | 0 | ? | 2026-02-20 05:08 |
 | freebsd.org | 59 | B | 2026-02-20 05:08 |
-| upenn.edu | 63 | B | 2026-02-20 05:08 |
-| nic.in | 0 | ? | 2026-02-20 05:07 |
-| pages.dev | 62 | C | 2026-02-20 05:07 |
-| aarp.org | 56 | B | 2026-02-20 05:07 |
-| accenture.com | 58 | B | 2026-02-20 05:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
