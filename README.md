@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 20:07
+- **最后更新**: 2026-02-19 20:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| census.gov | 52 | C | 2026-02-19 20:09 |
+| marriott.com | 47 | C | 2026-02-19 20:09 |
+| nytimes.com | 41 | C | 2026-02-19 20:09 |
+| coe.int | 43 | C | 2026-02-19 20:08 |
+| atlassian.com | 58 | C | 2026-02-19 20:08 |
 | jigsaw.w3.org | 63 | A | 2026-02-19 20:07 |
 | share.google | 55 | C | 2026-02-19 20:07 |
 | usc.edu | 57 | C | 2026-02-19 20:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ovhcloud.com | 52 | C | 2026-02-19 19:17 |
 | aliyun.com | 44 | C | 2026-02-19 19:17 |
 | pcworld.com | 38 | C | 2026-02-19 19:17 |
-| web.whatsapp.com | 38 | C | 2026-02-19 19:16 |
-| rollingstone.com | 41 | C | 2026-02-19 19:16 |
-| aliyuncs.com | 71 | A | 2026-02-19 19:16 |
-| co.com | 78 | A | 2026-02-19 19:16 |
-| dictionary.com | 75 | A | 2026-02-19 19:16 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
