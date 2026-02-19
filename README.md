@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 17:15
+- **最后更新**: 2026-02-19 18:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| heise.de | 47 | C | 2026-02-19 18:07 |
+| or.kr | 0 | ? | 2026-02-19 18:06 |
+| medicalnewstoday.com | 39 | C | 2026-02-19 18:06 |
+| support.google.com | 53 | C | 2026-02-19 18:06 |
+| google.de | 26 | C | 2026-02-19 18:06 |
 | gravatar.com | 49 | C | 2026-02-19 17:15 |
 | cia.gov | 51 | C | 2026-02-19 17:15 |
 | nydailynews.com | 58 | C | 2026-02-19 17:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | googleapis.com | 46 | C | 2026-02-19 17:10 |
 | player.vimeo.com | 46 | C | 2026-02-19 17:10 |
 | vkontakte.ru | 46 | C | 2026-02-19 17:10 |
-| unep.org | 63 | B | 2026-02-19 17:09 |
-| congress.gov | 25 | C | 2026-02-19 17:09 |
-| biomedcentral.com | 59 | B | 2026-02-19 17:09 |
-| dribbble.com | 57 | C | 2026-02-19 17:08 |
-| weibo.com | 39 | C | 2026-02-19 17:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
