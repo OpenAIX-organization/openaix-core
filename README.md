@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 17:09
+- **最后更新**: 2026-02-19 17:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| thetimes.co.uk | 0 | ? | 2026-02-19 17:10 |
+| googleapis.com | 46 | C | 2026-02-19 17:10 |
+| player.vimeo.com | 46 | C | 2026-02-19 17:10 |
+| vkontakte.ru | 46 | C | 2026-02-19 17:10 |
+| unep.org | 63 | B | 2026-02-19 17:09 |
 | congress.gov | 25 | C | 2026-02-19 17:09 |
 | biomedcentral.com | 59 | B | 2026-02-19 17:09 |
 | dribbble.com | 57 | C | 2026-02-19 17:08 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | crunchbase.com | 42 | C | 2026-02-19 17:08 |
 | att.com | 55 | C | 2026-02-19 17:08 |
 | archives.gov | 61 | B | 2026-02-19 17:07 |
-| gartner.com | 61 | B | 2026-02-19 17:07 |
-| berkeley.edu | 70 | A | 2026-02-19 17:07 |
-| gob.es | 0 | ? | 2026-02-19 17:07 |
-| safety.google | 67 | A | 2026-02-19 17:07 |
-| rollingstone.com | 41 | C | 2026-02-19 17:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
