@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 970 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 12:08
+- **最后更新**: 2026-02-19 12:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| nps.gov | 67 | B | 2026-02-19 12:16 |
+| deviantart.com | 66 | B | 2026-02-19 12:15 |
+| history.com | 45 | C | 2026-02-19 12:15 |
+| ssrn.com | 24 | C | 2026-02-19 12:15 |
+| osu.edu | 54 | B | 2026-02-19 12:15 |
 | teamviewer.com | 31 | C | 2026-02-19 12:08 |
 | fedoraproject.org | 48 | C | 2026-02-19 12:08 |
 | ilo.org | 52 | C | 2026-02-19 12:08 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ovhcloud.com | 52 | C | 2026-02-19 12:07 |
 | php.net | 68 | B | 2026-02-19 12:06 |
 | newsweek.com | 37 | C | 2026-02-19 12:06 |
-| twimg.com | 0 | ? | 2026-02-19 12:06 |
-| news.google.com | 48 | C | 2026-02-19 11:16 |
-| nydailynews.com | 57 | C | 2026-02-19 11:16 |
-| linear.app | 63 | C | 2026-02-19 11:16 |
-| weibo.com | 39 | C | 2026-02-19 11:15 |
 <!-- EVALUATION_RESULTS_END -->
