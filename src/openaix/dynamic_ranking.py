@@ -68,10 +68,13 @@ class DynamicRanker:
         
         n = len(scores)
         
-        # Calculate thresholds at percentiles
-        p98_idx = min(int(n * (1 - self.PERCENTILES['S'])), n - 1)
-        p80_idx = min(int(n * (1 - self.PERCENTILES['A'])), n - 1)
-        p50_idx = min(int(n * (1 - self.PERCENTILES['B'])), n - 1)
+        # Calculate thresholds at percentiles (top X% means P(100-X))
+        # S = Top 2% = P98
+        # A = Top 20% = P80
+        # B = Top 50% = P50
+        p98_idx = min(int(n * self.PERCENTILES['S']), n - 1)
+        p80_idx = min(int(n * self.PERCENTILES['A']), n - 1)
+        p50_idx = min(int(n * self.PERCENTILES['B']), n - 1)
         
         return {
             'S': scores[p98_idx] if n > 0 else 75,
