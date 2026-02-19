@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 970 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 12:07
+- **最后更新**: 2026-02-19 12:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| teamviewer.com | 31 | C | 2026-02-19 12:08 |
+| fedoraproject.org | 48 | C | 2026-02-19 12:08 |
+| ilo.org | 52 | C | 2026-02-19 12:08 |
+| wa.link | 69 | B | 2026-02-19 12:08 |
+| termsfeed.com | 24 | C | 2026-02-19 12:07 |
 | state.gov | 60 | B | 2026-02-19 12:07 |
 | ovhcloud.com | 52 | C | 2026-02-19 12:07 |
 | php.net | 68 | B | 2026-02-19 12:06 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | nydailynews.com | 57 | C | 2026-02-19 11:16 |
 | linear.app | 63 | C | 2026-02-19 11:16 |
 | weibo.com | 39 | C | 2026-02-19 11:15 |
-| variety.com | 42 | C | 2026-02-19 11:15 |
-| acm.org | 42 | C | 2026-02-19 11:09 |
-| gartner.com | 60 | B | 2026-02-19 11:09 |
-| digital.com | 0 | ? | 2026-02-19 11:09 |
-| ccc.de | 68 | B | 2026-02-19 11:09 |
 <!-- EVALUATION_RESULTS_END -->
