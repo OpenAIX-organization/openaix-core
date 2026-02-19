@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 972 个
 - **平均分数**: 48.0/100
-- **最后更新**: 2026-02-19 13:16
+- **最后更新**: 2026-02-19 14:08
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| slack.com | 62 | B | 2026-02-19 14:08 |
+| v.qq.com | 30 | C | 2026-02-19 14:08 |
+| mediafire.com | 27 | C | 2026-02-19 14:07 |
+| telegram.me | 64 | C | 2026-02-19 14:07 |
+| autodesk.com | 42 | C | 2026-02-19 14:07 |
 | deezer.com | 57 | C | 2026-02-19 13:15 |
 | books.google.com | 26 | C | 2026-02-19 13:15 |
 | developer.mozilla.org | 57 | C | 2026-02-19 13:15 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | wixsite.com | 0 | ? | 2026-02-19 13:08 |
 | oup.com | 56 | B | 2026-02-19 13:08 |
 | semrush.com | 68 | B | 2026-02-19 13:08 |
-| play.google.com | 34 | C | 2026-02-19 13:07 |
-| linear.app | 63 | C | 2026-02-19 13:07 |
-| blogspot.com | 52 | B | 2026-02-19 13:07 |
-| healthline.com | 47 | C | 2026-02-19 13:05 |
-| colorado.edu | 68 | B | 2026-02-19 13:05 |
 <!-- EVALUATION_RESULTS_END -->
