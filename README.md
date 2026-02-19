@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 08:11
+- **最后更新**: 2026-02-19 08:13
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| spotify.com | 56 | B | 2026-02-19 08:13 |
+| nih.gov | 50 | C | 2026-02-19 08:13 |
+| openstreetmap.org | 57 | B | 2026-02-19 08:12 |
+| thenai.org | 55 | B | 2026-02-19 08:12 |
+| laracasts.com | 28 | C | 2026-02-19 08:12 |
 | ucl.ac.uk | 52 | C | 2026-02-19 08:11 |
 | nypost.com | 45 | C | 2026-02-19 08:11 |
 | bund.de | 36 | C | 2026-02-19 08:10 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | heylink.me | 24 | C | 2026-02-19 08:09 |
 | pcworld.com | 38 | C | 2026-02-19 08:09 |
 | unicef.org | 35 | C | 2026-02-19 08:09 |
-| tandfonline.com | 23 | C | 2026-02-19 07:15 |
-| purdue.edu | 55 | B | 2026-02-19 07:15 |
-| lonelyplanet.com | 64 | B | 2026-02-19 07:15 |
-| ccc.de | 68 | B | 2026-02-19 07:15 |
-| themegrill.com | 53 | B | 2026-02-19 07:15 |
 <!-- EVALUATION_RESULTS_END -->
