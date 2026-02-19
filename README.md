@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 09:09
+- **最后更新**: 2026-02-19 09:11
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| debian.org | 70 | B | 2026-02-19 09:11 |
+| dx.doi.org | 64 | B | 2026-02-19 09:11 |
+| iana.org | 73 | A | 2026-02-19 09:11 |
+| trendmicro.com | 53 | B | 2026-02-19 09:10 |
+| wp.com | 59 | B | 2026-02-19 09:10 |
 | launchpad.net | 70 | B | 2026-02-19 09:09 |
 | teamviewer.com | 31 | C | 2026-02-19 09:09 |
 | support.microsoft.com | 58 | B | 2026-02-19 09:09 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | unep.org | 63 | B | 2026-02-19 08:17 |
 | bitnami.com | 52 | C | 2026-02-19 08:16 |
 | ea.com | 45 | C | 2026-02-19 08:16 |
-| euronews.com | 62 | B | 2026-02-19 08:16 |
-| gmail.com | 45 | C | 2026-02-19 08:16 |
-| pubmed.ncbi.nlm.nih.gov | 59 | B | 2026-02-19 08:16 |
-| behance.net | 22 | C | 2026-02-19 08:16 |
-| gofundme.com | 50 | C | 2026-02-19 08:16 |
 <!-- EVALUATION_RESULTS_END -->
