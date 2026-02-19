@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 968 个
 - **平均分数**: 48.1/100
-- **最后更新**: 2026-02-19 09:11
+- **最后更新**: 2026-02-19 09:15
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| timeanddate.com | 33 | C | 2026-02-19 09:15 |
+| service.gov.uk | 62 | C | 2026-02-19 09:15 |
+| prnewswire.com | 66 | B | 2026-02-19 09:15 |
+| arizona.edu | 71 | B | 2026-02-19 09:15 |
+| buydomains.com | 22 | C | 2026-02-19 09:15 |
 | debian.org | 70 | B | 2026-02-19 09:11 |
 | dx.doi.org | 64 | B | 2026-02-19 09:11 |
 | iana.org | 73 | A | 2026-02-19 09:11 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | teamviewer.com | 31 | C | 2026-02-19 09:09 |
 | support.microsoft.com | 58 | B | 2026-02-19 09:09 |
 | harvard.edu | 66 | B | 2026-02-19 09:08 |
-| cn.com | 56 | C | 2026-02-19 09:08 |
-| platform.openai.com | 15 | C | 2026-02-19 08:17 |
-| unep.org | 63 | B | 2026-02-19 08:17 |
-| bitnami.com | 52 | C | 2026-02-19 08:16 |
-| ea.com | 45 | C | 2026-02-19 08:16 |
 <!-- EVALUATION_RESULTS_END -->
