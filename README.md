@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-20 03:09
+- **最后更新**: 2026-02-20 03:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| networkadvertising.org | 55 | B | 2026-02-20 03:16 |
+| wikipedia.org | 58 | B | 2026-02-20 03:15 |
+| justice.gov | 0 | ? | 2026-02-20 03:15 |
+| yp.to | 0 | ? | 2026-02-20 03:15 |
+| fifa.com | 33 | C | 2026-02-20 03:15 |
 | www.ncbi.nlm.nih.gov | 56 | C | 2026-02-20 03:09 |
 | hyatt.com | 31 | C | 2026-02-20 03:09 |
 | fb.com | 42 | C | 2026-02-20 03:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | imdb.com | 30 | C | 2026-02-20 03:07 |
 | wpa.qq.com | 54 | B | 2026-02-20 03:06 |
 | udemy.com | 24 | C | 2026-02-20 03:06 |
-| twilio.com | 62 | C | 2026-02-20 02:18 |
-| redis.io | 49 | C | 2026-02-20 02:18 |
-| brookings.edu | 49 | C | 2026-02-20 02:18 |
-| mystrikingly.com | 52 | C | 2026-02-20 02:18 |
-| gartner.com | 60 | B | 2026-02-20 02:18 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
