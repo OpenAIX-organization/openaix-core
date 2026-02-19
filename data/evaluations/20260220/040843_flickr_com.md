@@ -1,0 +1,68 @@
+# OpenAIX Evaluation Report
+
+**Target**: https://flickr.com
+**Score**: 58/100
+**Grade**: Class C (Needs Improvement)
+**Timestamp**: 2026-02-19T20:08:43Z
+**Site Type**: platform (confidence: 46%)
+
+---
+
+## Metrics
+
+- **snr**: 22%
+- **token_cost**: Medium
+- **json_ld**: False
+- **llms_txt**: False
+- **api_features**: ['api_subdomain', 'api_docs', 'cli_tool']
+- **api_endpoints**: 2
+
+---
+
+## Dimensions
+
+
+### Snr
+- Score: 74
+- snr_percent: 22.4
+- raw_tokens: 13642
+- clean_tokens: 3056
+
+### Semantic
+- Score: 60
+- semantic_tags_used: ['nav', 'main', 'section', 'footer']
+- json_ld_present: False
+- hidden_gem: False
+- images_total: 38
+- heading_levels: 3
+- has_h1: True
+
+### Token Economy
+- Score: 85
+- cost_rating: Medium
+- clean_tokens: 3056
+- estimated_cost_usd: 0.0917
+
+### Permissions
+- Score: 30
+- allowed_agents: []
+- blocked_agents: ['GPTBot', 'CCBot', 'anthropic-ai', 'ClaudeBot', 'ChatGPT-User', 'Google-Extended', 'PerplexityBot']
+- llms_txt_present: False
+- response_time_ms: 345
+- http_status: 200
+
+### Api Availability
+- Score: 45
+- features: ['api_subdomain', 'api_docs', 'cli_tool']
+- endpoints_found: ['https://api.flickr.com', 'https://flickr.com/api']
+- has_api: True
+- has_comprehensive_api: False
+
+---
+
+## Suggestions
+
+- ⚠️ Class B - Human Optimized. Top 50%, room to improve.
+- 📋 Add JSON-LD structured data for better AI understanding.
+- 📝 Add /llms.txt to describe your site for AI agents.
+- 🔌 As a platform, consider adding OpenAPI spec or API documentation.
