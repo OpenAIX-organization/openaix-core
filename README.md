@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 973 个
 - **平均分数**: 47.9/100
-- **最后更新**: 2026-02-19 19:09
+- **最后更新**: 2026-02-19 19:18
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| yahoo.com | 40 | C | 2026-02-19 19:18 |
+| ovhcloud.com | 52 | C | 2026-02-19 19:17 |
+| aliyun.com | 44 | C | 2026-02-19 19:17 |
+| pcworld.com | 38 | C | 2026-02-19 19:17 |
+| web.whatsapp.com | 38 | C | 2026-02-19 19:16 |
+| rollingstone.com | 41 | C | 2026-02-19 19:16 |
+| aliyuncs.com | 71 | A | 2026-02-19 19:16 |
+| co.com | 78 | A | 2026-02-19 19:16 |
+| dictionary.com | 75 | A | 2026-02-19 19:16 |
 | typeform.com | 61 | C | 2026-02-19 19:09 |
 | upwork.com | 33 | C | 2026-02-19 19:09 |
 | pwc.com | 54 | C | 2026-02-19 19:09 |
 | naver.com | 32 | C | 2026-02-19 19:07 |
 | ca.gov | 55 | C | 2026-02-19 19:07 |
-| livejournal.com | 57 | B | 2026-02-19 19:06 |
-| nextjs.org | 59 | C | 2026-02-19 19:06 |
-| meetup.com | 63 | B | 2026-02-19 19:06 |
-| journals.lww.com | 22 | C | 2026-02-19 19:06 |
-| open.spotify.com | 46 | C | 2026-02-19 19:06 |
-| haxx.se | 48 | C | 2026-02-19 18:16 |
-| m.facebook.com | 43 | C | 2026-02-19 18:16 |
-| nbcnews.com | 37 | C | 2026-02-19 18:15 |
-| kde.org | 77 | A | 2026-02-19 18:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
