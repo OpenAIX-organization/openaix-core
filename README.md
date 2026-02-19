@@ -255,7 +255,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 972 个
 - **平均分数**: 48.0/100
-- **最后更新**: 2026-02-19 14:11
+- **最后更新**: 2026-02-19 14:16
 
 ### 等级分布
 
@@ -269,6 +269,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fcc.gov | 61 | B | 2026-02-19 14:16 |
+| google.com | 31 | C | 2026-02-19 14:16 |
+| twitch.tv | 46 | C | 2026-02-19 14:15 |
+| cpan.org | 72 | A | 2026-02-19 14:15 |
+| medicalnewstoday.com | 39 | C | 2026-02-19 14:15 |
 | 4.bp.blogspot.com | 36 | C | 2026-02-19 14:11 |
 | thenai.org | 55 | B | 2026-02-19 14:10 |
 | buzzfeed.com | 39 | C | 2026-02-19 14:10 |
@@ -278,9 +283,4 @@ MIT © [OpenAIX.org](https://openaix.org)
 | v.qq.com | 30 | C | 2026-02-19 14:08 |
 | mediafire.com | 27 | C | 2026-02-19 14:07 |
 | telegram.me | 64 | C | 2026-02-19 14:07 |
-| autodesk.com | 42 | C | 2026-02-19 14:07 |
-| deezer.com | 57 | C | 2026-02-19 13:15 |
-| books.google.com | 26 | C | 2026-02-19 13:15 |
-| developer.mozilla.org | 57 | C | 2026-02-19 13:15 |
-| pcmag.com | 56 | B | 2026-02-19 13:15 |
 <!-- EVALUATION_RESULTS_END -->
