@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 983 个
 - **平均分数**: 47.3/100
-- **最后更新**: 2026-02-21 06:13
+- **最后更新**: 2026-02-21 07:05
 
 ### 等级分布
 
@@ -278,6 +278,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| matterport.com | 65 | C | 2026-02-21 07:05 |
+| qcloud.com | 46 | C | 2026-02-21 07:05 |
+| mozilla.com | 73 | A | 2026-02-21 07:05 |
+| haxx.se | 48 | C | 2026-02-21 07:05 |
+| digg.com | 54 | B | 2026-02-21 07:04 |
+| ncsu.edu | 55 | B | 2026-02-21 06:13 |
 | pypi.org | 54 | C | 2026-02-21 06:13 |
 | nasa.gov | 59 | C | 2026-02-21 06:13 |
 | britannica.com | 68 | A | 2026-02-21 06:13 |
@@ -286,12 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | state.gov | 60 | B | 2026-02-21 06:12 |
 | i0.wp.com | 62 | B | 2026-02-21 06:12 |
 | cell.com | 22 | C | 2026-02-21 06:12 |
-| digitaltrends.com | 36 | C | 2026-02-21 06:09 |
-| jamanetwork.com | 22 | C | 2026-02-21 05:16 |
-| sch.id | 0 | ? | 2026-02-21 05:16 |
-| 163.com | 65 | A | 2026-02-21 05:16 |
-| prnewswire.com | 66 | A | 2026-02-21 05:15 |
-| surveymonkey.com | 65 | B | 2026-02-21 05:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
