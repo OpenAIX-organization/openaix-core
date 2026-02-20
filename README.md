@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 983 个
 - **平均分数**: 47.3/100
-- **最后更新**: 2026-02-21 03:15
+- **最后更新**: 2026-02-21 04:05
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| creativecommons.org | 65 | B | 2026-02-21 04:05 |
+| envato.com | 44 | C | 2026-02-21 04:05 |
+| stackoverflow.com | 52 | C | 2026-02-21 04:05 |
+| vkontakte.ru | 44 | C | 2026-02-21 04:05 |
+| bloomberg.com | 41 | C | 2026-02-21 04:04 |
 | greenpeace.org | 59 | B | 2026-02-21 03:15 |
 | gv.at | 0 | ? | 2026-02-21 03:15 |
 | bsky.app | 40 | C | 2026-02-21 03:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | fbcdn.net | 50 | C | 2026-02-21 03:08 |
 | co.com | 0 | ? | 2026-02-21 03:08 |
 | indiana.edu | 49 | C | 2026-02-21 03:08 |
-| heise.de | 47 | C | 2026-02-21 03:08 |
-| today.com | 42 | C | 2026-02-21 02:16 |
-| flic.kr | 58 | C | 2026-02-21 02:16 |
-| springer.com | 59 | B | 2026-02-21 02:15 |
-| teamviewer.com | 31 | C | 2026-02-21 02:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
