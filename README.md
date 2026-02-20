@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 978 个
 - **平均分数**: 47.6/100
-- **最后更新**: 2026-02-20 10:08
+- **最后更新**: 2026-02-20 10:11
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| notion.site | 64 | B | 2026-02-20 10:11 |
+| airbnb.com | 49 | C | 2026-02-20 10:11 |
+| zhihu.com | 48 | C | 2026-02-20 10:11 |
+| hindustantimes.com | 51 | C | 2026-02-20 10:10 |
+| privacyshield.gov | 0 | ? | 2026-02-20 10:10 |
+| lefigaro.fr | 48 | C | 2026-02-20 10:10 |
+| constantcontact.com | 25 | C | 2026-02-20 10:10 |
 | ssrn.com | 24 | C | 2026-02-20 10:08 |
 | feedburner.com | 34 | C | 2026-02-20 10:08 |
 | wisc.edu | 61 | B | 2026-02-20 10:08 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | apple.com | 62 | B | 2026-02-20 10:08 |
 | salon.com | 62 | B | 2026-02-20 09:17 |
 | fandom.com | 59 | B | 2026-02-20 09:16 |
-| tripod.com | 69 | A | 2026-02-20 09:16 |
-| gob.ar | 0 | ? | 2026-02-20 09:16 |
-| notion.so | 55 | B | 2026-02-20 09:16 |
-| squarespace.com | 62 | C | 2026-02-20 09:15 |
-| bloomberg.com | 42 | C | 2026-02-20 09:15 |
-| pexels.com | 24 | C | 2026-02-20 09:15 |
-| on.ca | 0 | ? | 2026-02-20 09:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
