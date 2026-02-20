@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 983 个
 - **平均分数**: 47.3/100
-- **最后更新**: 2026-02-21 04:05
+- **最后更新**: 2026-02-21 04:16
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| iop.org | 49 | C | 2026-02-21 04:16 |
+| buydomains.com | 22 | C | 2026-02-21 04:16 |
+| sa.com | 0 | ? | 2026-02-21 04:16 |
+| flickr.com | 58 | C | 2026-02-21 04:16 |
+| indeed.com | 54 | B | 2026-02-21 04:16 |
+| git-scm.com | 49 | C | 2026-02-21 04:15 |
+| www.gov.cn | 43 | C | 2026-02-21 04:15 |
+| sourceforge.net | 26 | C | 2026-02-21 04:15 |
+| windows.net | 0 | ? | 2026-02-21 04:15 |
 | creativecommons.org | 65 | B | 2026-02-21 04:05 |
 | envato.com | 44 | C | 2026-02-21 04:05 |
 | stackoverflow.com | 52 | C | 2026-02-21 04:05 |
 | vkontakte.ru | 44 | C | 2026-02-21 04:05 |
 | bloomberg.com | 41 | C | 2026-02-21 04:04 |
-| greenpeace.org | 59 | B | 2026-02-21 03:15 |
-| gv.at | 0 | ? | 2026-02-21 03:15 |
-| bsky.app | 40 | C | 2026-02-21 03:15 |
-| berkeley.edu | 70 | A | 2026-02-21 03:15 |
-| tailwindcss.com | 40 | C | 2026-02-21 03:15 |
-| mariadb.org | 61 | B | 2026-02-21 03:09 |
-| fbcdn.net | 50 | C | 2026-02-21 03:08 |
-| co.com | 0 | ? | 2026-02-21 03:08 |
-| indiana.edu | 49 | C | 2026-02-21 03:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
