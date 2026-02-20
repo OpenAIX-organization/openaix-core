@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 983 个
 - **平均分数**: 47.4/100
-- **最后更新**: 2026-02-21 02:11
+- **最后更新**: 2026-02-21 02:12
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| mit.edu | 63 | B | 2026-02-21 02:12 |
+| dhs.gov | 61 | B | 2026-02-21 02:12 |
+| notion.so | 55 | B | 2026-02-21 02:12 |
+| atlassian.com | 58 | C | 2026-02-21 02:11 |
+| haxx.se | 48 | C | 2026-02-21 02:11 |
+| share.google | 55 | C | 2026-02-21 02:11 |
+| qualtrics.com | 62 | B | 2026-02-21 02:11 |
 | f5.com | 60 | C | 2026-02-21 02:11 |
 | mystrikingly.com | 52 | C | 2026-02-21 02:10 |
 | gravatar.com | 49 | C | 2026-02-21 02:10 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | iea.org | 22 | C | 2026-02-21 02:10 |
 | scribd.com | 70 | B | 2026-02-21 02:10 |
 | youtube-nocookie.com | 0 | ? | 2026-02-21 02:09 |
-| b.hatena.ne.jp | 63 | B | 2026-02-21 02:09 |
-| free.fr | 59 | B | 2026-02-21 02:09 |
-| xkcd.com | 47 | C | 2026-02-21 02:09 |
-| bing.com | 40 | C | 2026-02-21 02:09 |
-| paypal.com | 61 | C | 2026-02-21 02:09 |
-| itunes.apple.com | 62 | B | 2026-02-21 02:09 |
-| blogger.com | 52 | C | 2026-02-21 02:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
