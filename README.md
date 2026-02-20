@@ -278,6 +278,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| aboutcookies.org | 48 | C | 2026-02-21 01:11 |
 | qq.com | 37 | C | 2026-02-21 01:11 |
 | dailymail.co.uk | 48 | C | 2026-02-21 01:11 |
 | google.cn | 66 | A | 2026-02-21 01:10 |
@@ -291,7 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | thefreedictionary.com | 24 | C | 2026-02-21 01:09 |
 | science.org | 22 | C | 2026-02-21 01:09 |
 | privacyshield.gov | 0 | ? | 2026-02-21 01:08 |
-| change.org | 54 | C | 2026-02-21 01:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
