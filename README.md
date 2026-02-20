@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 982 个
 - **平均分数**: 47.4/100
-- **最后更新**: 2026-02-20 23:10
+- **最后更新**: 2026-02-20 23:15
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| jetbrains.com | 46 | C | 2026-02-20 23:15 |
+| fandom.com | 59 | B | 2026-02-20 23:15 |
+| gc.ca | 0 | ? | 2026-02-20 23:15 |
+| telegram.me | 64 | C | 2026-02-20 23:15 |
+| zdnet.com | 34 | C | 2026-02-20 23:15 |
 | termsfeed.com | 25 | C | 2026-02-20 23:10 |
 | nytimes.com | 43 | C | 2026-02-20 23:10 |
 | elsevier.com | 52 | C | 2026-02-20 23:10 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ipcc.ch | 66 | A | 2026-02-20 23:08 |
 | nextjs.org | 59 | C | 2026-02-20 23:08 |
 | sky.com | 47 | C | 2026-02-20 23:08 |
-| ebay.co.uk | 35 | C | 2026-02-20 23:07 |
-| businessinsider.com | 54 | B | 2026-02-20 22:13 |
-| 1.envato.market | 42 | C | 2026-02-20 22:12 |
-| github.io | 72 | B | 2026-02-20 22:12 |
-| gv.at | 0 | ? | 2026-02-20 22:12 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
