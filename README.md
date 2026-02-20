@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 981 个
 - **平均分数**: 47.4/100
-- **最后更新**: 2026-02-20 18:05
+- **最后更新**: 2026-02-20 18:09
 
 ### 等级分布
 
@@ -278,6 +278,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| atlassian.com | 58 | C | 2026-02-20 18:09 |
+| constantcontact.com | 25 | C | 2026-02-20 18:07 |
+| tailwindcss.com | 40 | C | 2026-02-20 18:07 |
+| or.id | 0 | ? | 2026-02-20 18:06 |
 | foursquare.com | 63 | C | 2026-02-20 18:05 |
 | business.safety.google | 66 | A | 2026-02-20 18:05 |
 | sharepoint.com | 65 | C | 2026-02-20 18:05 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | fortune.com | 39 | C | 2026-02-20 17:16 |
 | binance.com | 30 | C | 2026-02-20 17:15 |
 | msu.edu | 53 | C | 2026-02-20 17:15 |
-| itunes.apple.com | 62 | B | 2026-02-20 17:10 |
-| developer.mozilla.org | 57 | C | 2026-02-20 17:10 |
-| ru.com | 0 | ? | 2026-02-20 17:09 |
-| trustpilot.com | 58 | C | 2026-02-20 17:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
