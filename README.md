@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 978 个
 - **平均分数**: 47.6/100
-- **最后更新**: 2026-02-20 09:10
+- **最后更新**: 2026-02-20 09:11
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| on.ca | 0 | ? | 2026-02-20 09:11 |
+| en.wikipedia.org | 71 | A | 2026-02-20 09:11 |
+| illinois.edu | 69 | A | 2026-02-20 09:11 |
+| asu.edu | 36 | C | 2026-02-20 09:11 |
+| cloudflare.com | 55 | C | 2026-02-20 09:11 |
 | sa.com | 0 | ? | 2026-02-20 09:10 |
 | georgetown.edu | 51 | C | 2026-02-20 09:10 |
 | player.vimeo.com | 46 | C | 2026-02-20 09:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | teamviewer.com | 31 | C | 2026-02-20 08:15 |
 | iana.org | 73 | A | 2026-02-20 08:15 |
 | cmu.edu | 68 | A | 2026-02-20 08:15 |
-| wpguardian.io | 52 | C | 2026-02-20 08:15 |
-| mysql.com | 59 | B | 2026-02-20 08:14 |
-| lua.org | 63 | A | 2026-02-20 08:14 |
-| zend.com | 53 | C | 2026-02-20 08:14 |
-| duke.edu | 65 | A | 2026-02-20 08:14 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
