@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 978 个
 - **平均分数**: 47.6/100
-- **最后更新**: 2026-02-20 10:16
+- **最后更新**: 2026-02-20 11:07
 
 ### 等级分布
 
@@ -278,7 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
-| verisign.com | 59 | B | 2026-02-20 10:16 |
+| verisign.com | 59 | B | 2026-02-20 11:07 |
+| trustindex.io | 64 | C | 2026-02-20 11:07 |
+| statcounter.com | 66 | C | 2026-02-20 11:06 |
+| princeton.edu | 0 | ? | 2026-02-20 11:06 |
+| who.int | 51 | C | 2026-02-20 11:06 |
 | ebay.com | 36 | C | 2026-02-20 10:16 |
 | matomo.org | 64 | C | 2026-02-20 10:15 |
 | is.gd | 22 | C | 2026-02-20 10:15 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | zhihu.com | 48 | C | 2026-02-20 10:11 |
 | hindustantimes.com | 51 | C | 2026-02-20 10:10 |
 | privacyshield.gov | 0 | ? | 2026-02-20 10:10 |
-| lefigaro.fr | 48 | C | 2026-02-20 10:10 |
-| constantcontact.com | 25 | C | 2026-02-20 10:10 |
-| ssrn.com | 24 | C | 2026-02-20 10:08 |
-| feedburner.com | 34 | C | 2026-02-20 10:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
