@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 981 个
 - **平均分数**: 47.4/100
-- **最后更新**: 2026-02-20 18:18
+- **最后更新**: 2026-02-20 19:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| in.net | 0 | ? | 2026-02-20 19:07 |
+| mastodon.social | 34 | C | 2026-02-20 19:07 |
+| tmall.com | 57 | C | 2026-02-20 19:07 |
+| gob.ar | 0 | ? | 2026-02-20 19:07 |
+| lemonde.fr | 50 | C | 2026-02-20 19:07 |
 | autodesk.com | 42 | C | 2026-02-20 18:18 |
 | nintendo.com | 46 | C | 2026-02-20 18:17 |
 | snapchat.com | 33 | C | 2026-02-20 18:17 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | tailwindcss.com | 40 | C | 2026-02-20 18:07 |
 | or.id | 0 | ? | 2026-02-20 18:06 |
 | foursquare.com | 63 | C | 2026-02-20 18:05 |
-| business.safety.google | 66 | A | 2026-02-20 18:05 |
-| sharepoint.com | 65 | C | 2026-02-20 18:05 |
-| zdnet.com | 34 | C | 2026-02-20 18:05 |
-| mailinabox.email | 53 | C | 2026-02-20 18:05 |
-| reddit.com | 46 | C | 2026-02-20 17:16 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
