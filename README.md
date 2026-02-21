@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 988 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 16:10
+- **最后更新**: 2026-02-21 16:16
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| giphy.com | 22 | C | 2026-02-21 16:16 |
+| dropcatch.com | 34 | C | 2026-02-21 16:15 |
+| typepad.com | 25 | C | 2026-02-21 16:15 |
+| jamanetwork.com | 22 | C | 2026-02-21 16:15 |
+| envato.market | 0 | ? | 2026-02-21 16:15 |
+| europa.eu | 54 | B | 2026-02-21 16:15 |
+| wixsite.com | 0 | ? | 2026-02-21 16:15 |
 | tencent.com | 0 | ? | 2026-02-21 16:10 |
 | novell.com | 0 | ? | 2026-02-21 16:10 |
 | frontiersin.org | 49 | C | 2026-02-21 16:10 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | arizona.edu | 70 | A | 2026-02-21 16:09 |
 | ilo.org | 52 | C | 2026-02-21 16:08 |
 | nike.com | 58 | B | 2026-02-21 16:08 |
-| nationalgeographic.com | 47 | C | 2026-02-21 16:07 |
-| so.com | 39 | C | 2026-02-21 16:07 |
-| unicef.org | 36 | C | 2026-02-21 16:06 |
-| house.gov | 61 | B | 2026-02-21 15:16 |
-| va.gov | 62 | B | 2026-02-21 15:15 |
-| cdc.gov | 70 | A | 2026-02-21 15:15 |
-| office.com | 62 | C | 2026-02-21 15:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
