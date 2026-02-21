@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 987 个
 - **平均分数**: 47.2/100
-- **最后更新**: 2026-02-21 13:05
+- **最后更新**: 2026-02-21 13:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| indiatimes.com | 55 | C | 2026-02-21 13:07 |
+| miit.gov.cn | 0 | ? | 2026-02-21 13:07 |
+| netflix.com | 52 | C | 2026-02-21 13:07 |
+| smithsonianmag.com | 73 | A | 2026-02-21 13:06 |
+| osu.edu | 54 | B | 2026-02-21 13:06 |
 | justice.gov | 0 | ? | 2026-02-21 13:05 |
 | coursera.org | 47 | C | 2026-02-21 13:05 |
 | acs.org | 36 | C | 2026-02-21 13:05 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | cnil.fr | 49 | C | 2026-02-21 12:16 |
 | investing.com | 45 | C | 2026-02-21 12:16 |
 | bigcartel.com | 45 | C | 2026-02-21 12:16 |
-| co.com | 78 | A | 2026-02-21 12:15 |
-| snapchat.com | 33 | C | 2026-02-21 12:13 |
-| ucl.ac.uk | 52 | C | 2026-02-21 12:13 |
-| researchgate.net | 32 | C | 2026-02-21 12:13 |
-| ibb.co | 62 | B | 2026-02-21 12:13 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
