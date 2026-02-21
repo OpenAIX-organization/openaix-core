@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 988 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 18:15
+- **最后更新**: 2026-02-21 19:10
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| themegrill.com | 53 | B | 2026-02-21 19:10 |
+| ihg.com | 50 | C | 2026-02-21 19:09 |
+| sciencedirect.com | 40 | C | 2026-02-21 19:09 |
+| amnesty.org | 67 | A | 2026-02-21 19:09 |
+| openldap.org | 70 | A | 2026-02-21 19:09 |
+| youtube.com | 38 | C | 2026-02-21 19:08 |
+| www.legifrance.gouv.fr | 24 | C | 2026-02-21 19:08 |
+| telegram.me | 64 | C | 2026-02-21 19:08 |
 | kickstarter.com | 24 | C | 2026-02-21 18:15 |
 | uspto.gov | 70 | A | 2026-02-21 18:15 |
 | uchicago.edu | 59 | B | 2026-02-21 18:15 |
 | upload.wikimedia.org | 71 | A | 2026-02-21 18:15 |
 | target.com | 43 | C | 2026-02-21 18:15 |
 | dhs.gov | 61 | B | 2026-02-21 18:08 |
-| autodesk.com | 42 | C | 2026-02-21 18:08 |
-| purdue.edu | 55 | B | 2026-02-21 18:08 |
-| blogger.googleusercontent.co | 48 | C | 2026-02-21 18:08 |
-| gallup.com | 71 | A | 2026-02-21 18:08 |
-| ietf.org | 69 | A | 2026-02-21 18:08 |
-| open.spotify.com | 46 | C | 2026-02-21 18:08 |
-| drive.google.com | 40 | C | 2026-02-21 18:08 |
-| photobucket.com | 40 | C | 2026-02-21 18:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
