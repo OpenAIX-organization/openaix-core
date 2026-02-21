@@ -278,6 +278,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| snapchat.com | 33 | C | 2026-02-21 12:13 |
 | ucl.ac.uk | 52 | C | 2026-02-21 12:13 |
 | researchgate.net | 32 | C | 2026-02-21 12:13 |
 | ibb.co | 62 | B | 2026-02-21 12:13 |
@@ -291,7 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | business.site | 55 | C | 2026-02-21 11:15 |
 | pewresearch.org | 48 | C | 2026-02-21 11:15 |
 | nintendo.com | 46 | C | 2026-02-21 11:10 |
-| docs.npmjs.com | 42 | C | 2026-02-21 11:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
