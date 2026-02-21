@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 989 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-22 05:05
+- **最后更新**: 2026-02-22 05:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| acm.org | 42 | C | 2026-02-22 05:07 |
+| nejm.org | 22 | C | 2026-02-22 05:07 |
+| newyorker.com | 41 | C | 2026-02-22 05:07 |
+| asus.com | 39 | C | 2026-02-22 05:06 |
+| freepik.com | 56 | C | 2026-02-22 05:06 |
 | docs.google.com | 38 | C | 2026-02-22 05:05 |
 | example.com | 0 | ? | 2026-02-22 05:05 |
 | ikea.com | 36 | C | 2026-02-22 05:05 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | yp.to | 0 | ? | 2026-02-22 04:14 |
 | gc.ca | 0 | ? | 2026-02-22 04:14 |
 | snapchat.com | 33 | C | 2026-02-22 04:14 |
-| www.legifrance.gouv.fr | 24 | C | 2026-02-22 04:14 |
-| cloud.tencent.com | 39 | C | 2026-02-22 04:13 |
-| douyin.com | 35 | C | 2026-02-22 04:12 |
-| opensource.org | 58 | B | 2026-02-22 04:12 |
-| utexas.edu | 63 | A | 2026-02-22 04:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
