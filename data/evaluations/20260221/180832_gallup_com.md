@@ -1,0 +1,66 @@
+# OpenAIX Evaluation Report
+
+**Target**: https://gallup.com
+**Score**: 71/100
+**Grade**: Class A (Agent Friendly)
+**Timestamp**: 2026-02-21T10:08:32Z
+**Site Type**: documentation (confidence: 25%)
+
+---
+
+## Metrics
+
+- **snr**: 29%
+- **token_cost**: High
+- **json_ld**: True
+- **llms_txt**: False
+- **api_features**: ['api_subdomain', 'cli_tool']
+- **api_endpoints**: 1
+
+---
+
+## Dimensions
+
+
+### Snr
+- Score: 84
+- snr_percent: 29.48
+- raw_tokens: 28555
+- clean_tokens: 8419
+
+### Semantic
+- Score: 61
+- semantic_tags_used: ['article', 'nav', 'header', 'main', 'footer']
+- json_ld_present: True
+- hidden_gem: False
+- images_total: 27
+- heading_levels: 2
+- has_h1: False
+
+### Token Economy
+- Score: 65
+- cost_rating: High
+- clean_tokens: 8419
+- estimated_cost_usd: 0.2526
+
+### Permissions
+- Score: 100
+- allowed_agents: ['GPTBot', 'CCBot', 'anthropic-ai', 'ClaudeBot', 'ChatGPT-User', 'Google-Extended', 'PerplexityBot']
+- blocked_agents: []
+- llms_txt_present: False
+- response_time_ms: 656
+- http_status: 200
+
+### Api Availability
+- Score: 30
+- features: ['api_subdomain', 'cli_tool']
+- endpoints_found: ['https://api.gallup.com']
+- has_api: True
+- has_comprehensive_api: False
+
+---
+
+## Suggestions
+
+- ✅ Class A - Agent Friendly. Top 20% performance.
+- 📝 Add /llms.txt to describe your site for AI agents.
