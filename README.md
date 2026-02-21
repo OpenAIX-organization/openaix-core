@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 07:05
+- **最后更新**: 2026-02-22 07:08
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| hollywoodreporter.com | 38 | C | 2026-02-22 07:08 |
+| census.gov | 52 | C | 2026-02-22 07:07 |
+| bund.de | 36 | C | 2026-02-22 07:07 |
+| nobelprize.org | 59 | C | 2026-02-22 07:06 |
+| automattic.com | 64 | B | 2026-02-22 07:06 |
 | amazonaws.com | 0 | ? | 2026-02-22 07:05 |
 | githubusercontent.com | 0 | ? | 2026-02-22 07:05 |
 | fool.com | 48 | C | 2026-02-22 07:05 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | accounts.google.com | 38 | C | 2026-02-22 06:14 |
 | aboutads.info | 0 | ? | 2026-02-22 06:14 |
 | jigsaw.w3.org | 63 | A | 2026-02-22 06:14 |
-| dot.gov | 61 | B | 2026-02-22 06:14 |
-| msn.com | 24 | C | 2026-02-22 06:13 |
-| billboard.com | 32 | C | 2026-02-22 06:13 |
-| broadcom.com | 35 | C | 2026-02-22 06:13 |
-| psychologytoday.com | 52 | C | 2026-02-22 06:13 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
