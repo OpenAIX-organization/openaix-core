@@ -278,6 +278,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| weibo.com | 39 | C | 2026-02-21 10:14 |
+| garmin.com | 34 | C | 2026-02-21 10:14 |
+| fedex.com | 60 | C | 2026-02-21 10:14 |
 | wustl.edu | 68 | A | 2026-02-21 10:14 |
 | yandex.ru | 31 | C | 2026-02-21 10:14 |
 | nintendo.com | 46 | C | 2026-02-21 10:14 |
@@ -289,9 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | brookings.edu | 49 | C | 2026-02-21 10:12 |
 | www.gov.uk | 60 | C | 2026-02-21 10:11 |
 | nyu.edu | 39 | C | 2026-02-21 10:10 |
-| books.google.com | 26 | C | 2026-02-21 09:11 |
-| live.com | 41 | C | 2026-02-21 09:10 |
-| pbs.org | 46 | C | 2026-02-21 09:10 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
