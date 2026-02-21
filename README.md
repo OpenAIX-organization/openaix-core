@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 987 个
 - **平均分数**: 47.2/100
-- **最后更新**: 2026-02-21 15:12
+- **最后更新**: 2026-02-21 15:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| house.gov | 61 | B | 2026-02-21 15:16 |
+| va.gov | 62 | B | 2026-02-21 15:15 |
+| cdc.gov | 70 | A | 2026-02-21 15:15 |
+| office.com | 62 | C | 2026-02-21 15:15 |
+| garmin.com | 34 | C | 2026-02-21 15:15 |
 | facebook.com | 50 | C | 2026-02-21 15:12 |
 | medscape.com | 43 | C | 2026-02-21 15:12 |
 | billboard.com | 32 | C | 2026-02-21 15:12 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | docs.python.org | 76 | S | 2026-02-21 15:11 |
 | amazon.co.uk | 39 | C | 2026-02-21 15:11 |
 | mozilla.org | 73 | A | 2026-02-21 15:10 |
-| hostinger.com | 56 | C | 2026-02-21 15:10 |
-| wustl.edu | 68 | A | 2026-02-21 14:07 |
-| dailymail.co.uk | 48 | C | 2026-02-21 14:06 |
-| digg.com | 54 | B | 2026-02-21 14:06 |
-| unicef.org | 35 | C | 2026-02-21 14:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
