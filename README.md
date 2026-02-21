@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 987 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 11:16
+- **最后更新**: 2026-02-21 12:13
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| ucl.ac.uk | 52 | C | 2026-02-21 12:13 |
+| researchgate.net | 32 | C | 2026-02-21 12:13 |
+| ibb.co | 62 | B | 2026-02-21 12:13 |
+| iana.org | 73 | A | 2026-02-21 12:12 |
+| fda.gov | 71 | A | 2026-02-21 12:12 |
+| dot.gov | 61 | B | 2026-02-21 12:12 |
+| uiuc.edu | 69 | A | 2026-02-21 12:12 |
 | cve.org | 46 | C | 2026-02-21 11:16 |
 | canva.site | 57 | B | 2026-02-21 11:15 |
 | theconversation.com | 40 | C | 2026-02-21 11:15 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | pewresearch.org | 48 | C | 2026-02-21 11:15 |
 | nintendo.com | 46 | C | 2026-02-21 11:10 |
 | docs.npmjs.com | 42 | C | 2026-02-21 11:09 |
-| techcrunch.com | 49 | C | 2026-02-21 11:09 |
-| googletagmanager.com | 54 | B | 2026-02-21 11:09 |
-| undp.org | 62 | A | 2026-02-21 11:09 |
-| libsyn.com | 62 | B | 2026-02-21 11:08 |
-| goo.gl | 43 | C | 2026-02-21 11:08 |
-| mediawiki.org | 76 | S | 2026-02-21 11:07 |
-| or.kr | 0 | ? | 2026-02-21 11:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
