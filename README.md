@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 989 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-22 05:15
+- **最后更新**: 2026-02-22 06:13
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| msn.com | 24 | C | 2026-02-22 06:13 |
+| billboard.com | 32 | C | 2026-02-22 06:13 |
+| broadcom.com | 35 | C | 2026-02-22 06:13 |
+| psychologytoday.com | 52 | C | 2026-02-22 06:13 |
+| b-cdn.net | 61 | C | 2026-02-22 06:12 |
 | com.com | 51 | C | 2026-02-22 05:15 |
 | office365.com | 47 | C | 2026-02-22 05:15 |
 | theatlantic.com | 65 | A | 2026-02-22 05:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | nejm.org | 22 | C | 2026-02-22 05:07 |
 | newyorker.com | 41 | C | 2026-02-22 05:07 |
 | asus.com | 39 | C | 2026-02-22 05:06 |
-| freepik.com | 56 | C | 2026-02-22 05:06 |
-| docs.google.com | 38 | C | 2026-02-22 05:05 |
-| example.com | 0 | ? | 2026-02-22 05:05 |
-| ikea.com | 36 | C | 2026-02-22 05:05 |
-| lww.com | 22 | C | 2026-02-22 05:05 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
