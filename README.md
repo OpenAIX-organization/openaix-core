@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 987 个
 - **平均分数**: 47.2/100
-- **最后更新**: 2026-02-21 15:11
+- **最后更新**: 2026-02-21 15:12
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| facebook.com | 50 | C | 2026-02-21 15:12 |
+| medscape.com | 43 | C | 2026-02-21 15:12 |
+| billboard.com | 32 | C | 2026-02-21 15:12 |
+| msn.com | 24 | C | 2026-02-21 15:12 |
+| technologyreview.com | 32 | C | 2026-02-21 15:11 |
 | sciencedaily.com | 70 | A | 2026-02-21 15:11 |
 | docs.python.org | 76 | S | 2026-02-21 15:11 |
 | amazon.co.uk | 39 | C | 2026-02-21 15:11 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | dailymail.co.uk | 48 | C | 2026-02-21 14:06 |
 | digg.com | 54 | B | 2026-02-21 14:06 |
 | unicef.org | 35 | C | 2026-02-21 14:06 |
-| forms.gle | 31 | C | 2026-02-21 14:06 |
-| mp.weixin.qq.com | 39 | C | 2026-02-21 14:05 |
-| howstuffworks.com | 52 | C | 2026-02-21 14:05 |
-| salon.com | 62 | B | 2026-02-21 14:05 |
-| ufl.edu | 58 | B | 2026-02-21 14:05 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
