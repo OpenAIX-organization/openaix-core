@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 988 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 20:09
+- **最后更新**: 2026-02-21 20:10
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| appspot.com | 54 | C | 2026-02-21 20:10 |
+| sharepoint.com | 65 | C | 2026-02-21 20:10 |
+| foursquare.com | 63 | C | 2026-02-21 20:10 |
+| linktr.ee | 54 | C | 2026-02-21 20:10 |
+| politico.eu | 51 | C | 2026-02-21 20:10 |
+| vmware.com | 32 | C | 2026-02-21 20:09 |
+| 163.com | 65 | A | 2026-02-21 20:09 |
 | qualtrics.com | 62 | B | 2026-02-21 20:09 |
 | psu.edu | 47 | C | 2026-02-21 20:09 |
 | bizjournals.com | 22 | C | 2026-02-21 20:09 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | newyorker.com | 41 | C | 2026-02-21 20:09 |
 | variety.com | 42 | C | 2026-02-21 20:08 |
 | cdc.gov | 70 | A | 2026-02-21 20:08 |
-| whitehouse.gov | 60 | B | 2026-02-21 20:08 |
-| istockphoto.com | 39 | C | 2026-02-21 20:08 |
-| dot.gov | 61 | B | 2026-02-21 20:08 |
-| feedburner.com | 34 | C | 2026-02-21 20:08 |
-| sciencedirect.com | 40 | C | 2026-02-21 20:08 |
-| reuters.com | 30 | C | 2026-02-21 20:07 |
-| arcgis.com | 34 | C | 2026-02-21 20:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
