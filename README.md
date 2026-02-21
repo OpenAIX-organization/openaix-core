@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 989 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 23:08
+- **最后更新**: 2026-02-21 23:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| state.gov | 60 | B | 2026-02-21 23:09 |
+| variety.com | 42 | C | 2026-02-21 23:09 |
+| jetbrains.com | 46 | C | 2026-02-21 23:09 |
+| northwestern.edu | 75 | A | 2026-02-21 23:08 |
+| hrw.org | 61 | B | 2026-02-21 23:08 |
 | uol.com.br | 50 | C | 2026-02-21 23:08 |
 | osu.edu | 54 | B | 2026-02-21 23:07 |
 | paypal.com | 61 | C | 2026-02-21 23:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | azurewebsites.net | 0 | ? | 2026-02-21 22:15 |
 | telegra.ph | 46 | C | 2026-02-21 22:15 |
 | linear.app | 63 | C | 2026-02-21 22:15 |
-| rt.com | 36 | C | 2026-02-21 22:15 |
-| jd.com | 60 | C | 2026-02-21 22:11 |
-| noaa.gov | 64 | A | 2026-02-21 22:11 |
-| springer.com | 60 | B | 2026-02-21 22:11 |
-| youku.com | 38 | C | 2026-02-21 22:10 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
