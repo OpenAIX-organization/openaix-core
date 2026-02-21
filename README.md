@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 984 个
 - **平均分数**: 47.2/100
-- **最后更新**: 2026-02-21 07:16
+- **最后更新**: 2026-02-21 08:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| vatican.va | 31 | C | 2026-02-21 08:10 |
+| telegraph.co.uk | 58 | B | 2026-02-21 08:10 |
+| garmin.com | 34 | C | 2026-02-21 08:10 |
+| imageshack.us | 34 | C | 2026-02-21 08:09 |
+| indeed.com | 54 | B | 2026-02-21 08:09 |
 | maps.google.com | 24 | C | 2026-02-21 07:16 |
 | go.th | 0 | ? | 2026-02-21 07:16 |
 | google.it | 26 | C | 2026-02-21 07:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | steamcommunity.com | 57 | B | 2026-02-21 07:15 |
 | epa.gov | 62 | B | 2026-02-21 07:15 |
 | akismet.com | 52 | C | 2026-02-21 07:15 |
-| ey.com | 60 | B | 2026-02-21 07:07 |
-| nhk.or.jp | 0 | ? | 2026-02-21 07:07 |
-| ieee.org | 30 | C | 2026-02-21 07:07 |
-| thenai.org | 55 | B | 2026-02-21 07:07 |
-| matterport.com | 65 | C | 2026-02-21 07:05 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
