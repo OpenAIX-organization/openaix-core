@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 989 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 23:17
+- **最后更新**: 2026-02-22 00:06
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| cam.ac.uk | 61 | B | 2026-02-22 00:06 |
+| metro.co.uk | 52 | C | 2026-02-22 00:06 |
+| thedailybeast.com | 36 | C | 2026-02-22 00:05 |
+| calameo.com | 76 | A | 2026-02-22 00:05 |
+| mitre.org | 61 | B | 2026-02-22 00:05 |
 | eventbrite.co.uk | 56 | C | 2026-02-21 23:16 |
 | hhs.gov | 60 | B | 2026-02-21 23:16 |
 | theverge.com | 37 | C | 2026-02-21 23:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | jetbrains.com | 46 | C | 2026-02-21 23:09 |
 | northwestern.edu | 75 | A | 2026-02-21 23:08 |
 | hrw.org | 61 | B | 2026-02-21 23:08 |
-| uol.com.br | 50 | C | 2026-02-21 23:08 |
-| osu.edu | 54 | B | 2026-02-21 23:07 |
-| paypal.com | 61 | C | 2026-02-21 23:07 |
-| jamanetwork.com | 22 | C | 2026-02-21 23:07 |
-| withgoogle.com | 47 | C | 2026-02-21 23:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
