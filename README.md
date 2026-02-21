@@ -278,6 +278,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| parallels.com | 55 | C | 2026-02-21 08:17 |
 | cn.com | 56 | C | 2026-02-21 08:17 |
 | mitre.org | 61 | B | 2026-02-21 08:17 |
 | fb.com | 44 | C | 2026-02-21 08:16 |
@@ -291,7 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | eepurl.com | 75 | A | 2026-02-21 08:11 |
 | play.google.com | 34 | C | 2026-02-21 08:11 |
 | shorturl.at | 22 | C | 2026-02-21 08:11 |
-| govt.nz | 0 | ? | 2026-02-21 08:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
