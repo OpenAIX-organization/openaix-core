@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 988 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 20:08
+- **最后更新**: 2026-02-21 20:09
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| qualtrics.com | 62 | B | 2026-02-21 20:09 |
+| psu.edu | 47 | C | 2026-02-21 20:09 |
+| bizjournals.com | 22 | C | 2026-02-21 20:09 |
+| unesco.org | 49 | C | 2026-02-21 20:09 |
+| newyorker.com | 41 | C | 2026-02-21 20:09 |
+| variety.com | 42 | C | 2026-02-21 20:08 |
+| cdc.gov | 70 | A | 2026-02-21 20:08 |
+| whitehouse.gov | 60 | B | 2026-02-21 20:08 |
+| istockphoto.com | 39 | C | 2026-02-21 20:08 |
 | dot.gov | 61 | B | 2026-02-21 20:08 |
 | feedburner.com | 34 | C | 2026-02-21 20:08 |
 | sciencedirect.com | 40 | C | 2026-02-21 20:08 |
 | reuters.com | 30 | C | 2026-02-21 20:07 |
 | arcgis.com | 34 | C | 2026-02-21 20:07 |
-| b-cdn.net | 61 | C | 2026-02-21 20:06 |
-| bbc.com | 43 | C | 2026-02-21 20:06 |
-| dailymotion.com | 52 | C | 2026-02-21 20:06 |
-| rutgers.edu | 65 | A | 2026-02-21 20:05 |
-| uci.edu | 54 | B | 2026-02-21 20:05 |
-| elsevier.com | 52 | C | 2026-02-21 19:16 |
-| evernote.com | 51 | C | 2026-02-21 19:15 |
-| theregister.com | 22 | C | 2026-02-21 19:15 |
-| 500px.com | 32 | C | 2026-02-21 19:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
