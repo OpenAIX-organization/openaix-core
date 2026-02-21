@@ -278,6 +278,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| dhs.gov | 61 | B | 2026-02-21 18:08 |
 | autodesk.com | 42 | C | 2026-02-21 18:08 |
 | purdue.edu | 55 | B | 2026-02-21 18:08 |
 | blogger.googleusercontent.co | 48 | C | 2026-02-21 18:08 |
@@ -291,7 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | kpmg.com | 53 | C | 2026-02-21 17:15 |
 | stripe.com | 52 | C | 2026-02-21 17:15 |
 | openssl.org | 54 | B | 2026-02-21 17:15 |
-| cn.wordpress.org | 58 | B | 2026-02-21 17:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
