@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 987 个
 - **平均分数**: 47.2/100
-- **最后更新**: 2026-02-21 14:05
+- **最后更新**: 2026-02-21 14:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| wustl.edu | 68 | A | 2026-02-21 14:07 |
+| dailymail.co.uk | 48 | C | 2026-02-21 14:06 |
+| digg.com | 54 | B | 2026-02-21 14:06 |
+| unicef.org | 35 | C | 2026-02-21 14:06 |
+| forms.gle | 31 | C | 2026-02-21 14:06 |
 | mp.weixin.qq.com | 39 | C | 2026-02-21 14:05 |
 | howstuffworks.com | 52 | C | 2026-02-21 14:05 |
 | salon.com | 62 | B | 2026-02-21 14:05 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | mpg.de | 45 | C | 2026-02-21 13:17 |
 | salesforce.com | 50 | C | 2026-02-21 13:16 |
 | pcmag.com | 45 | C | 2026-02-21 13:16 |
-| esa.int | 0 | ? | 2026-02-21 13:16 |
-| de-de.facebook.com | 44 | C | 2026-02-21 13:15 |
-| indiatimes.com | 55 | C | 2026-02-21 13:07 |
-| miit.gov.cn | 0 | ? | 2026-02-21 13:07 |
-| netflix.com | 52 | C | 2026-02-21 13:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
