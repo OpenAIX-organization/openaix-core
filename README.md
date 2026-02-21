@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 988 个
 - **平均分数**: 47.1/100
-- **最后更新**: 2026-02-21 21:12
+- **最后更新**: 2026-02-21 21:16
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| indiatimes.com | 55 | C | 2026-02-21 21:16 |
+| sec.gov | 50 | C | 2026-02-21 21:16 |
+| cnil.fr | 49 | C | 2026-02-21 21:15 |
+| bmj.com | 36 | C | 2026-02-21 21:15 |
+| docs.npmjs.com | 42 | C | 2026-02-21 21:15 |
+| fcc.gov | 61 | B | 2026-02-21 21:15 |
+| zhihu.com | 48 | C | 2026-02-21 21:15 |
 | lenovo.com | 42 | C | 2026-02-21 21:12 |
 | pypi.org | 54 | C | 2026-02-21 21:12 |
 | youronlinechoices.com | 73 | A | 2026-02-21 21:12 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | m.facebook.com | 44 | C | 2026-02-21 21:09 |
 | linklist.bio | 51 | C | 2026-02-21 21:09 |
 | bp.blogspot.com | 0 | ? | 2026-02-21 21:09 |
-| openssl.org | 54 | B | 2026-02-21 21:09 |
-| mega.nz | 38 | C | 2026-02-21 21:09 |
-| skype.com | 63 | B | 2026-02-21 20:16 |
-| generatepress.com | 65 | C | 2026-02-21 20:16 |
-| nobelprize.org | 59 | C | 2026-02-21 20:15 |
-| typepad.com | 25 | C | 2026-02-21 20:15 |
-| ed.gov | 66 | A | 2026-02-21 20:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
