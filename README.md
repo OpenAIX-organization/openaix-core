@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 13:04
+- **最后更新**: 2026-02-22 13:17
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| nymag.com | 37 | C | 2026-02-22 13:17 |
+| uiuc.edu | 69 | A | 2026-02-22 13:16 |
+| cam.ac.uk | 61 | B | 2026-02-22 13:16 |
+| flickr.com | 58 | C | 2026-02-22 13:16 |
+| archives.gov | 61 | B | 2026-02-22 13:15 |
+| stumbleupon.com | 44 | C | 2026-02-22 13:15 |
+| healthline.com | 46 | C | 2026-02-22 13:15 |
+| speedtest.net | 41 | C | 2026-02-22 13:15 |
 | statcounter.com | 66 | C | 2026-02-22 13:03 |
 | sourceforge.net | 26 | C | 2026-02-22 13:03 |
 | dribbble.com | 57 | C | 2026-02-22 13:03 |
 | ny.gov | 22 | C | 2026-02-22 13:03 |
 | drive.google.com | 40 | C | 2026-02-22 13:03 |
 | gemini.google.com | 32 | C | 2026-02-22 12:15 |
-| discord.com | 69 | B | 2026-02-22 12:15 |
-| jigsaw.w3.org | 63 | A | 2026-02-22 12:15 |
-| wisc.edu | 61 | B | 2026-02-22 12:15 |
-| berkeley.edu | 70 | A | 2026-02-22 12:15 |
-| upenn.edu | 63 | B | 2026-02-22 12:09 |
-| aljazeera.com | 52 | C | 2026-02-22 12:09 |
-| people.com | 60 | B | 2026-02-22 12:09 |
-| i.imgur.com | 65 | A | 2026-02-22 12:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
