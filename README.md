@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 12:09
+- **最后更新**: 2026-02-22 12:15
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| gemini.google.com | 32 | C | 2026-02-22 12:15 |
+| discord.com | 69 | B | 2026-02-22 12:15 |
+| jigsaw.w3.org | 63 | A | 2026-02-22 12:15 |
+| wisc.edu | 61 | B | 2026-02-22 12:15 |
+| berkeley.edu | 70 | A | 2026-02-22 12:15 |
 | upenn.edu | 63 | B | 2026-02-22 12:09 |
 | aljazeera.com | 52 | C | 2026-02-22 12:09 |
 | people.com | 60 | B | 2026-02-22 12:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | webmd.com | 37 | C | 2026-02-22 12:08 |
 | withgoogle.com | 47 | C | 2026-02-22 12:08 |
 | jquery.com | 65 | C | 2026-02-22 12:08 |
-| change.org | 54 | C | 2026-02-22 12:07 |
-| cnil.fr | 49 | C | 2026-02-22 12:07 |
-| nodejs.org | 52 | C | 2026-02-22 12:06 |
-| noaa.gov | 64 | A | 2026-02-22 12:06 |
-| houzz.com | 52 | C | 2026-02-22 12:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
