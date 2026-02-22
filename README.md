@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 993 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 01:07
+- **最后更新**: 2026-02-23 01:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| facebook.com | 51 | C | 2026-02-23 01:16 |
+| podbean.com | 54 | C | 2026-02-23 01:16 |
+| energy.gov | 59 | B | 2026-02-23 01:16 |
+| ubuntu.com | 54 | C | 2026-02-23 01:15 |
+| arstechnica.com | 58 | C | 2026-02-23 01:15 |
 | calendly.com | 47 | C | 2026-02-23 01:07 |
 | govt.nz | 0 | ? | 2026-02-23 01:06 |
 | upwork.com | 33 | C | 2026-02-23 01:06 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | texas.gov | 59 | B | 2026-02-23 01:05 |
 | nike.com | 54 | B | 2026-02-23 01:05 |
 | creativecommons.org | 65 | B | 2026-02-23 01:04 |
-| marketwatch.com | 29 | C | 2026-02-23 01:04 |
-| f5.com | 60 | C | 2026-02-23 00:20 |
-| lnkd.in | 44 | C | 2026-02-23 00:19 |
-| mastodon.social | 34 | C | 2026-02-23 00:19 |
-| oreilly.com | 53 | C | 2026-02-23 00:19 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
