@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 994 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 05:08
+- **最后更新**: 2026-02-23 05:16
 
 ### 等级分布
 
@@ -278,6 +278,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| netlify.com | 52 | C | 2026-02-23 05:16 |
+| ourworldindata.org | 43 | C | 2026-02-23 05:15 |
+| dropbox.com | 53 | C | 2026-02-23 05:15 |
+| thenai.org | 55 | B | 2026-02-23 05:15 |
+| journals.lww.com | 22 | C | 2026-02-23 05:15 |
+| intel.com | 62 | C | 2026-02-23 05:15 |
 | dailymail.co.uk | 48 | C | 2026-02-23 05:08 |
 | etsy.com | 32 | C | 2026-02-23 05:08 |
 | addtoany.com | 65 | A | 2026-02-23 05:08 |
@@ -286,12 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | youtube.com | 38 | C | 2026-02-23 05:06 |
 | meetup.com | 59 | B | 2026-02-23 05:06 |
 | nyu.edu | 39 | C | 2026-02-23 05:06 |
-| square.site | 41 | C | 2026-02-23 05:06 |
-| asu.edu | 36 | C | 2026-02-23 05:05 |
-| news.cn | 41 | C | 2026-02-23 04:14 |
-| doi.org | 46 | C | 2026-02-23 04:14 |
-| fifa.com | 33 | C | 2026-02-23 04:14 |
-| espn.com | 53 | C | 2026-02-23 04:14 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
