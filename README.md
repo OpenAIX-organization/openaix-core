@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 993 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-23 00:08
+- **最后更新**: 2026-02-23 00:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| smithsonianmag.com | 73 | A | 2026-02-23 00:10 |
+| yandex.ru | 31 | C | 2026-02-23 00:10 |
+| 163.com | 65 | A | 2026-02-23 00:09 |
+| geocities.com | 0 | ? | 2026-02-23 00:09 |
+| tripod.com | 69 | A | 2026-02-23 00:09 |
 | 1688.com | 48 | C | 2026-02-23 00:08 |
 | history.com | 45 | C | 2026-02-23 00:07 |
 | themeforest.net | 22 | C | 2026-02-23 00:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ucla.edu | 75 | A | 2026-02-22 23:17 |
 | tiktok.com | 42 | C | 2026-02-22 23:17 |
 | stripe.com | 52 | C | 2026-02-22 23:17 |
-| pubmed.ncbi.nlm.nih.gov | 59 | C | 2026-02-22 23:16 |
-| zoom.us | 60 | C | 2026-02-22 23:16 |
-| scribd.com | 70 | B | 2026-02-22 23:16 |
-| bitly.com | 62 | C | 2026-02-22 23:16 |
-| fao.org | 46 | C | 2026-02-22 23:16 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
