@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 992 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 16:16
+- **最后更新**: 2026-02-22 17:06
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| theregister.com | 22 | C | 2026-02-22 17:06 |
+| notion.so | 55 | B | 2026-02-22 17:06 |
+| mastodon.social | 34 | C | 2026-02-22 17:06 |
+| wikihow.com | 51 | C | 2026-02-22 17:06 |
+| arxiv.org | 53 | C | 2026-02-22 17:06 |
 | bc.ca | 0 | ? | 2026-02-22 16:16 |
 | envato.market | 0 | ? | 2026-02-22 16:16 |
 | stripe.com | 52 | C | 2026-02-22 16:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | intel.com | 62 | C | 2026-02-22 16:15 |
 | bund.de | 36 | C | 2026-02-22 16:15 |
 | technologyreview.com | 32 | C | 2026-02-22 16:08 |
-| mastodon.social | 34 | C | 2026-02-22 16:08 |
-| google.nl | 26 | C | 2026-02-22 16:07 |
-| theguardian.com | 34 | C | 2026-02-22 16:07 |
-| tumblr.com | 38 | C | 2026-02-22 16:07 |
-| greenpeace.org | 59 | B | 2026-02-22 15:16 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
