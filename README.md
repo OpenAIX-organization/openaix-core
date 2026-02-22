@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 07:16
+- **最后更新**: 2026-02-22 08:11
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| vuejs.org | 54 | C | 2026-02-22 08:11 |
+| web.dev | 46 | C | 2026-02-22 08:11 |
+| fedex.com | 60 | C | 2026-02-22 08:11 |
+| khanacademy.org | 57 | C | 2026-02-22 08:10 |
+| claude.ai | 22 | C | 2026-02-22 08:10 |
 | caltech.edu | 65 | B | 2026-02-22 07:16 |
 | b-cdn.net | 61 | C | 2026-02-22 07:16 |
 | sohu.com | 55 | B | 2026-02-22 07:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | census.gov | 52 | C | 2026-02-22 07:07 |
 | bund.de | 36 | C | 2026-02-22 07:07 |
 | nobelprize.org | 59 | C | 2026-02-22 07:06 |
-| automattic.com | 64 | B | 2026-02-22 07:06 |
-| amazonaws.com | 0 | ? | 2026-02-22 07:05 |
-| githubusercontent.com | 0 | ? | 2026-02-22 07:05 |
-| fool.com | 48 | C | 2026-02-22 07:05 |
-| bsky.app | 40 | C | 2026-02-22 07:05 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
