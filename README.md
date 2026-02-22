@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 09:15
+- **最后更新**: 2026-02-22 10:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| naver.com | 32 | C | 2026-02-22 10:07 |
+| 163.com | 65 | A | 2026-02-22 10:06 |
+| ebay.co.uk | 35 | C | 2026-02-22 10:06 |
+| sharepoint.com | 65 | C | 2026-02-22 10:06 |
+| politico.com | 24 | C | 2026-02-22 10:05 |
 | usc.edu | 57 | C | 2026-02-22 09:15 |
 | soundcloud.com | 66 | A | 2026-02-22 09:14 |
 | globenewswire.com | 55 | C | 2026-02-22 09:14 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | fastcompany.com | 31 | C | 2026-02-22 09:13 |
 | substack.com | 36 | C | 2026-02-22 09:12 |
 | aboutcookies.org | 48 | C | 2026-02-22 09:12 |
-| altervista.org | 74 | A | 2026-02-22 09:12 |
-| spiegel.de | 37 | C | 2026-02-22 09:12 |
-| chicagotribune.com | 56 | C | 2026-02-22 09:11 |
-| colorlib.com | 69 | A | 2026-02-22 08:17 |
-| feedly.com | 59 | C | 2026-02-22 08:17 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
