@@ -278,6 +278,8 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| bilibili.com | 45 | C | 2026-02-22 21:10 |
+| caltech.edu | 65 | B | 2026-02-22 21:10 |
 | ubuntu.com | 54 | C | 2026-02-22 21:10 |
 | nps.gov | 67 | A | 2026-02-22 21:10 |
 | pubmed.ncbi.nlm.nih.gov | 59 | B | 2026-02-22 21:10 |
@@ -290,8 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | metro.co.uk | 46 | C | 2026-02-22 21:07 |
 | java.com | 46 | C | 2026-02-22 21:06 |
 | arcgis.com | 34 | C | 2026-02-22 20:15 |
-| nokia.com | 53 | C | 2026-02-22 20:15 |
-| tesla.com | 38 | C | 2026-02-22 20:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
