@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 10:07
+- **最后更新**: 2026-02-22 10:08
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| earthlink.net | 40 | C | 2026-02-22 10:08 |
+| padlet.com | 56 | C | 2026-02-22 10:08 |
+| icann.org | 36 | C | 2026-02-22 10:08 |
+| tandfonline.com | 22 | C | 2026-02-22 10:08 |
+| jetbrains.com | 46 | C | 2026-02-22 10:08 |
 | naver.com | 32 | C | 2026-02-22 10:07 |
 | 163.com | 65 | A | 2026-02-22 10:06 |
 | ebay.co.uk | 35 | C | 2026-02-22 10:06 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | soundcloud.com | 66 | A | 2026-02-22 09:14 |
 | globenewswire.com | 55 | C | 2026-02-22 09:14 |
 | sfgate.com | 26 | C | 2026-02-22 09:14 |
-| ox.ac.uk | 65 | A | 2026-02-22 09:14 |
-| en.wikipedia.org | 70 | A | 2026-02-22 09:13 |
-| fastcompany.com | 31 | C | 2026-02-22 09:13 |
-| substack.com | 36 | C | 2026-02-22 09:12 |
-| aboutcookies.org | 48 | C | 2026-02-22 09:12 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
