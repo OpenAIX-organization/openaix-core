@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 992 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 19:07
+- **最后更新**: 2026-02-22 19:10
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| mdpi.com | 51 | C | 2026-02-22 19:10 |
+| jd.com | 60 | C | 2026-02-22 19:10 |
+| qz.com | 45 | C | 2026-02-22 19:09 |
+| nyc.gov | 43 | C | 2026-02-22 19:09 |
+| speedtest.net | 41 | C | 2026-02-22 19:09 |
+| zillow.com | 26 | C | 2026-02-22 19:08 |
+| umich.edu | 22 | C | 2026-02-22 19:08 |
 | crunchbase.com | 43 | C | 2026-02-22 19:07 |
 | docker.com | 56 | C | 2026-02-22 19:07 |
 | ebay.com | 36 | C | 2026-02-22 19:07 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | i.imgur.com | 65 | A | 2026-02-22 19:06 |
 | deviantart.com | 66 | A | 2026-02-22 18:17 |
 | mailinabox.email | 53 | C | 2026-02-22 18:17 |
-| statcounter.com | 66 | C | 2026-02-22 18:15 |
-| outlook.live.com | 37 | C | 2026-02-22 18:15 |
-| java.com | 46 | C | 2026-02-22 18:07 |
-| bandcamp.com | 69 | B | 2026-02-22 18:07 |
-| mlb.com | 63 | A | 2026-02-22 18:07 |
-| bell-labs.com | 52 | C | 2026-02-22 18:07 |
-| cancer.gov | 55 | B | 2026-02-22 18:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
