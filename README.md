@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 994 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 05:16
+- **最后更新**: 2026-02-23 06:09
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| safety.google | 67 | A | 2026-02-23 06:09 |
+| digitaltrends.com | 36 | C | 2026-02-23 06:09 |
+| soundcloud.com | 66 | A | 2026-02-23 06:09 |
+| khanacademy.org | 57 | C | 2026-02-23 06:09 |
+| tamu.edu | 67 | A | 2026-02-23 06:09 |
+| g.co | 57 | B | 2026-02-23 06:07 |
+| envato.market | 0 | ? | 2026-02-23 06:07 |
+| indiegogo.com | 24 | C | 2026-02-23 06:07 |
+| journals.lww.com | 22 | C | 2026-02-23 06:07 |
+| ibb.co | 62 | B | 2026-02-23 06:06 |
+| asu.edu | 36 | C | 2026-02-23 06:06 |
 | laracasts.com | 28 | C | 2026-02-23 05:16 |
 | fifa.com | 33 | C | 2026-02-23 05:16 |
 | pixabay.com | 22 | C | 2026-02-23 05:16 |
-| sketchfab.com | 66 | A | 2026-02-23 05:16 |
-| netlify.com | 52 | C | 2026-02-23 05:16 |
-| ourworldindata.org | 43 | C | 2026-02-23 05:15 |
-| dropbox.com | 53 | C | 2026-02-23 05:15 |
-| thenai.org | 55 | B | 2026-02-23 05:15 |
-| journals.lww.com | 22 | C | 2026-02-23 05:15 |
-| intel.com | 62 | C | 2026-02-23 05:15 |
-| dailymail.co.uk | 48 | C | 2026-02-23 05:08 |
-| etsy.com | 32 | C | 2026-02-23 05:08 |
-| addtoany.com | 65 | A | 2026-02-23 05:08 |
-| cnbc.com | 42 | C | 2026-02-23 05:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
