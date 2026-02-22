@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 13:17
+- **最后更新**: 2026-02-22 14:04
 
 ### 等级分布
 
@@ -278,6 +278,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| iop.org | 49 | C | 2026-02-22 14:04 |
+| api.whatsapp.com | 37 | C | 2026-02-22 14:04 |
+| cloud.tencent.com | 39 | C | 2026-02-22 14:04 |
+| target.com | 34 | C | 2026-02-22 14:04 |
+| threads.com | 42 | C | 2026-02-22 14:03 |
+| 1688.com | 48 | C | 2026-02-22 14:03 |
 | nymag.com | 37 | C | 2026-02-22 13:17 |
 | uiuc.edu | 69 | A | 2026-02-22 13:16 |
 | cam.ac.uk | 61 | B | 2026-02-22 13:16 |
@@ -286,12 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | stumbleupon.com | 44 | C | 2026-02-22 13:15 |
 | healthline.com | 46 | C | 2026-02-22 13:15 |
 | speedtest.net | 41 | C | 2026-02-22 13:15 |
-| statcounter.com | 66 | C | 2026-02-22 13:03 |
-| sourceforge.net | 26 | C | 2026-02-22 13:03 |
-| dribbble.com | 57 | C | 2026-02-22 13:03 |
-| ny.gov | 22 | C | 2026-02-22 13:03 |
-| drive.google.com | 40 | C | 2026-02-22 13:03 |
-| gemini.google.com | 32 | C | 2026-02-22 12:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
