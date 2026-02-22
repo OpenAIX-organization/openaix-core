@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 08:11
+- **最后更新**: 2026-02-22 08:12
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| buydomains.com | 23 | C | 2026-02-22 08:12 |
+| moz.com | 55 | B | 2026-02-22 08:12 |
+| mystrikingly.com | 52 | C | 2026-02-22 08:12 |
+| pypi.org | 54 | C | 2026-02-22 08:11 |
+| target.com | 43 | C | 2026-02-22 08:11 |
 | vuejs.org | 54 | C | 2026-02-22 08:11 |
 | web.dev | 46 | C | 2026-02-22 08:11 |
 | fedex.com | 60 | C | 2026-02-22 08:11 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | b-cdn.net | 61 | C | 2026-02-22 07:16 |
 | sohu.com | 55 | B | 2026-02-22 07:16 |
 | t.co | 32 | C | 2026-02-22 07:15 |
-| openldap.org | 0 | ? | 2026-02-22 07:15 |
-| hollywoodreporter.com | 38 | C | 2026-02-22 07:08 |
-| census.gov | 52 | C | 2026-02-22 07:07 |
-| bund.de | 36 | C | 2026-02-22 07:07 |
-| nobelprize.org | 59 | C | 2026-02-22 07:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
