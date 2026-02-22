@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 992 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 18:17
+- **最后更新**: 2026-02-22 19:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| crunchbase.com | 43 | C | 2026-02-22 19:07 |
+| docker.com | 56 | C | 2026-02-22 19:07 |
+| ebay.com | 36 | C | 2026-02-22 19:07 |
+| cdn.shopify.com | 47 | C | 2026-02-22 19:06 |
+| i.imgur.com | 65 | A | 2026-02-22 19:06 |
 | deviantart.com | 66 | A | 2026-02-22 18:17 |
 | mailinabox.email | 53 | C | 2026-02-22 18:17 |
 | statcounter.com | 66 | C | 2026-02-22 18:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | mlb.com | 63 | A | 2026-02-22 18:07 |
 | bell-labs.com | 52 | C | 2026-02-22 18:07 |
 | cancer.gov | 55 | B | 2026-02-22 18:06 |
-| haxx.se | 48 | C | 2026-02-22 17:15 |
-| google.de | 26 | C | 2026-02-22 17:15 |
-| dot.gov | 61 | B | 2026-02-22 17:15 |
-| drive.google.com | 40 | C | 2026-02-22 17:15 |
-| microsoftonline.com | 0 | ? | 2026-02-22 17:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
