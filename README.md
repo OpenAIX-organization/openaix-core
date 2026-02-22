@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 992 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 21:16
+- **最后更新**: 2026-02-22 22:08
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| npr.org | 49 | C | 2026-02-22 22:08 |
+| prnewswire.com | 66 | A | 2026-02-22 22:07 |
+| square.site | 41 | C | 2026-02-22 22:07 |
+| nsw.gov.au | 64 | C | 2026-02-22 22:07 |
+| alibaba.com | 50 | C | 2026-02-22 22:06 |
 | books.google.com | 26 | C | 2026-02-22 21:16 |
 | odoo.com | 59 | B | 2026-02-22 21:15 |
 | gc.ca | 0 | ? | 2026-02-22 21:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | caltech.edu | 65 | B | 2026-02-22 21:10 |
 | ubuntu.com | 54 | C | 2026-02-22 21:10 |
 | nps.gov | 67 | A | 2026-02-22 21:10 |
-| pubmed.ncbi.nlm.nih.gov | 59 | B | 2026-02-22 21:10 |
-| indiegogo.com | 24 | C | 2026-02-22 21:10 |
-| on.ca | 0 | ? | 2026-02-22 21:10 |
-| mayoclinic.org | 46 | C | 2026-02-22 21:10 |
-| angular.io | 59 | C | 2026-02-22 21:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
