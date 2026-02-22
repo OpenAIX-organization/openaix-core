@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 992 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 17:06
+- **最后更新**: 2026-02-22 17:15
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| haxx.se | 48 | C | 2026-02-22 17:15 |
+| google.de | 26 | C | 2026-02-22 17:15 |
+| dot.gov | 61 | B | 2026-02-22 17:15 |
+| drive.google.com | 40 | C | 2026-02-22 17:15 |
+| microsoftonline.com | 0 | ? | 2026-02-22 17:15 |
 | theregister.com | 22 | C | 2026-02-22 17:06 |
 | notion.so | 55 | B | 2026-02-22 17:06 |
 | mastodon.social | 34 | C | 2026-02-22 17:06 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | envato.market | 0 | ? | 2026-02-22 16:16 |
 | stripe.com | 52 | C | 2026-02-22 16:16 |
 | sakura.ne.jp | 0 | ? | 2026-02-22 16:16 |
-| fastcompany.com | 31 | C | 2026-02-22 16:16 |
-| asus.com | 39 | C | 2026-02-22 16:16 |
-| intel.com | 62 | C | 2026-02-22 16:15 |
-| bund.de | 36 | C | 2026-02-22 16:15 |
-| technologyreview.com | 32 | C | 2026-02-22 16:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
