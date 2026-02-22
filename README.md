@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 47.0/100
-- **最后更新**: 2026-02-22 11:12
+- **最后更新**: 2026-02-22 11:15
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| github.com | 64 | C | 2026-02-22 11:15 |
+| pixabay.com | 22 | C | 2026-02-22 11:15 |
+| in.ua | 0 | ? | 2026-02-22 11:15 |
+| allaboutcookies.org | 32 | C | 2026-02-22 11:15 |
+| justice.gov | 0 | ? | 2026-02-22 11:15 |
 | wsj.com | 29 | C | 2026-02-22 11:12 |
 | loc.gov | 22 | C | 2026-02-22 11:12 |
 | podcasts.apple.com | 53 | C | 2026-02-22 11:12 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | taobao.com | 57 | C | 2026-02-22 11:09 |
 | teamviewer.com | 31 | C | 2026-02-22 10:15 |
 | google.it | 26 | C | 2026-02-22 10:15 |
-| theregister.com | 23 | C | 2026-02-22 10:15 |
-| northwestern.edu | 75 | A | 2026-02-22 10:15 |
-| workspaceupdates.googleblog. | 39 | C | 2026-02-22 10:15 |
-| earthlink.net | 40 | C | 2026-02-22 10:08 |
-| padlet.com | 56 | C | 2026-02-22 10:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
