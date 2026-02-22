@@ -278,6 +278,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| news.cn | 41 | C | 2026-02-23 04:14 |
+| doi.org | 46 | C | 2026-02-23 04:14 |
+| fifa.com | 33 | C | 2026-02-23 04:14 |
 | espn.com | 53 | C | 2026-02-23 04:14 |
 | aarp.org | 57 | B | 2026-02-23 04:14 |
 | globenewswire.com | 55 | C | 2026-02-23 04:14 |
@@ -289,9 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | cia.gov | 51 | C | 2026-02-23 04:12 |
 | dynadot.com | 56 | B | 2026-02-23 04:12 |
 | flickr.com | 58 | C | 2026-02-23 04:11 |
-| slack.com | 34 | C | 2026-02-23 04:11 |
-| padlet.com | 56 | C | 2026-02-23 04:11 |
-| trello.com | 58 | C | 2026-02-23 04:10 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
