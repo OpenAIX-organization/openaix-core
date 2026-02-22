@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 991 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-22 15:08
+- **最后更新**: 2026-02-22 15:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| greenpeace.org | 59 | B | 2026-02-22 15:16 |
+| google.co.in | 26 | C | 2026-02-22 15:15 |
+| brookings.edu | 49 | C | 2026-02-22 15:15 |
+| gmail.com | 45 | C | 2026-02-22 15:15 |
+| mail.google.com | 38 | C | 2026-02-22 15:15 |
 | pcmag.com | 45 | C | 2026-02-22 15:08 |
 | fool.com | 49 | C | 2026-02-22 15:08 |
 | kaspersky.com | 48 | C | 2026-02-22 15:08 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | bitnami.com | 52 | C | 2026-02-22 15:05 |
 | bp.blogspot.com | 0 | ? | 2026-02-22 15:05 |
 | fc2.com | 62 | B | 2026-02-22 15:05 |
-| share.google | 55 | C | 2026-02-22 15:05 |
-| vimeo.com | 45 | C | 2026-02-22 14:16 |
-| thelancet.com | 22 | C | 2026-02-22 14:16 |
-| de.wikipedia.org | 48 | C | 2026-02-22 14:16 |
-| live.com | 41 | C | 2026-02-22 14:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
