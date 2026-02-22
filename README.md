@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 994 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 06:16
+- **最后更新**: 2026-02-23 07:05
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| qc.ca | 0 | ? | 2026-02-23 07:05 |
+| cn.com | 56 | C | 2026-02-23 07:05 |
+| feedly.com | 59 | C | 2026-02-23 07:05 |
+| webflow.io | 48 | C | 2026-02-23 07:05 |
+| mastodon.social | 34 | C | 2026-02-23 07:05 |
 | hubspot.com | 53 | C | 2026-02-23 06:16 |
 | ovh.com | 47 | C | 2026-02-23 06:16 |
 | arxiv.org | 53 | C | 2026-02-23 06:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | digitaltrends.com | 36 | C | 2026-02-23 06:09 |
 | soundcloud.com | 66 | A | 2026-02-23 06:09 |
 | khanacademy.org | 57 | C | 2026-02-23 06:09 |
-| tamu.edu | 67 | A | 2026-02-23 06:09 |
-| g.co | 57 | B | 2026-02-23 06:07 |
-| envato.market | 0 | ? | 2026-02-23 06:07 |
-| indiegogo.com | 24 | C | 2026-02-23 06:07 |
-| journals.lww.com | 22 | C | 2026-02-23 06:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
