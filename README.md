@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 17:16
+- **最后更新**: 2026-02-23 18:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| gouv.fr | 0 | ? | 2026-02-23 18:07 |
+| padlet.com | 56 | C | 2026-02-23 18:07 |
+| scientificamerican.com | 48 | C | 2026-02-23 18:07 |
+| ted.com | 33 | C | 2026-02-23 18:07 |
+| cisco.com | 55 | B | 2026-02-23 18:07 |
 | nvidia.com | 53 | C | 2026-02-23 17:16 |
 | aboutads.info | 0 | ? | 2026-02-23 17:16 |
 | sites.google.com | 52 | C | 2026-02-23 17:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | usembassy.gov | 54 | B | 2026-02-23 17:07 |
 | techcrunch.com | 49 | C | 2026-02-23 17:07 |
 | goo.gl | 43 | C | 2026-02-23 17:06 |
-| noaa.gov | 64 | A | 2026-02-23 17:06 |
-| fbcdn.net | 51 | C | 2026-02-23 16:18 |
-| wa.me | 50 | C | 2026-02-23 16:18 |
-| lefigaro.fr | 48 | C | 2026-02-23 16:17 |
-| opensource.org | 58 | B | 2026-02-23 16:17 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
