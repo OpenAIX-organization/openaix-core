@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-24 05:07
+- **最后更新**: 2026-02-24 05:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| utoronto.ca | 62 | B | 2026-02-24 05:09 |
+| maps.google.com | 24 | C | 2026-02-24 05:09 |
+| twitch.tv | 46 | C | 2026-02-24 05:08 |
+| huffpost.com | 38 | C | 2026-02-24 05:08 |
+| news.cn | 41 | C | 2026-02-24 05:08 |
 | princeton.edu | 0 | ? | 2026-02-24 05:05 |
 | wpa.qq.com | 54 | B | 2026-02-24 05:05 |
 | bitnami.com | 52 | C | 2026-02-24 05:05 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | dx.doi.org | 64 | A | 2026-02-24 04:16 |
 | ucsd.edu | 59 | C | 2026-02-24 04:16 |
 | youku.com | 39 | C | 2026-02-24 04:16 |
-| letsencrypt.org | 53 | C | 2026-02-24 04:15 |
-| opera.com | 64 | B | 2026-02-24 04:15 |
-| zoho.com | 84 | S | 2026-02-24 04:15 |
-| bbc.com | 43 | C | 2026-02-24 04:09 |
-| hindustantimes.com | 51 | C | 2026-02-24 04:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
