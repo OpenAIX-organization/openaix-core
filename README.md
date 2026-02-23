@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 01:11
+- **最后更新**: 2026-02-24 01:14
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| douban.com | 55 | B | 2026-02-24 01:14 |
+| tandfonline.com | 22 | C | 2026-02-24 01:13 |
+| scribd.com | 70 | B | 2026-02-24 01:13 |
+| steamcommunity.com | 57 | B | 2026-02-24 01:13 |
+| wipo.int | 66 | A | 2026-02-24 01:13 |
+| typepad.com | 25 | C | 2026-02-24 01:12 |
+| amzn.to | 36 | C | 2026-02-24 01:12 |
 | autodesk.com | 42 | C | 2026-02-24 01:11 |
 | digg.com | 54 | B | 2026-02-24 01:11 |
 | deezer.com | 57 | C | 2026-02-24 01:11 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | web.whatsapp.com | 38 | C | 2026-02-24 01:11 |
 | githubusercontent.com | 0 | ? | 2026-02-24 01:10 |
 | metmuseum.org | 51 | C | 2026-02-24 01:10 |
-| photobucket.com | 40 | C | 2026-02-24 01:10 |
-| smithsonianmag.com | 73 | A | 2026-02-24 01:10 |
-| sohu.com | 38 | C | 2026-02-24 00:16 |
-| nypost.com | 45 | C | 2026-02-24 00:16 |
-| mi.com | 60 | C | 2026-02-24 00:16 |
-| yandex.com | 39 | C | 2026-02-24 00:15 |
-| slate.com | 48 | C | 2026-02-24 00:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
