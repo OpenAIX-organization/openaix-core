@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 16:09
+- **最后更新**: 2026-02-23 16:10
 
 ### 等级分布
 
@@ -278,6 +278,9 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| ahrefs.com | 55 | C | 2026-02-23 16:10 |
+| meta.com | 32 | C | 2026-02-23 16:10 |
+| mcgill.ca | 47 | C | 2026-02-23 16:09 |
 | sciencedaily.com | 70 | A | 2026-02-23 16:09 |
 | digital.com | 0 | ? | 2026-02-23 16:09 |
 | joomla.org | 63 | B | 2026-02-23 16:09 |
@@ -289,9 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | thoughtco.com | 60 | B | 2026-02-23 16:08 |
 | sch.id | 0 | ? | 2026-02-23 16:08 |
 | newscientist.com | 37 | C | 2026-02-23 16:07 |
-| northwestern.edu | 75 | A | 2026-02-23 16:07 |
-| congress.gov | 24 | C | 2026-02-23 16:07 |
-| gob.ar | 0 | ? | 2026-02-23 16:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
