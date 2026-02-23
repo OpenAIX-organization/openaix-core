@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 17:07
+- **最后更新**: 2026-02-23 17:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| nvidia.com | 53 | C | 2026-02-23 17:16 |
+| aboutads.info | 0 | ? | 2026-02-23 17:16 |
+| sites.google.com | 52 | C | 2026-02-23 17:15 |
+| usa.gov | 63 | A | 2026-02-23 17:15 |
+| dreamhost.com | 57 | C | 2026-02-23 17:15 |
 | bls.gov | 59 | C | 2026-02-23 17:07 |
 | usembassy.gov | 54 | B | 2026-02-23 17:07 |
 | techcrunch.com | 49 | C | 2026-02-23 17:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | wa.me | 50 | C | 2026-02-23 16:18 |
 | lefigaro.fr | 48 | C | 2026-02-23 16:17 |
 | opensource.org | 58 | B | 2026-02-23 16:17 |
-| is.gd | 22 | C | 2026-02-23 16:16 |
-| ycombinator.com | 45 | C | 2026-02-23 16:16 |
-| change.org | 54 | C | 2026-02-23 16:16 |
-| hyatt.com | 31 | C | 2026-02-23 16:16 |
-| wiktionary.org | 62 | B | 2026-02-23 16:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
