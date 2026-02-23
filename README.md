@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 995 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 11:09
+- **最后更新**: 2026-02-23 11:16
 
 ### 等级分布
 
@@ -278,6 +278,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| curl.se | 47 | C | 2026-02-23 11:16 |
+| mystrikingly.com | 52 | C | 2026-02-23 11:15 |
+| fbcdn.net | 50 | C | 2026-02-23 11:15 |
+| docs.google.com | 38 | C | 2026-02-23 11:15 |
 | netflix.com | 52 | C | 2026-02-23 11:09 |
 | target.com | 47 | C | 2026-02-23 11:09 |
 | cpanel.net | 55 | C | 2026-02-23 11:09 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | dmoz.org | 0 | ? | 2026-02-23 11:07 |
 | telegra.ph | 46 | C | 2026-02-23 11:07 |
 | kde.org | 77 | A | 2026-02-23 11:07 |
-| nydailynews.com | 58 | C | 2026-02-23 10:15 |
-| drupal.org | 56 | C | 2026-02-23 10:15 |
-| congress.gov | 24 | C | 2026-02-23 10:11 |
-| canva.com | 24 | C | 2026-02-23 10:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
