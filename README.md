@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 995 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 10:11
+- **最后更新**: 2026-02-23 11:07
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| huffpost.com | 39 | C | 2026-02-23 11:07 |
+| wixsite.com | 0 | ? | 2026-02-23 11:07 |
+| dmoz.org | 0 | ? | 2026-02-23 11:07 |
+| telegra.ph | 46 | C | 2026-02-23 11:07 |
+| kde.org | 77 | A | 2026-02-23 11:07 |
+| nydailynews.com | 58 | C | 2026-02-23 10:15 |
+| drupal.org | 56 | C | 2026-02-23 10:15 |
 | congress.gov | 24 | C | 2026-02-23 10:11 |
 | canva.com | 24 | C | 2026-02-23 10:11 |
 | wordpress.org | 62 | A | 2026-02-23 10:11 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | googletagmanager.com | 54 | B | 2026-02-23 10:08 |
 | dailymotion.com | 52 | C | 2026-02-23 10:07 |
 | pnas.org | 24 | C | 2026-02-23 10:07 |
-| cookiedatabase.org | 54 | C | 2026-02-23 10:07 |
-| wp.com | 59 | B | 2026-02-23 10:07 |
-| bitly.com | 62 | C | 2026-02-23 09:16 |
-| box.com | 56 | C | 2026-02-23 09:15 |
-| eventbrite.co.uk | 56 | C | 2026-02-23 09:15 |
-| metro.co.uk | 45 | C | 2026-02-23 09:15 |
-| google.es | 26 | C | 2026-02-23 09:12 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
