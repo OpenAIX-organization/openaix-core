@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 15:09
+- **最后更新**: 2026-02-23 15:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| iubenda.com | 62 | C | 2026-02-23 15:16 |
+| yahoo.com | 40 | C | 2026-02-23 15:16 |
+| wpengine.com | 57 | C | 2026-02-23 15:15 |
+| help.opera.com | 76 | A | 2026-02-23 15:15 |
+| pbs.org | 46 | C | 2026-02-23 15:15 |
 | gartner.com | 60 | B | 2026-02-23 15:09 |
 | amazonaws.com | 0 | ? | 2026-02-23 15:09 |
 | policies.google.com | 42 | C | 2026-02-23 15:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | xkcd.com | 47 | C | 2026-02-23 15:07 |
 | matterport.com | 65 | C | 2026-02-23 15:07 |
 | list-manage.com | 0 | ? | 2026-02-23 15:07 |
-| people.com | 60 | B | 2026-02-23 15:07 |
-| thesun.co.uk | 33 | C | 2026-02-23 14:16 |
-| bizjournals.com | 22 | C | 2026-02-23 14:16 |
-| indiana.edu | 49 | C | 2026-02-23 14:15 |
-| paypal.me | 55 | C | 2026-02-23 14:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
