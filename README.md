@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 06:16
+- **最后更新**: 2026-02-24 07:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| dynadot.com | 56 | B | 2026-02-24 07:09 |
+| on.ca | 0 | ? | 2026-02-24 07:09 |
+| docker.com | 56 | C | 2026-02-24 07:09 |
+| hootsuite.com | 56 | C | 2026-02-24 07:09 |
+| gravatar.com | 49 | C | 2026-02-24 07:08 |
 | salon.com | 62 | B | 2026-02-24 06:16 |
 | networkadvertising.org | 55 | B | 2026-02-24 06:16 |
 | justice.gov | 0 | ? | 2026-02-24 06:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gitlab.com | 58 | C | 2026-02-24 06:08 |
 | metmuseum.org | 51 | C | 2026-02-24 06:08 |
 | urbandictionary.com | 65 | C | 2026-02-24 06:08 |
-| springer.com | 60 | B | 2026-02-24 06:07 |
-| docs.google.com | 38 | C | 2026-02-24 06:07 |
-| squarespace.com | 62 | C | 2026-02-24 06:06 |
-| unesco.org | 0 | ? | 2026-02-24 06:06 |
-| iheart.com | 50 | C | 2026-02-24 06:06 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
