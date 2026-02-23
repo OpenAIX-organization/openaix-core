@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 995 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 11:07
+- **最后更新**: 2026-02-23 11:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| netflix.com | 52 | C | 2026-02-23 11:09 |
+| target.com | 47 | C | 2026-02-23 11:09 |
+| cpanel.net | 55 | C | 2026-02-23 11:09 |
+| google.co.in | 26 | C | 2026-02-23 11:08 |
+| centos.org | 65 | A | 2026-02-23 11:08 |
 | huffpost.com | 39 | C | 2026-02-23 11:07 |
 | wixsite.com | 0 | ? | 2026-02-23 11:07 |
 | dmoz.org | 0 | ? | 2026-02-23 11:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | drupal.org | 56 | C | 2026-02-23 10:15 |
 | congress.gov | 24 | C | 2026-02-23 10:11 |
 | canva.com | 24 | C | 2026-02-23 10:11 |
-| wordpress.org | 62 | A | 2026-02-23 10:11 |
-| time.com | 50 | C | 2026-02-23 10:09 |
-| googletagmanager.com | 54 | B | 2026-02-23 10:08 |
-| dailymotion.com | 52 | C | 2026-02-23 10:07 |
-| pnas.org | 24 | C | 2026-02-23 10:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
