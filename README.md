@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 07:11
+- **最后更新**: 2026-02-24 07:12
 
 ### 等级分布
 
@@ -278,6 +278,10 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| urldefense.com | 44 | C | 2026-02-24 07:12 |
+| getbootstrap.com | 50 | C | 2026-02-24 07:12 |
+| utexas.edu | 63 | A | 2026-02-24 07:11 |
+| nike.com | 54 | B | 2026-02-24 07:11 |
 | line.me | 78 | S | 2026-02-24 07:11 |
 | sch.id | 0 | ? | 2026-02-24 07:11 |
 | hyatt.com | 31 | C | 2026-02-24 07:11 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | docker.com | 56 | C | 2026-02-24 07:09 |
 | hootsuite.com | 56 | C | 2026-02-24 07:09 |
 | gravatar.com | 49 | C | 2026-02-24 07:08 |
-| salon.com | 62 | B | 2026-02-24 06:16 |
-| networkadvertising.org | 55 | B | 2026-02-24 06:16 |
-| justice.gov | 0 | ? | 2026-02-24 06:15 |
-| envato.market | 0 | ? | 2026-02-24 06:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
