@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 16:16
+- **最后更新**: 2026-02-23 16:18
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fbcdn.net | 51 | C | 2026-02-23 16:18 |
+| wa.me | 50 | C | 2026-02-23 16:18 |
+| lefigaro.fr | 48 | C | 2026-02-23 16:17 |
+| opensource.org | 58 | B | 2026-02-23 16:17 |
+| is.gd | 22 | C | 2026-02-23 16:16 |
 | ycombinator.com | 45 | C | 2026-02-23 16:16 |
 | change.org | 54 | C | 2026-02-23 16:16 |
 | hyatt.com | 31 | C | 2026-02-23 16:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ahrefs.com | 55 | C | 2026-02-23 16:10 |
 | meta.com | 32 | C | 2026-02-23 16:10 |
 | mcgill.ca | 47 | C | 2026-02-23 16:09 |
-| sciencedaily.com | 70 | A | 2026-02-23 16:09 |
-| digital.com | 0 | ? | 2026-02-23 16:09 |
-| joomla.org | 63 | B | 2026-02-23 16:09 |
-| vercel.com | 65 | C | 2026-02-23 16:09 |
-| cpanel.com | 55 | C | 2026-02-23 16:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
