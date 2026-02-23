@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 05:16
+- **最后更新**: 2026-02-24 06:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| docs.google.com | 38 | C | 2026-02-24 06:07 |
+| squarespace.com | 62 | C | 2026-02-24 06:06 |
+| unesco.org | 0 | ? | 2026-02-24 06:06 |
+| iheart.com | 50 | C | 2026-02-24 06:06 |
+| cdc.gov | 70 | A | 2026-02-24 06:06 |
 | oecd.org | 22 | C | 2026-02-24 05:16 |
 | utah.edu | 77 | S | 2026-02-24 05:15 |
 | cia.gov | 51 | C | 2026-02-24 05:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | maps.google.com | 24 | C | 2026-02-24 05:09 |
 | twitch.tv | 46 | C | 2026-02-24 05:08 |
 | huffpost.com | 38 | C | 2026-02-24 05:08 |
-| news.cn | 41 | C | 2026-02-24 05:08 |
-| princeton.edu | 0 | ? | 2026-02-24 05:05 |
-| wpa.qq.com | 54 | B | 2026-02-24 05:05 |
-| bitnami.com | 52 | C | 2026-02-24 05:05 |
-| dropcatch.com | 34 | C | 2026-02-24 05:05 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
