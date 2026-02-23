@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 00:09
+- **最后更新**: 2026-02-24 00:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| zend.com | 53 | C | 2026-02-24 00:10 |
+| translate.google.com | 34 | C | 2026-02-24 00:10 |
+| yp.to | 0 | ? | 2026-02-24 00:10 |
+| indiatimes.com | 55 | C | 2026-02-24 00:10 |
+| wired.com | 41 | C | 2026-02-24 00:09 |
 | fandom.com | 59 | B | 2026-02-24 00:09 |
 | autodesk.com | 42 | C | 2026-02-24 00:09 |
 | thefreedictionary.com | 24 | C | 2026-02-24 00:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gitbook.io | 58 | C | 2026-02-24 00:07 |
 | voanews.com | 69 | A | 2026-02-24 00:07 |
 | dreamhost.com | 57 | C | 2026-02-24 00:07 |
-| google.de | 26 | C | 2026-02-24 00:07 |
-| constantcontact.com | 25 | C | 2026-02-23 23:14 |
-| drive.google.com | 40 | C | 2026-02-23 23:14 |
-| sourceforge.net | 26 | C | 2026-02-23 23:14 |
-| us02web.zoom.us | 53 | C | 2026-02-23 23:14 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
