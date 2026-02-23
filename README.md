@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 02:07
+- **最后更新**: 2026-02-24 03:06
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| oecd.org | 22 | C | 2026-02-24 03:06 |
+| mps.gov.cn | 0 | ? | 2026-02-24 03:06 |
+| yp.to | 0 | ? | 2026-02-24 03:06 |
+| apachefriends.org | 56 | C | 2026-02-24 03:06 |
+| playstation.com | 47 | C | 2026-02-24 03:05 |
 | usembassy.gov | 54 | B | 2026-02-24 02:07 |
 | dreamhost.com | 57 | C | 2026-02-24 02:07 |
 | uol.com.br | 50 | C | 2026-02-24 02:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | mashable.com | 52 | C | 2026-02-24 01:16 |
 | gob.mx | 0 | ? | 2026-02-24 01:16 |
 | google.nl | 26 | C | 2026-02-24 01:16 |
-| douban.com | 55 | B | 2026-02-24 01:14 |
-| tandfonline.com | 22 | C | 2026-02-24 01:13 |
-| scribd.com | 70 | B | 2026-02-24 01:13 |
-| steamcommunity.com | 57 | B | 2026-02-24 01:13 |
-| wipo.int | 66 | A | 2026-02-24 01:13 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
