@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 994 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 08:12
+- **最后更新**: 2026-02-23 08:13
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| beian.miit.gov.cn | 30 | C | 2026-02-23 08:13 |
+| whatsapp.com | 53 | C | 2026-02-23 08:13 |
+| calendly.com | 47 | C | 2026-02-23 08:13 |
+| blogger.com | 52 | C | 2026-02-23 08:13 |
+| apa.org | 60 | C | 2026-02-23 08:12 |
 | worldbank.org | 66 | A | 2026-02-23 08:12 |
 | barnesandnoble.com | 57 | B | 2026-02-23 08:12 |
 | withgoogle.com | 47 | C | 2026-02-23 08:11 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | wordpress.org | 62 | A | 2026-02-23 08:10 |
 | esa.int | 0 | ? | 2026-02-23 08:10 |
 | so.com | 39 | C | 2026-02-23 08:09 |
-| amazon.co.uk | 44 | C | 2026-02-23 08:08 |
-| cookiedatabase.org | 54 | C | 2026-02-23 07:17 |
-| weibo.com | 39 | C | 2026-02-23 07:15 |
-| yumpu.com | 51 | C | 2026-02-23 07:08 |
-| goodreads.com | 69 | B | 2026-02-23 07:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
