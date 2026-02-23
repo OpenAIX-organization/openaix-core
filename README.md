@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 20:13
+- **最后更新**: 2026-02-23 21:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| billboard.com | 32 | C | 2026-02-23 21:09 |
+| utah.edu | 77 | S | 2026-02-23 21:09 |
+| statcounter.com | 66 | C | 2026-02-23 21:09 |
+| api.whatsapp.com | 37 | C | 2026-02-23 21:09 |
+| list-manage.com | 0 | ? | 2026-02-23 21:09 |
 | reuters.com | 29 | C | 2026-02-23 20:12 |
 | giphy.com | 22 | C | 2026-02-23 20:12 |
 | surveymonkey.com | 65 | B | 2026-02-23 20:12 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | en.wikipedia.org | 71 | A | 2026-02-23 20:10 |
 | siemens.com | 38 | C | 2026-02-23 20:10 |
 | web.dev | 46 | C | 2026-02-23 20:10 |
-| joomla.org | 63 | B | 2026-02-23 20:10 |
-| weather.com | 47 | C | 2026-02-23 20:09 |
-| google.de | 26 | C | 2026-02-23 20:09 |
-| spotify.com | 56 | B | 2026-02-23 20:09 |
-| bls.gov | 59 | C | 2026-02-23 20:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
