@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 06:08
+- **最后更新**: 2026-02-24 06:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| salon.com | 62 | B | 2026-02-24 06:16 |
+| networkadvertising.org | 55 | B | 2026-02-24 06:16 |
+| justice.gov | 0 | ? | 2026-02-24 06:15 |
+| envato.market | 0 | ? | 2026-02-24 06:15 |
+| ebay.com | 36 | C | 2026-02-24 06:15 |
 | picasaweb.google.com | 48 | C | 2026-02-24 06:08 |
 | gitlab.com | 58 | C | 2026-02-24 06:08 |
 | metmuseum.org | 51 | C | 2026-02-24 06:08 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | squarespace.com | 62 | C | 2026-02-24 06:06 |
 | unesco.org | 0 | ? | 2026-02-24 06:06 |
 | iheart.com | 50 | C | 2026-02-24 06:06 |
-| cdc.gov | 70 | A | 2026-02-24 06:06 |
-| oecd.org | 22 | C | 2026-02-24 05:16 |
-| utah.edu | 77 | S | 2026-02-24 05:15 |
-| cia.gov | 51 | C | 2026-02-24 05:15 |
-| tripadvisor.com | 31 | C | 2026-02-24 05:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
