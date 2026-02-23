@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 22:16
+- **最后更新**: 2026-02-23 23:12
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| wa.link | 69 | C | 2026-02-23 23:12 |
+| or.kr | 0 | ? | 2026-02-23 23:12 |
+| blog.google | 48 | C | 2026-02-23 23:12 |
+| macromedia.com | 0 | ? | 2026-02-23 23:10 |
+| m.me | 57 | C | 2026-02-23 23:09 |
 | today.com | 42 | C | 2026-02-23 22:16 |
 | aliyun.com | 44 | C | 2026-02-23 22:16 |
 | colorado.edu | 68 | A | 2026-02-23 22:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | hugedomains.com | 36 | C | 2026-02-23 22:09 |
 | githubusercontent.com | 0 | ? | 2026-02-23 22:09 |
 | espn.com | 54 | C | 2026-02-23 22:09 |
-| stumbleupon.com | 45 | C | 2026-02-23 22:09 |
-| itunes.apple.com | 62 | B | 2026-02-23 22:09 |
-| ihg.com | 50 | C | 2026-02-23 22:08 |
-| digitalocean.com | 57 | C | 2026-02-23 21:16 |
-| bu.edu | 57 | B | 2026-02-23 21:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
