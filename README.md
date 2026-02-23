@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 16:10
+- **最后更新**: 2026-02-23 16:16
 
 ### 等级分布
 
@@ -278,6 +278,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| ycombinator.com | 45 | C | 2026-02-23 16:16 |
+| change.org | 54 | C | 2026-02-23 16:16 |
+| hyatt.com | 31 | C | 2026-02-23 16:16 |
+| wiktionary.org | 62 | B | 2026-02-23 16:15 |
+| marketwatch.com | 29 | C | 2026-02-23 16:15 |
+| variety.com | 42 | C | 2026-02-23 16:15 |
 | ahrefs.com | 55 | C | 2026-02-23 16:10 |
 | meta.com | 32 | C | 2026-02-23 16:10 |
 | mcgill.ca | 47 | C | 2026-02-23 16:09 |
@@ -286,12 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | joomla.org | 63 | B | 2026-02-23 16:09 |
 | vercel.com | 65 | C | 2026-02-23 16:09 |
 | cpanel.com | 55 | C | 2026-02-23 16:09 |
-| hostinger.com | 56 | C | 2026-02-23 16:09 |
-| steampowered.com | 42 | C | 2026-02-23 16:08 |
-| amazon.fr | 44 | C | 2026-02-23 16:08 |
-| thoughtco.com | 60 | B | 2026-02-23 16:08 |
-| sch.id | 0 | ? | 2026-02-23 16:08 |
-| newscientist.com | 37 | C | 2026-02-23 16:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
