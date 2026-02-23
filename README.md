@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 01:16
+- **最后更新**: 2026-02-24 02:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| usembassy.gov | 54 | B | 2026-02-24 02:07 |
+| dreamhost.com | 57 | C | 2026-02-24 02:07 |
+| uol.com.br | 50 | C | 2026-02-24 02:07 |
+| express.co.uk | 40 | C | 2026-02-24 02:06 |
+| visualstudio.com | 51 | C | 2026-02-24 02:06 |
 | fcc.gov | 61 | B | 2026-02-24 01:16 |
 | mashable.com | 52 | C | 2026-02-24 01:16 |
 | gob.mx | 0 | ? | 2026-02-24 01:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | scribd.com | 70 | B | 2026-02-24 01:13 |
 | steamcommunity.com | 57 | B | 2026-02-24 01:13 |
 | wipo.int | 66 | A | 2026-02-24 01:13 |
-| typepad.com | 25 | C | 2026-02-24 01:12 |
-| amzn.to | 36 | C | 2026-02-24 01:12 |
-| autodesk.com | 42 | C | 2026-02-24 01:11 |
-| digg.com | 54 | B | 2026-02-24 01:11 |
-| deezer.com | 57 | C | 2026-02-24 01:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
