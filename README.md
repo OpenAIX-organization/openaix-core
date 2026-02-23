@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 21:16
+- **最后更新**: 2026-02-23 22:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| githubusercontent.com | 0 | ? | 2026-02-23 22:09 |
+| espn.com | 54 | C | 2026-02-23 22:09 |
+| stumbleupon.com | 45 | C | 2026-02-23 22:09 |
+| itunes.apple.com | 62 | B | 2026-02-23 22:09 |
+| ihg.com | 50 | C | 2026-02-23 22:08 |
 | digitalocean.com | 57 | C | 2026-02-23 21:16 |
 | bu.edu | 57 | B | 2026-02-23 21:15 |
 | newyorker.com | 41 | C | 2026-02-23 21:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | stripe.com | 52 | C | 2026-02-23 21:11 |
 | xing.com | 0 | ? | 2026-02-23 21:10 |
 | calameo.com | 76 | A | 2026-02-23 21:10 |
-| billboard.com | 32 | C | 2026-02-23 21:09 |
-| utah.edu | 77 | S | 2026-02-23 21:09 |
-| statcounter.com | 66 | C | 2026-02-23 21:09 |
-| api.whatsapp.com | 37 | C | 2026-02-23 21:09 |
-| list-manage.com | 0 | ? | 2026-02-23 21:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
