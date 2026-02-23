@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 995 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 09:16
+- **最后更新**: 2026-02-23 10:08
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| googletagmanager.com | 54 | B | 2026-02-23 10:08 |
+| dailymotion.com | 52 | C | 2026-02-23 10:07 |
+| pnas.org | 24 | C | 2026-02-23 10:07 |
+| cookiedatabase.org | 54 | C | 2026-02-23 10:07 |
+| wp.com | 59 | B | 2026-02-23 10:07 |
 | bitly.com | 62 | C | 2026-02-23 09:16 |
 | box.com | 56 | C | 2026-02-23 09:15 |
 | eventbrite.co.uk | 56 | C | 2026-02-23 09:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | statcounter.com | 66 | C | 2026-02-23 09:12 |
 | independent.co.uk | 55 | C | 2026-02-23 09:12 |
 | cloudfront.net | 0 | ? | 2026-02-23 09:12 |
-| envato.com | 44 | C | 2026-02-23 08:17 |
-| csdn.net | 31 | C | 2026-02-23 08:17 |
-| cbsnews.com | 52 | C | 2026-02-23 08:16 |
-| www.legifrance.gouv.fr | 24 | C | 2026-02-23 08:15 |
-| edx.org | 45 | C | 2026-02-23 08:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
