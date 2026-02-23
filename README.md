@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 995 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 13:07
+- **最后更新**: 2026-02-23 13:16
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| shopify.com | 55 | C | 2026-02-23 13:16 |
+| miitbeian.gov.cn | 0 | ? | 2026-02-23 13:15 |
+| mailchi.mp | 55 | C | 2026-02-23 13:15 |
+| drupal.org | 56 | C | 2026-02-23 13:15 |
+| woocommerce.com | 64 | C | 2026-02-23 13:15 |
+| trendmicro.com | 53 | C | 2026-02-23 13:08 |
+| nvidia.com | 53 | C | 2026-02-23 13:08 |
+| playstation.com | 47 | C | 2026-02-23 13:08 |
+| zoom.com | 60 | C | 2026-02-23 13:07 |
 | cancer.org | 66 | A | 2026-02-23 13:07 |
-| trendmicro.com | 53 | C | 2026-02-23 13:06 |
 | joomla.org | 63 | B | 2026-02-23 13:06 |
 | proofpoint.com | 46 | C | 2026-02-23 13:06 |
 | xing.com | 0 | ? | 2026-02-23 13:06 |
 | pcworld.com | 38 | C | 2026-02-23 12:16 |
-| vogue.com | 46 | C | 2026-02-23 12:15 |
-| outlook.com | 37 | C | 2026-02-23 12:15 |
-| bloomberg.com | 42 | C | 2026-02-23 12:15 |
-| justia.com | 22 | C | 2026-02-23 12:15 |
-| hugedomains.com | 36 | C | 2026-02-23 12:11 |
-| mystrikingly.com | 52 | C | 2026-02-23 12:09 |
-| nist.gov | 49 | C | 2026-02-23 12:08 |
-| foursquare.com | 63 | C | 2026-02-23 12:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
