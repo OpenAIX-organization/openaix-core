@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-23 16:07
+- **最后更新**: 2026-02-23 16:09
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| sciencedaily.com | 70 | A | 2026-02-23 16:09 |
+| digital.com | 0 | ? | 2026-02-23 16:09 |
+| joomla.org | 63 | B | 2026-02-23 16:09 |
+| vercel.com | 65 | C | 2026-02-23 16:09 |
+| cpanel.com | 55 | C | 2026-02-23 16:09 |
+| hostinger.com | 56 | C | 2026-02-23 16:09 |
+| steampowered.com | 42 | C | 2026-02-23 16:08 |
+| amazon.fr | 44 | C | 2026-02-23 16:08 |
+| thoughtco.com | 60 | B | 2026-02-23 16:08 |
+| sch.id | 0 | ? | 2026-02-23 16:08 |
+| newscientist.com | 37 | C | 2026-02-23 16:07 |
+| northwestern.edu | 75 | A | 2026-02-23 16:07 |
+| congress.gov | 24 | C | 2026-02-23 16:07 |
 | gob.ar | 0 | ? | 2026-02-23 16:07 |
-| vogue.com | 48 | C | 2026-02-23 16:07 |
-| claude.ai | 22 | C | 2026-02-23 16:07 |
-| novell.com | 0 | ? | 2026-02-23 16:06 |
-| bilibili.com | 45 | C | 2026-02-23 16:06 |
-| nic.in | 0 | ? | 2026-02-23 16:06 |
-| iubenda.com | 62 | C | 2026-02-23 15:16 |
-| yahoo.com | 40 | C | 2026-02-23 15:16 |
-| wpengine.com | 57 | C | 2026-02-23 15:15 |
-| help.opera.com | 76 | A | 2026-02-23 15:15 |
-| pbs.org | 46 | C | 2026-02-23 15:15 |
-| gartner.com | 60 | B | 2026-02-23 15:09 |
-| amazonaws.com | 0 | ? | 2026-02-23 15:09 |
-| policies.google.com | 42 | C | 2026-02-23 15:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
