@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 01:07
+- **最后更新**: 2026-02-25 01:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| tiktok.com | 42 | C | 2026-02-25 01:16 |
+| ihg.com | 50 | C | 2026-02-25 01:15 |
+| fandom.com | 59 | B | 2026-02-25 01:15 |
+| wikimedia.org | 49 | C | 2026-02-25 01:15 |
+| hostinger.com | 56 | C | 2026-02-25 01:15 |
 | platform.openai.com | 18 | C | 2026-02-25 01:07 |
 | mysql.com | 59 | B | 2026-02-25 01:07 |
 | billboard.com | 32 | C | 2026-02-25 01:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ucsb.edu | 54 | C | 2026-02-25 00:07 |
 | weforum.org | 49 | C | 2026-02-25 00:07 |
 | medicalnewstoday.com | 39 | C | 2026-02-25 00:07 |
-| harvard.edu | 54 | C | 2026-02-25 00:06 |
-| amazon.de | 44 | C | 2026-02-25 00:06 |
-| microsoftonline.com | 0 | ? | 2026-02-25 00:06 |
-| flickr.com | 58 | C | 2026-02-25 00:06 |
-| fastcompany.com | 31 | C | 2026-02-25 00:05 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
