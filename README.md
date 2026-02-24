@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 02:16
+- **最后更新**: 2026-02-25 03:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| www.legifrance.gouv.fr | 24 | C | 2026-02-25 03:07 |
+| apple.com | 62 | B | 2026-02-25 03:07 |
+| mozilla.com | 73 | A | 2026-02-25 03:07 |
+| wixsite.com | 0 | ? | 2026-02-25 03:07 |
+| foursquare.com | 63 | C | 2026-02-25 03:07 |
 | support.microsoft.com | 58 | B | 2026-02-25 02:16 |
 | steampowered.com | 42 | C | 2026-02-25 02:15 |
 | perl.com | 47 | C | 2026-02-25 02:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | bitbucket.org | 69 | C | 2026-02-25 02:07 |
 | vic.gov.au | 47 | C | 2026-02-25 02:07 |
 | sciencemag.org | 22 | C | 2026-02-25 02:06 |
-| yahoo.com | 40 | C | 2026-02-25 02:06 |
-| tiktok.com | 42 | C | 2026-02-25 01:16 |
-| ihg.com | 50 | C | 2026-02-25 01:15 |
-| fandom.com | 59 | B | 2026-02-25 01:15 |
-| wikimedia.org | 49 | C | 2026-02-25 01:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
