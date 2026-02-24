@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 00:08
+- **最后更新**: 2026-02-25 01:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| platform.openai.com | 18 | C | 2026-02-25 01:07 |
+| mysql.com | 59 | B | 2026-02-25 01:07 |
+| billboard.com | 32 | C | 2026-02-25 01:07 |
+| pubmed.ncbi.nlm.nih.gov | 59 | C | 2026-02-25 01:06 |
+| wpguardian.io | 52 | C | 2026-02-25 01:06 |
 | tripod.com | 69 | A | 2026-02-25 00:08 |
 | ucsb.edu | 54 | C | 2026-02-25 00:07 |
 | weforum.org | 49 | C | 2026-02-25 00:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | microsoftonline.com | 0 | ? | 2026-02-25 00:06 |
 | flickr.com | 58 | C | 2026-02-25 00:06 |
 | fastcompany.com | 31 | C | 2026-02-25 00:05 |
-| jimdo.com | 58 | B | 2026-02-25 00:05 |
-| eurekalert.org | 64 | A | 2026-02-25 00:03 |
-| gofundme.com | 50 | C | 2026-02-25 00:03 |
-| cloudflare.com | 55 | C | 2026-02-25 00:03 |
-| barnesandnoble.com | 57 | B | 2026-02-25 00:02 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
