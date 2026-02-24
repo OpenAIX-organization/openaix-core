@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 12:16
+- **最后更新**: 2026-02-24 13:06
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| france24.com | 52 | C | 2026-02-24 13:06 |
+| airbnb.com | 49 | C | 2026-02-24 13:06 |
+| gmail.com | 45 | C | 2026-02-24 13:05 |
+| justice.gov | 0 | ? | 2026-02-24 13:05 |
+| ftc.gov | 51 | C | 2026-02-24 13:05 |
 | flic.kr | 58 | C | 2026-02-24 12:16 |
 | worldbank.org | 66 | A | 2026-02-24 12:16 |
 | timeanddate.com | 33 | C | 2026-02-24 12:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | xbox.com | 47 | C | 2026-02-24 12:09 |
 | techcrunch.com | 49 | C | 2026-02-24 12:09 |
 | pypi.org | 54 | C | 2026-02-24 12:08 |
-| douyin.com | 35 | C | 2026-02-24 12:08 |
-| freepik.com | 56 | C | 2026-02-24 12:07 |
-| mediawiki.org | 76 | S | 2026-02-24 12:07 |
-| dot.gov | 61 | B | 2026-02-24 12:07 |
-| speedtest.net | 41 | C | 2026-02-24 12:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
