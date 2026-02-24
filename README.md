@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 03:09
+- **最后更新**: 2026-02-25 03:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| developers.google.com | 53 | C | 2026-02-25 03:10 |
+| themeisle.com | 58 | B | 2026-02-25 03:10 |
+| bbb.org | 62 | B | 2026-02-25 03:10 |
+| economist.com | 24 | C | 2026-02-25 03:09 |
+| iop.org | 49 | C | 2026-02-25 03:09 |
 | cornell.edu | 63 | B | 2026-02-25 03:09 |
 | mongodb.com | 46 | C | 2026-02-25 03:08 |
 | g.page | 64 | C | 2026-02-25 03:08 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | apple.com | 62 | B | 2026-02-25 03:07 |
 | mozilla.com | 73 | A | 2026-02-25 03:07 |
 | wixsite.com | 0 | ? | 2026-02-25 03:07 |
-| foursquare.com | 63 | C | 2026-02-25 03:07 |
-| support.microsoft.com | 58 | B | 2026-02-25 02:16 |
-| steampowered.com | 42 | C | 2026-02-25 02:15 |
-| perl.com | 47 | C | 2026-02-25 02:15 |
-| play.google.com | 34 | C | 2026-02-25 02:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
