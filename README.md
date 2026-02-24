@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 01:16
+- **最后更新**: 2026-02-25 02:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| statcounter.com | 66 | C | 2026-02-25 02:07 |
+| bitbucket.org | 69 | C | 2026-02-25 02:07 |
+| vic.gov.au | 47 | C | 2026-02-25 02:07 |
+| sciencemag.org | 22 | C | 2026-02-25 02:06 |
+| yahoo.com | 40 | C | 2026-02-25 02:06 |
 | tiktok.com | 42 | C | 2026-02-25 01:16 |
 | ihg.com | 50 | C | 2026-02-25 01:15 |
 | fandom.com | 59 | B | 2026-02-25 01:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | mysql.com | 59 | B | 2026-02-25 01:07 |
 | billboard.com | 32 | C | 2026-02-25 01:07 |
 | pubmed.ncbi.nlm.nih.gov | 59 | C | 2026-02-25 01:06 |
-| wpguardian.io | 52 | C | 2026-02-25 01:06 |
-| tripod.com | 69 | A | 2026-02-25 00:08 |
-| ucsb.edu | 54 | C | 2026-02-25 00:07 |
-| weforum.org | 49 | C | 2026-02-25 00:07 |
-| medicalnewstoday.com | 39 | C | 2026-02-25 00:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
