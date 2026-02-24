@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 08:11
+- **最后更新**: 2026-02-24 08:14
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| flickr.com | 58 | C | 2026-02-24 08:14 |
+| tmall.com | 57 | C | 2026-02-24 08:13 |
+| texas.gov | 59 | B | 2026-02-24 08:13 |
+| goodreads.com | 69 | B | 2026-02-24 08:13 |
+| help.opera.com | 76 | A | 2026-02-24 08:12 |
 | www.legifrance.gouv.fr | 25 | C | 2026-02-24 08:11 |
 | smithsonianmag.com | 73 | A | 2026-02-24 08:11 |
 | chicagotribune.com | 53 | B | 2026-02-24 08:11 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | utexas.edu | 63 | A | 2026-02-24 07:11 |
 | nike.com | 54 | B | 2026-02-24 07:11 |
 | line.me | 78 | S | 2026-02-24 07:11 |
-| sch.id | 0 | ? | 2026-02-24 07:11 |
-| hyatt.com | 31 | C | 2026-02-24 07:11 |
-| google.fr | 26 | C | 2026-02-24 07:11 |
-| epa.gov | 62 | B | 2026-02-24 07:11 |
-| dynadot.com | 56 | B | 2026-02-24 07:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
