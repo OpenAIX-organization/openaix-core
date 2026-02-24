@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 15:07
+- **最后更新**: 2026-02-24 15:08
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| archives.gov | 61 | B | 2026-02-24 15:08 |
+| sites.google.com | 52 | C | 2026-02-24 15:08 |
+| usc.edu | 57 | C | 2026-02-24 15:08 |
+| cisco.com | 55 | B | 2026-02-24 15:08 |
+| deezer.com | 57 | C | 2026-02-24 15:08 |
 | kaspersky.com | 0 | ? | 2026-02-24 15:07 |
 | notion.so | 55 | B | 2026-02-24 15:07 |
 | help.opera.com | 76 | A | 2026-02-24 15:06 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | appspot.com | 54 | C | 2026-02-24 14:15 |
 | wpa.qq.com | 54 | B | 2026-02-24 14:15 |
 | ssrn.com | 24 | C | 2026-02-24 14:15 |
-| cpanel.net | 55 | C | 2026-02-24 14:15 |
-| intel.com | 62 | C | 2026-02-24 14:13 |
-| plos.org | 57 | C | 2026-02-24 14:13 |
-| developers.google.com | 53 | C | 2026-02-24 14:12 |
-| loc.gov | 22 | C | 2026-02-24 14:12 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
