@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 16:18
+- **最后更新**: 2026-02-24 17:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| douban.com | 55 | B | 2026-02-24 17:09 |
+| office365.com | 55 | C | 2026-02-24 17:09 |
+| gartner.com | 60 | B | 2026-02-24 17:09 |
+| cnbc.com | 42 | C | 2026-02-24 17:09 |
+| apple.com | 62 | B | 2026-02-24 17:08 |
 | blogspot.co.uk | 31 | C | 2026-02-24 16:18 |
 | ccc.de | 68 | A | 2026-02-24 16:18 |
 | cell.com | 22 | C | 2026-02-24 16:18 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | eurekalert.org | 64 | A | 2026-02-24 16:16 |
 | news.com.au | 55 | C | 2026-02-24 16:15 |
 | www.legifrance.gouv.fr | 24 | C | 2026-02-24 16:15 |
-| trello.com | 58 | C | 2026-02-24 16:15 |
-| coursera.org | 48 | C | 2026-02-24 16:14 |
-| bls.gov | 59 | C | 2026-02-24 16:14 |
-| admin.ch | 64 | A | 2026-02-24 16:13 |
-| it.com | 74 | A | 2026-02-24 16:13 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
