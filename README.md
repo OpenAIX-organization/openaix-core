@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 10:06
+- **最后更新**: 2026-02-24 10:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| weibo.com | 39 | C | 2026-02-24 10:09 |
+| newyorker.com | 41 | C | 2026-02-24 10:08 |
+| wipo.int | 66 | A | 2026-02-24 10:08 |
+| itu.int | 0 | ? | 2026-02-24 10:07 |
+| sec.gov | 50 | C | 2026-02-24 10:07 |
 | pcmag.com | 45 | C | 2026-02-24 10:06 |
 | scholar.google.com | 29 | C | 2026-02-24 10:06 |
 | akismet.com | 52 | C | 2026-02-24 10:06 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | google.de | 26 | C | 2026-02-24 09:19 |
 | usatoday.com | 40 | C | 2026-02-24 09:18 |
 | us.com | 63 | B | 2026-02-24 09:18 |
-| perl.com | 47 | C | 2026-02-24 09:18 |
-| shutterstock.com | 29 | C | 2026-02-24 08:19 |
-| ovhcloud.com | 52 | C | 2026-02-24 08:18 |
-| de-de.facebook.com | 44 | C | 2026-02-24 08:17 |
-| strato.de | 58 | B | 2026-02-24 08:17 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
