@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| mastercard.com | 48 | C | 2026-02-24 17:11 |
+| digg.com | 54 | B | 2026-02-24 17:11 |
+| oecd.org | 22 | C | 2026-02-24 17:11 |
+| firefox.com | 71 | A | 2026-02-24 17:11 |
+| house.gov | 61 | B | 2026-02-24 17:11 |
 | canva.site | 57 | B | 2026-02-24 17:11 |
 | people.com | 60 | B | 2026-02-24 17:10 |
 | vogue.com | 45 | C | 2026-02-24 17:10 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | office365.com | 55 | C | 2026-02-24 17:09 |
 | gartner.com | 60 | B | 2026-02-24 17:09 |
 | cnbc.com | 42 | C | 2026-02-24 17:09 |
-| apple.com | 62 | B | 2026-02-24 17:08 |
-| blogspot.co.uk | 31 | C | 2026-02-24 16:18 |
-| ccc.de | 68 | A | 2026-02-24 16:18 |
-| cell.com | 22 | C | 2026-02-24 16:18 |
-| uci.edu | 54 | B | 2026-02-24 16:17 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
