@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 03:16
+- **最后更新**: 2026-02-25 03:18
 
 ### 等级分布
 
@@ -278,7 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
-| purdue.edu | 55 | B | 2026-02-25 03:16 |
+| purdue.edu | 55 | B | 2026-02-25 03:18 |
+| nodejs.org | 52 | C | 2026-02-25 03:18 |
+| microsoft.com | 64 | B | 2026-02-25 03:18 |
+| baidu.com | 32 | C | 2026-02-25 03:17 |
+| sedo.com | 48 | C | 2026-02-25 03:17 |
 | zend.com | 53 | C | 2026-02-25 03:16 |
 | or.kr | 0 | ? | 2026-02-25 03:16 |
 | square.site | 41 | C | 2026-02-25 03:16 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | cell.com | 22 | C | 2026-02-25 03:15 |
 | snapchat.com | 33 | C | 2026-02-25 03:15 |
 | developers.google.com | 53 | C | 2026-02-25 03:10 |
-| themeisle.com | 58 | B | 2026-02-25 03:10 |
-| bbb.org | 62 | B | 2026-02-25 03:10 |
-| economist.com | 24 | C | 2026-02-25 03:09 |
-| iop.org | 49 | C | 2026-02-25 03:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
