@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 00:03
+- **最后更新**: 2026-02-25 00:06
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| amazon.de | 44 | C | 2026-02-25 00:06 |
+| microsoftonline.com | 0 | ? | 2026-02-25 00:06 |
+| flickr.com | 58 | C | 2026-02-25 00:06 |
+| fastcompany.com | 31 | C | 2026-02-25 00:05 |
+| jimdo.com | 58 | B | 2026-02-25 00:05 |
 | eurekalert.org | 64 | A | 2026-02-25 00:03 |
 | gofundme.com | 50 | C | 2026-02-25 00:03 |
 | cloudflare.com | 55 | C | 2026-02-25 00:03 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | kernel.org | 78 | S | 2026-02-24 23:16 |
 | 1688.com | 48 | C | 2026-02-24 23:16 |
 | ccc.de | 68 | A | 2026-02-24 23:15 |
-| wikisource.org | 69 | A | 2026-02-24 23:15 |
-| faqs.org | 0 | ? | 2026-02-24 23:14 |
-| vogue.com | 45 | C | 2026-02-24 23:14 |
-| wikia.com | 0 | ? | 2026-02-24 23:14 |
-| vercel.com | 65 | C | 2026-02-24 23:14 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
