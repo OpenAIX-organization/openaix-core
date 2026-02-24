@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 18:17
+- **最后更新**: 2026-02-24 19:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| photobucket.com | 40 | C | 2026-02-24 19:07 |
+| ey.com | 60 | B | 2026-02-24 19:07 |
+| theglobeandmail.com | 34 | C | 2026-02-24 19:07 |
+| archive.org | 40 | C | 2026-02-24 19:06 |
+| si.edu | 0 | ? | 2026-02-24 19:06 |
 | indiegogo.com | 24 | C | 2026-02-24 18:17 |
 | garmin.com | 34 | C | 2026-02-24 18:17 |
 | or.kr | 0 | ? | 2026-02-24 18:17 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | shutterstock.com | 29 | C | 2026-02-24 18:16 |
 | fb.watch | 32 | C | 2026-02-24 18:16 |
 | spotify.com | 56 | B | 2026-02-24 18:09 |
-| upwork.com | 33 | C | 2026-02-24 18:09 |
-| archive.org | 40 | C | 2026-02-24 18:09 |
-| medlineplus.gov | 70 | A | 2026-02-24 18:09 |
-| mixcloud.com | 37 | C | 2026-02-24 18:08 |
-| hhs.gov | 54 | C | 2026-02-24 18:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
