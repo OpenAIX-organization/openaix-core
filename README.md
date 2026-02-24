@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.9/100
-- **最后更新**: 2026-02-24 21:14
+- **最后更新**: 2026-02-24 21:15
 
 ### 等级分布
 
@@ -278,7 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
-| ucsd.edu | 59 | C | 2026-02-24 21:14 |
+| deezer.com | 57 | C | 2026-02-24 21:15 |
+| githubusercontent.com | 0 | ? | 2026-02-24 21:15 |
+| isc.org | 56 | B | 2026-02-24 21:15 |
+| theatlantic.com | 65 | A | 2026-02-24 21:15 |
+| ucsd.edu | 59 | C | 2026-02-24 21:15 |
 | ftc.gov | 51 | C | 2026-02-24 21:14 |
 | vercel.com | 65 | C | 2026-02-24 21:14 |
 | business.safety.google | 66 | A | 2026-02-24 21:14 |
@@ -288,10 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | blogger.googleusercontent.co | 48 | C | 2026-02-24 21:12 |
 | deviantart.com | 66 | A | 2026-02-24 21:12 |
 | anchor.fm | 66 | C | 2026-02-24 21:12 |
-| x.com | 40 | C | 2026-02-24 21:11 |
-| indiana.edu | 49 | C | 2026-02-24 21:11 |
-| google.co.in | 26 | C | 2026-02-24 21:11 |
-| pitt.edu | 62 | B | 2026-02-24 21:10 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
