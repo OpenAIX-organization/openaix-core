@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 03:18
+- **最后更新**: 2026-02-25 04:09
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| ionos.de | 52 | B | 2026-02-25 04:09 |
+| cve.org | 46 | C | 2026-02-25 04:09 |
+| disqus.com | 39 | C | 2026-02-25 04:09 |
+| technologyreview.com | 32 | C | 2026-02-25 04:09 |
+| esa.int | 0 | ? | 2026-02-25 04:08 |
+| hyatt.com | 31 | C | 2026-02-25 04:07 |
+| expireddomains.com | 23 | C | 2026-02-25 04:07 |
 | purdue.edu | 55 | B | 2026-02-25 03:18 |
 | nodejs.org | 52 | C | 2026-02-25 03:18 |
 | microsoft.com | 64 | B | 2026-02-25 03:18 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | sedo.com | 48 | C | 2026-02-25 03:17 |
 | zend.com | 53 | C | 2026-02-25 03:16 |
 | or.kr | 0 | ? | 2026-02-25 03:16 |
-| square.site | 41 | C | 2026-02-25 03:16 |
-| lnkd.in | 44 | C | 2026-02-25 03:16 |
-| cn.com | 56 | C | 2026-02-25 03:15 |
-| pcmag.com | 45 | C | 2026-02-25 03:15 |
-| cell.com | 22 | C | 2026-02-25 03:15 |
-| snapchat.com | 33 | C | 2026-02-25 03:15 |
-| developers.google.com | 53 | C | 2026-02-25 03:10 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
