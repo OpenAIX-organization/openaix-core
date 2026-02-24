@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 04:09
+- **最后更新**: 2026-02-25 04:11
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| perl.com | 47 | C | 2026-02-25 04:11 |
+| mozilla.com | 73 | A | 2026-02-25 04:11 |
+| nydailynews.com | 58 | C | 2026-02-25 04:10 |
+| sciencemag.org | 22 | C | 2026-02-25 04:10 |
+| telegram.org | 64 | C | 2026-02-25 04:10 |
 | ionos.de | 52 | B | 2026-02-25 04:09 |
 | cve.org | 46 | C | 2026-02-25 04:09 |
 | disqus.com | 39 | C | 2026-02-25 04:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | expireddomains.com | 23 | C | 2026-02-25 04:07 |
 | purdue.edu | 55 | B | 2026-02-25 03:18 |
 | nodejs.org | 52 | C | 2026-02-25 03:18 |
-| microsoft.com | 64 | B | 2026-02-25 03:18 |
-| baidu.com | 32 | C | 2026-02-25 03:17 |
-| sedo.com | 48 | C | 2026-02-25 03:17 |
-| zend.com | 53 | C | 2026-02-25 03:16 |
-| or.kr | 0 | ? | 2026-02-25 03:16 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
