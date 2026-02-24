@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 06:15
+- **最后更新**: 2026-02-25 07:08
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| researchgate.net | 38 | C | 2026-02-25 07:08 |
+| chatgpt.com | 20 | C | 2026-02-25 07:08 |
+| eff.org | 71 | A | 2026-02-25 07:08 |
+| googletagmanager.com | 54 | B | 2026-02-25 07:07 |
+| medicalnewstoday.com | 39 | C | 2026-02-25 07:07 |
 | axios.com | 22 | C | 2026-02-25 06:15 |
 | t.co | 32 | C | 2026-02-25 06:15 |
 | census.gov | 52 | C | 2026-02-25 06:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | pnas.org | 24 | C | 2026-02-25 06:08 |
 | time.com | 50 | C | 2026-02-25 06:08 |
 | dropbox.com | 53 | C | 2026-02-25 06:08 |
-| entrepreneur.com | 29 | C | 2026-02-25 06:08 |
-| npmjs.com | 22 | C | 2026-02-25 05:16 |
-| b.hatena.ne.jp | 60 | C | 2026-02-25 05:16 |
-| mongodb.com | 41 | C | 2026-02-25 05:16 |
-| qualtrics.com | 62 | B | 2026-02-25 05:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
