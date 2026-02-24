@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 12:07
+- **最后更新**: 2026-02-24 12:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| fandom.com | 59 | B | 2026-02-24 12:09 |
+| xbox.com | 47 | C | 2026-02-24 12:09 |
+| techcrunch.com | 49 | C | 2026-02-24 12:09 |
+| pypi.org | 54 | C | 2026-02-24 12:08 |
+| douyin.com | 35 | C | 2026-02-24 12:08 |
 | freepik.com | 56 | C | 2026-02-24 12:07 |
 | mediawiki.org | 76 | S | 2026-02-24 12:07 |
 | dot.gov | 61 | B | 2026-02-24 12:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | twilio.com | 62 | C | 2026-02-24 11:16 |
 | man7.org | 64 | A | 2026-02-24 11:15 |
 | thenai.org | 55 | B | 2026-02-24 11:15 |
-| claude.ai | 22 | C | 2026-02-24 11:15 |
-| de.wikipedia.org | 64 | A | 2026-02-24 11:04 |
-| newscientist.com | 37 | C | 2026-02-24 11:04 |
-| spotify.com | 56 | B | 2026-02-24 11:04 |
-| 163.com | 65 | A | 2026-02-24 11:03 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
