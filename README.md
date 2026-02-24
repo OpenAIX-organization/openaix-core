@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 04:11
+- **最后更新**: 2026-02-25 05:13
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
-| perl.com | 47 | C | 2026-02-25 04:11 |
-| mozilla.com | 73 | A | 2026-02-25 04:11 |
-| nydailynews.com | 58 | C | 2026-02-25 04:10 |
-| sciencemag.org | 22 | C | 2026-02-25 04:10 |
-| telegram.org | 64 | C | 2026-02-25 04:10 |
-| ionos.de | 52 | B | 2026-02-25 04:09 |
-| cve.org | 46 | C | 2026-02-25 04:09 |
-| disqus.com | 39 | C | 2026-02-25 04:09 |
-| technologyreview.com | 32 | C | 2026-02-25 04:09 |
-| esa.int | 0 | ? | 2026-02-25 04:08 |
-| hyatt.com | 31 | C | 2026-02-25 04:07 |
-| expireddomains.com | 23 | C | 2026-02-25 04:07 |
-| purdue.edu | 55 | B | 2026-02-25 03:18 |
-| nodejs.org | 52 | C | 2026-02-25 03:18 |
+| github.io | 72 | B | 2026-02-25 05:13 |
+| ucl.ac.uk | 52 | C | 2026-02-25 05:13 |
+| wix.com | 51 | C | 2026-02-25 05:12 |
+| reddit.com | 46 | C | 2026-02-25 05:12 |
+| gizmodo.com | 60 | B | 2026-02-25 05:12 |
+| lonelyplanet.com | 64 | A | 2026-02-25 05:12 |
+| usa.gov | 63 | A | 2026-02-25 05:11 |
+| medscape.com | 43 | C | 2026-02-25 05:11 |
+| calendly.com | 47 | C | 2026-02-25 05:11 |
+| theguardian.com | 34 | C | 2026-02-25 05:11 |
+| thehill.com | 23 | C | 2026-02-25 05:10 |
+| typeform.com | 65 | C | 2026-02-25 05:09 |
+| fliphtml5.com | 61 | C | 2026-02-25 05:09 |
+| google.ca | 26 | C | 2026-02-25 05:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
