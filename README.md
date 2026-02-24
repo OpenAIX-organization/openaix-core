@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 18:09
+- **最后更新**: 2026-02-24 18:17
 
 ### 等级分布
 
@@ -278,20 +278,20 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| indiegogo.com | 24 | C | 2026-02-24 18:17 |
+| garmin.com | 34 | C | 2026-02-24 18:17 |
+| or.kr | 0 | ? | 2026-02-24 18:17 |
+| strato.de | 58 | B | 2026-02-24 18:17 |
+| theguardian.com | 34 | C | 2026-02-24 18:16 |
+| etsy.com | 32 | C | 2026-02-24 18:16 |
+| shutterstock.com | 29 | C | 2026-02-24 18:16 |
+| fb.watch | 32 | C | 2026-02-24 18:16 |
 | spotify.com | 56 | B | 2026-02-24 18:09 |
 | upwork.com | 33 | C | 2026-02-24 18:09 |
 | archive.org | 40 | C | 2026-02-24 18:09 |
 | medlineplus.gov | 70 | A | 2026-02-24 18:09 |
 | mixcloud.com | 37 | C | 2026-02-24 18:08 |
 | hhs.gov | 54 | C | 2026-02-24 18:07 |
-| nobelprize.org | 59 | C | 2026-02-24 18:07 |
-| jstor.org | 42 | C | 2026-02-24 18:07 |
-| umn.edu | 58 | B | 2026-02-24 18:07 |
-| merriam-webster.com | 51 | C | 2026-02-24 18:07 |
-| duckduckgo.com | 56 | C | 2026-02-24 17:16 |
-| getpocket.com | 57 | B | 2026-02-24 17:16 |
-| wired.com | 41 | C | 2026-02-24 17:16 |
-| m.facebook.com | 44 | C | 2026-02-24 17:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
