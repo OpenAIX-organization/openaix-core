@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 17:11
+- **最后更新**: 2026-02-24 17:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| duckduckgo.com | 56 | C | 2026-02-24 17:16 |
+| getpocket.com | 57 | B | 2026-02-24 17:16 |
+| wired.com | 41 | C | 2026-02-24 17:16 |
+| m.facebook.com | 44 | C | 2026-02-24 17:15 |
+| samsung.com | 63 | B | 2026-02-24 17:15 |
 | mastercard.com | 48 | C | 2026-02-24 17:11 |
 | digg.com | 54 | B | 2026-02-24 17:11 |
 | oecd.org | 22 | C | 2026-02-24 17:11 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | people.com | 60 | B | 2026-02-24 17:10 |
 | vogue.com | 45 | C | 2026-02-24 17:10 |
 | platform.openai.com | 15 | C | 2026-02-24 17:10 |
-| purdue.edu | 55 | B | 2026-02-24 17:10 |
-| douban.com | 55 | B | 2026-02-24 17:09 |
-| office365.com | 55 | C | 2026-02-24 17:09 |
-| gartner.com | 60 | B | 2026-02-24 17:09 |
-| cnbc.com | 42 | C | 2026-02-24 17:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
