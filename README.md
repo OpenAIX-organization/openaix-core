@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 07:10
+- **最后更新**: 2026-02-25 07:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| bmj.com | 36 | C | 2026-02-25 07:16 |
+| mailchi.mp | 54 | C | 2026-02-25 07:16 |
+| unfccc.int | 53 | C | 2026-02-25 07:16 |
+| share.google | 55 | C | 2026-02-25 07:15 |
+| ourworldindata.org | 43 | C | 2026-02-25 07:15 |
 | slideshare.net | 48 | C | 2026-02-25 07:10 |
 | nyc.gov | 43 | C | 2026-02-25 07:10 |
 | over-blog.com | 58 | B | 2026-02-25 07:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | chatgpt.com | 20 | C | 2026-02-25 07:08 |
 | eff.org | 71 | A | 2026-02-25 07:08 |
 | googletagmanager.com | 54 | B | 2026-02-25 07:07 |
-| medicalnewstoday.com | 39 | C | 2026-02-25 07:07 |
-| axios.com | 22 | C | 2026-02-25 06:15 |
-| t.co | 32 | C | 2026-02-25 06:15 |
-| census.gov | 52 | C | 2026-02-25 06:15 |
-| fliphtml5.com | 61 | C | 2026-02-25 06:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
