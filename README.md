@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 18:07
+- **最后更新**: 2026-02-24 18:09
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| spotify.com | 56 | B | 2026-02-24 18:09 |
+| upwork.com | 33 | C | 2026-02-24 18:09 |
+| archive.org | 40 | C | 2026-02-24 18:09 |
+| medlineplus.gov | 70 | A | 2026-02-24 18:09 |
+| mixcloud.com | 37 | C | 2026-02-24 18:08 |
 | hhs.gov | 54 | C | 2026-02-24 18:07 |
 | nobelprize.org | 59 | C | 2026-02-24 18:07 |
 | jstor.org | 42 | C | 2026-02-24 18:07 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | getpocket.com | 57 | B | 2026-02-24 17:16 |
 | wired.com | 41 | C | 2026-02-24 17:16 |
 | m.facebook.com | 44 | C | 2026-02-24 17:15 |
-| samsung.com | 63 | B | 2026-02-24 17:15 |
-| mastercard.com | 48 | C | 2026-02-24 17:11 |
-| digg.com | 54 | B | 2026-02-24 17:11 |
-| oecd.org | 22 | C | 2026-02-24 17:11 |
-| firefox.com | 71 | A | 2026-02-24 17:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
