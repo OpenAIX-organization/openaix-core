@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 20:08
+- **最后更新**: 2026-02-24 20:10
 
 ### 等级分布
 
@@ -278,6 +278,12 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| ebay.com | 36 | C | 2026-02-24 20:10 |
+| dmoz.org | 0 | ? | 2026-02-24 20:10 |
+| bitnami.com | 52 | C | 2026-02-24 20:10 |
+| uber.com | 65 | A | 2026-02-24 20:10 |
+| openssl.org | 54 | B | 2026-02-24 20:09 |
+| ycombinator.com | 45 | C | 2026-02-24 20:08 |
 | docker.com | 56 | C | 2026-02-24 20:08 |
 | calendly.com | 47 | C | 2026-02-24 20:08 |
 | theregister.com | 22 | C | 2026-02-24 20:08 |
@@ -286,12 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | admin.ch | 64 | A | 2026-02-24 20:08 |
 | navy.mil | 0 | ? | 2026-02-24 20:07 |
 | beian.gov.cn | 0 | ? | 2026-02-24 19:16 |
-| nature.com | 54 | B | 2026-02-24 19:16 |
-| edx.org | 45 | C | 2026-02-24 19:15 |
-| ebay.co.uk | 35 | C | 2026-02-24 19:15 |
-| nist.gov | 49 | C | 2026-02-24 19:15 |
-| youronlinechoices.eu | 73 | A | 2026-02-24 19:08 |
-| policies.google.com | 42 | C | 2026-02-24 19:08 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
