@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 19:08
+- **最后更新**: 2026-02-24 19:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| beian.gov.cn | 0 | ? | 2026-02-24 19:16 |
+| nature.com | 54 | B | 2026-02-24 19:16 |
+| edx.org | 45 | C | 2026-02-24 19:15 |
+| ebay.co.uk | 35 | C | 2026-02-24 19:15 |
+| nist.gov | 49 | C | 2026-02-24 19:15 |
 | youronlinechoices.eu | 73 | A | 2026-02-24 19:08 |
 | policies.google.com | 42 | C | 2026-02-24 19:08 |
 | constantcontact.com | 25 | C | 2026-02-24 19:08 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | ey.com | 60 | B | 2026-02-24 19:07 |
 | theglobeandmail.com | 34 | C | 2026-02-24 19:07 |
 | archive.org | 40 | C | 2026-02-24 19:06 |
-| si.edu | 0 | ? | 2026-02-24 19:06 |
-| indiegogo.com | 24 | C | 2026-02-24 18:17 |
-| garmin.com | 34 | C | 2026-02-24 18:17 |
-| or.kr | 0 | ? | 2026-02-24 18:17 |
-| strato.de | 58 | B | 2026-02-24 18:17 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
