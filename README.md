@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 996 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-24 10:09
+- **最后更新**: 2026-02-24 10:15
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| researchgate.net | 32 | C | 2026-02-24 10:15 |
+| purdue.edu | 55 | B | 2026-02-24 10:15 |
+| nyu.edu | 39 | C | 2026-02-24 10:15 |
+| utoronto.ca | 62 | B | 2026-02-24 10:15 |
+| fcc.gov | 61 | B | 2026-02-24 10:15 |
 | weibo.com | 39 | C | 2026-02-24 10:09 |
 | newyorker.com | 41 | C | 2026-02-24 10:08 |
 | wipo.int | 66 | A | 2026-02-24 10:08 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | scholar.google.com | 29 | C | 2026-02-24 10:06 |
 | akismet.com | 52 | C | 2026-02-24 10:06 |
 | iana.org | 73 | A | 2026-02-24 10:06 |
-| typeform.com | 65 | C | 2026-02-24 10:06 |
-| mcgill.ca | 47 | C | 2026-02-24 09:19 |
-| google.de | 26 | C | 2026-02-24 09:19 |
-| usatoday.com | 40 | C | 2026-02-24 09:18 |
-| us.com | 63 | B | 2026-02-24 09:18 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
