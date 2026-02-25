@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 08:10
+- **最后更新**: 2026-02-25 08:12
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| rutgers.edu | 65 | A | 2026-02-25 08:12 |
+| gouv.fr | 0 | ? | 2026-02-25 08:11 |
+| sap.com | 63 | B | 2026-02-25 08:11 |
+| hyatt.com | 31 | C | 2026-02-25 08:11 |
+| over-blog.com | 60 | B | 2026-02-25 08:11 |
 | netlify.com | 52 | C | 2026-02-25 08:10 |
 | www.legifrance.gouv.fr | 24 | C | 2026-02-25 08:10 |
 | miitbeian.gov.cn | 0 | ? | 2026-02-25 08:09 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | mailchi.mp | 54 | C | 2026-02-25 07:16 |
 | unfccc.int | 53 | C | 2026-02-25 07:16 |
 | share.google | 55 | C | 2026-02-25 07:15 |
-| ourworldindata.org | 43 | C | 2026-02-25 07:15 |
-| slideshare.net | 48 | C | 2026-02-25 07:10 |
-| nyc.gov | 43 | C | 2026-02-25 07:10 |
-| over-blog.com | 58 | B | 2026-02-25 07:09 |
-| adobe.com | 63 | B | 2026-02-25 07:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
