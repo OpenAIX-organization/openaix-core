@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 10:07
+- **最后更新**: 2026-02-25 10:09
 
 ### 等级分布
 
@@ -278,6 +278,13 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| senate.gov | 70 | A | 2026-02-25 10:09 |
+| fliphtml5.com | 61 | C | 2026-02-25 10:09 |
+| wpguardian.com | 52 | C | 2026-02-25 10:09 |
+| ucdavis.edu | 68 | A | 2026-02-25 10:09 |
+| youtube.com | 38 | C | 2026-02-25 10:09 |
+| scribd.com | 70 | B | 2026-02-25 10:08 |
+| france24.com | 52 | C | 2026-02-25 10:08 |
 | youku.com | 38 | C | 2026-02-25 10:07 |
 | ebay.co.uk | 35 | C | 2026-02-25 10:06 |
 | news.com.au | 55 | C | 2026-02-25 10:06 |
@@ -285,13 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | huggingface.co | 52 | C | 2026-02-25 10:06 |
 | nejm.org | 22 | C | 2026-02-25 09:15 |
 | macromedia.com | 0 | ? | 2026-02-25 09:15 |
-| csdn.net | 31 | C | 2026-02-25 09:15 |
-| xbox.com | 47 | C | 2026-02-25 09:14 |
-| dx.doi.org | 64 | A | 2026-02-25 09:12 |
-| economist.com | 24 | C | 2026-02-25 09:11 |
-| npr.org | 49 | C | 2026-02-25 09:11 |
-| flickr.com | 58 | C | 2026-02-25 09:11 |
-| bsky.app | 40 | C | 2026-02-25 09:11 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
