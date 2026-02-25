@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 09:15
+- **最后更新**: 2026-02-25 10:07
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| youku.com | 38 | C | 2026-02-25 10:07 |
+| ebay.co.uk | 35 | C | 2026-02-25 10:06 |
+| news.com.au | 55 | C | 2026-02-25 10:06 |
+| linkedin.com | 49 | C | 2026-02-25 10:06 |
+| huggingface.co | 52 | C | 2026-02-25 10:06 |
 | nejm.org | 22 | C | 2026-02-25 09:15 |
 | macromedia.com | 0 | ? | 2026-02-25 09:15 |
 | csdn.net | 31 | C | 2026-02-25 09:15 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | npr.org | 49 | C | 2026-02-25 09:11 |
 | flickr.com | 58 | C | 2026-02-25 09:11 |
 | bsky.app | 40 | C | 2026-02-25 09:11 |
-| mp.weixin.qq.com | 39 | C | 2026-02-25 08:16 |
-| ibm.com | 56 | C | 2026-02-25 08:16 |
-| vanityfair.com | 41 | C | 2026-02-25 08:16 |
-| telegraph.co.uk | 58 | B | 2026-02-25 08:16 |
-| box.com | 56 | C | 2026-02-25 08:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
