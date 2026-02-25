@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="zh-CN" class="dark">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OpenAIX | 为AI时代重新定义网站标准</title>
-  <meta name="description" content="OpenAIX评测网站的AI友好度，帮助网站适配AI Agent时代">
+  <title>OpenAIX | Agent-Ready Web Index</title>
+  <meta name="description" content="OpenAIX measures and quantifies AI Experience (AIX) - how efficiently AI Agents can access and understand web content.">
   <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
   <script>
@@ -25,53 +25,13 @@
       background-color: #020617;
       color: #e2e8f0;
       font-family: 'Inter', sans-serif;
-      scroll-behavior: smooth;
     }
     .font-mono { font-family: 'JetBrains Mono', monospace; }
     
-    ::-webkit-scrollbar {
-      width: 8px;
-      height: 8px;
-    }
-    ::-webkit-scrollbar-track {
-      background: #0f172a;
-    }
-    ::-webkit-scrollbar-thumb {
-      background: #334155;
-      border-radius: 2px;
-    }
-    ::-webkit-scrollbar-thumb:hover {
-      background: #475569;
-    }
-    
-    @keyframes pulse-glow {
-      0%, 100% { box-shadow: 0 0 5px rgba(52, 211, 153, 0.3); }
-      50% { box-shadow: 0 0 20px rgba(52, 211, 153, 0.6); }
-    }
-    .animate-glow {
-      animation: pulse-glow 2s ease-in-out infinite;
-    }
-    
-    .grade-s { 
-      background: rgba(52, 211, 153, 0.15); 
-      border-color: rgba(52, 211, 153, 0.4); 
-      color: #34d399;
-    }
-    .grade-a { 
-      background: rgba(52, 211, 153, 0.1); 
-      border-color: rgba(52, 211, 153, 0.3); 
-      color: #6ee7b7;
-    }
-    .grade-b { 
-      background: rgba(59, 130, 246, 0.1); 
-      border-color: rgba(59, 130, 246, 0.3); 
-      color: #60a5fa;
-    }
-    .grade-c { 
-      background: rgba(245, 158, 11, 0.1); 
-      border-color: rgba(245, 158, 11, 0.3); 
-      color: #fbbf24;
-    }
+    .grade-s { background: rgba(52, 211, 153, 0.15); border-color: rgba(52, 211, 153, 0.4); color: #34d399; }
+    .grade-a { background: rgba(52, 211, 153, 0.1); border-color: rgba(52, 211, 153, 0.3); color: #6ee7b7; }
+    .grade-b { background: rgba(59, 130, 246, 0.1); border-color: rgba(59, 130, 246, 0.3); color: #60a5fa; }
+    .grade-c { background: rgba(245, 158, 11, 0.1); border-color: rgba(245, 158, 11, 0.3); color: #fbbf24; }
     
     .loading {
       display: inline-block;
@@ -82,294 +42,127 @@
       border-top-color: #34d399;
       animation: spin 1s ease-in-out infinite;
     }
-    @keyframes spin {
-      to { transform: rotate(360deg); }
-    }
-    
-    /* Section transitions */
-    .section-fade {
-      opacity: 0;
-      transform: translateY(20px);
-      transition: opacity 0.6s ease, transform 0.6s ease;
-    }
-    .section-fade.visible {
-      opacity: 1;
-      transform: translateY(0);
-    }
+    @keyframes spin { to { transform: rotate(360deg); } }
   </style>
 </head>
 <body class="min-h-screen bg-slate-950">
   <!-- Navigation -->
-  <nav class="border-b border-slate-800 bg-slate-950/90 backdrop-blur-md sticky top-0 z-50">
+  <nav class="border-b border-slate-800 bg-slate-950 sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex items-center justify-between h-16">
         <div class="flex items-center gap-3">
-          <div class="w-8 h-8 bg-emerald-500/10 rounded flex items-center justify-center border border-emerald-500/30">
-            <svg class="h-5 w-5 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.75 17L9 20l-1 1h8l-1-1-.75-3M3 13h18M5 17h14a2 2 0 002-2V5a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-            </svg>
-          </div>
-          <a href="#" class="font-bold text-xl tracking-tight text-white">Open<span class="text-emerald-400">AIX</span></a>
+          <span class="font-bold text-xl text-white">Open<span class="text-emerald-400">AIX</span></span>
         </div>
-        <div class="flex items-center space-x-1">
-          <a href="#philosophy" class="hidden sm:block px-3 py-2 text-sm text-slate-400 hover:text-white transition-colors">理念</a>
-          <a href="#standard" class="hidden sm:block px-3 py-2 text-sm text-slate-400 hover:text-white transition-colors">评测标准</a>
-          <a href="#rankings" class="px-3 py-2 text-sm font-medium text-emerald-400 bg-emerald-400/10 rounded hover:bg-emerald-400/20 transition-colors">排行榜</a>
-          <a href="https://github.com/OpenAIX-organization/openaix-core" target="_blank" 
-             class="text-xs text-slate-500 hover:text-emerald-400 font-mono transition-colors border border-slate-800 px-3 py-1.5 rounded">GitHub</a>
+        <div class="flex items-center space-x-4">
+          <button onclick="toggleLanguage()" class="text-xs text-slate-400 hover:text-white font-mono border border-slate-800 px-3 py-1 rounded transition-colors">
+            <span data-i18n="lang_btn">EN / 中文</span>
+          </button>
+          <a href="https://github.com/OpenAIX-organization/openaix-core" target="_blank" class="text-xs text-slate-500 hover:text-emerald-400 font-mono border border-slate-800 px-3 py-1 rounded">GitHub</a>
         </div>
       </div>
     </div>
   </nav>
 
-  <!-- Hero Section -->
-  <section class="relative overflow-hidden">
-    <div class="absolute inset-0 bg-gradient-to-b from-emerald-500/5 to-transparent"></div>
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-32 relative">
-      <div class="text-center max-w-4xl mx-auto">
-        <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-sm font-mono mb-6">
-          <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-          已评测 998 个顶级网站
+  <!-- Hero -->
+  <section class="py-20 md:py-32 bg-gradient-to-b from-emerald-500/5 to-transparent">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+      <div class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-sm font-mono mb-6">
+        <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+        <span data-i18n="hero_badge">998 Sites Indexed</span>
+      </div>
+      
+      <h1 class="text-5xl md:text-7xl font-bold text-white tracking-tight mb-6">
+        <span data-i18n="hero_title_1">Web was built for eyes.</span><br>
+        <span class="text-emerald-400" data-i18n="hero_title_2">We index it for minds.</span>
+      </h1>
+      
+      <p class="text-xl text-slate-400 max-w-2xl mx-auto mb-10" data-i18n="hero_desc">
+        In the AI era, websites must serve both humans and AI Agents efficiently. 
+        OpenAIX defines and quantifies the AI Experience standard.
+      </p>
+      
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="#rankings" class="px-8 py-4 bg-emerald-500 text-slate-950 font-bold rounded-lg hover:bg-emerald-400 transition-colors" data-i18n="btn_rankings">View Rankings</a>
+        <a href="https://github.com/OpenAIX-organization/openaix-core" target="_blank" class="px-8 py-4 bg-slate-800 text-white font-medium rounded-lg border border-slate-700 hover:bg-slate-700 transition-colors" data-i18n="btn_learn">Learn More</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Stats -->
+  <section class="py-16 border-t border-slate-800 bg-slate-900/30">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+        <div class="text-center p-6 bg-slate-900 border border-slate-800 rounded-lg">
+          <div class="text-3xl font-bold text-emerald-400 font-mono">998</div>
+          <div class="text-sm text-slate-500" data-i18n="stat_sites">Sites Evaluated</div>
         </div>
-        
-        <h1 class="text-5xl md:text-7xl font-bold text-white tracking-tight mb-6 leading-tight">
-          Web was built for eyes.<br>
-          <span class="text-emerald-400">We index it for minds.</span>
-        </h1>
-        
-        <p class="text-xl md:text-2xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-          AI时代，网站不仅需要对人类友好，更需要对AI Agent友好。
-          <span class="text-slate-300">OpenAIX定义并量化网站的AI体验标准。</span>
-        </p>
-        
-        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-          <a href="#rankings" class="px-8 py-4 bg-emerald-500 text-slate-950 font-bold rounded-lg hover:bg-emerald-400 transition-all flex items-center justify-center gap-2">
-            <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z" />
-            </svg>
-            查看排行榜
-          </a>
-          <a href="#philosophy" class="px-8 py-4 bg-slate-800 text-white font-medium rounded-lg border border-slate-700 hover:bg-slate-700 transition-all">
-            了解AIX标准
-          </a>
+        <div class="text-center p-6 bg-slate-900 border border-slate-800 rounded-lg">
+          <div class="text-3xl font-bold text-white font-mono">50.3</div>
+          <div class="text-sm text-slate-500" data-i18n="stat_avg">Average Score</div>
+        </div>
+        <div class="text-center p-6 bg-slate-900 border border-slate-800 rounded-lg">
+          <div class="text-3xl font-bold text-blue-400 font-mono">36.5%</div>
+          <div class="text-sm text-slate-500" data-i18n="stat_json">JSON-LD Usage</div>
+        </div>
+        <div class="text-center p-6 bg-slate-900 border border-slate-800 rounded-lg">
+          <div class="text-3xl font-bold text-purple-400 font-mono">20.2%</div>
+          <div class="text-sm text-slate-500" data-i18n="stat_llms">llms.txt Usage</div>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Philosophy Section -->
-  <section id="philosophy" class="py-20 border-t border-slate-800 bg-slate-900/30 section-fade">
+  <!-- Standard -->
+  <section class="py-20 border-t border-slate-800">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="max-w-3xl mx-auto text-center mb-16">
-        <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">为什么需要AIX？</h2>
-        <p class="text-lg text-slate-400">The Agentic Web is coming</p>
+      <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold text-white mb-4" data-i18n="std_title">Grading Standard</h2>
+        <p class="text-lg text-slate-400" data-i18n="std_subtitle">Five dimensions, fixed thresholds, objective evaluation</p>
       </div>
       
-      <div class="grid md:grid-cols-3 gap-8">
-        <!-- Problem 1 -->
-        <div class="p-6 bg-slate-900/50 border border-slate-800 rounded-xl hover:border-slate-700 transition-colors">
-          <div class="w-12 h-12 bg-rose-500/10 rounded-lg flex items-center justify-center mb-4">
-            <svg class="w-6 h-6 text-rose-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z" />
-            </svg>
-          </div>
-          <h3 class="text-xl font-bold text-white mb-3">信噪比极低</h3>
-          <p class="text-slate-400 leading-relaxed">
-            平均网页4MB，只有15%是语义内容。AI需要阅读大量噪声才能获取有效信息，成本高昂。
-          </p>
-        </div>
-        
-        <!-- Problem 2 -->
-        <div class="p-6 bg-slate-900/50 border border-slate-800 rounded-xl hover:border-slate-700 transition-colors">
-          <div class="w-12 h-12 bg-yellow-500/10 rounded-lg flex items-center justify-center mb-4">
-            <svg class="w-6 h-6 text-yellow-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
-          </div>
-          <h3 class="text-xl font-bold text-white mb-3">AI爬取成本激增</h3>
-          <p class="text-slate-400 leading-relaxed">
-            GPT-4阅读一个页面成本$0.03，AI公司每月爬取成本超$100万。低AIX网站浪费了大量算力。
-          </p>
-        </div>
-        
-        <!-- Solution -->
-        <div class="p-6 bg-slate-900/50 border border-slate-800 rounded-xl hover:border-emerald-500/30 transition-colors">
-          <div class="w-12 h-12 bg-emerald-500/10 rounded-lg flex items-center justify-center mb-4">
-            <svg class="w-6 h-6 text-emerald-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-          </div>
-          <h3 class="text-xl font-bold text-white mb-3">双模式互联网</h3>
-          <p class="text-slate-400 leading-relaxed">
-            网站应该同时服务人类和AI。高AIX网站将在AI搜索时代获得流量优势。
-          </p>
-        </div>
-      </div>
-      
-      <!-- Stats -->
-      <div class="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6">
-        <div class="text-center p-6 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="text-3xl font-bold text-emerald-400 font-mono mb-1">998</div>
-          <div class="text-sm text-slate-500">评测网站</div>
-        </div>
-        <div class="text-center p-6 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="text-3xl font-bold text-white font-mono mb-1">50.3</div>
-          <div class="text-sm text-slate-500">平均分数</div>
-        </div>
-        <div class="text-center p-6 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="text-3xl font-bold text-blue-400 font-mono mb-1">36.5%</div>
-          <div class="text-sm text-slate-500">JSON-LD采用</div>
-        </div>
-        <div class="text-center p-6 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="text-3xl font-bold text-purple-400 font-mono mb-1">20.2%</div>
-          <div class="text-sm text-slate-500">llms.txt采用</div>
-        </div>
+      <div class="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden">
+        <table class="w-full">
+          <thead>
+            <tr class="border-b border-slate-800 text-xs text-slate-500 font-mono uppercase">
+              <th class="p-4 text-left" data-i18n="col_grade">Grade</th>
+              <th class="p-4 text-left" data-i18n="col_score">Score Range</th>
+              <th class="p-4 text-left" data-i18n="col_desc">Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr class="border-b border-slate-800/50">
+              <td class="p-4"><span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-s">S</span></td>
+              <td class="p-4 text-white font-mono">80 - 100</td>
+              <td class="p-4 text-slate-300" data-i18n="grade_s">Silicon Native - Elite AI optimization</td>
+            </tr>
+            <tr class="border-b border-slate-800/50">
+              <td class="p-4"><span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-a">A</span></td>
+              <td class="p-4 text-white font-mono">65 - 79</td>
+              <td class="p-4 text-slate-300" data-i18n="grade_a">Agent Friendly - Excellent AI support</td>
+            </tr>
+            <tr class="border-b border-slate-800/50">
+              <td class="p-4"><span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-b">B</span></td>
+              <td class="p-4 text-white font-mono">50 - 64</td>
+              <td class="p-4 text-slate-300" data-i18n="grade_b">Human Optimized - Good foundation</td>
+            </tr>
+            <tr>
+              <td class="p-4"><span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-c">C</span></td>
+              <td class="p-4 text-white font-mono">0 - 49</td>
+              <td class="p-4 text-slate-300" data-i18n="grade_c">Needs Improvement - High noise</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     </div>
   </section>
 
-  <!-- Grading Standard Section -->
-  <section id="standard" class="py-20 border-t border-slate-800 section-fade">
+  <!-- Rankings -->
+  <section id="rankings" class="py-20 border-t border-slate-800 bg-slate-900/30">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="max-w-3xl mx-auto text-center mb-16">
-        <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">评测标准</h2>
-        <p class="text-lg text-slate-400">五大维度，固定阈值，客观公正</p>
-      </div>
-      
-      <!-- Five Dimensions -->
-      <div class="grid md:grid-cols-5 gap-4 mb-16">
-        <div class="p-4 bg-slate-900/50 border border-slate-800 rounded-lg text-center">
-          <div class="text-2xl mb-2">📡</div>
-          <h4 class="font-bold text-white mb-1">SNR</h4>
-          <p class="text-xs text-slate-500">信噪比</p>
-          <p class="text-xs text-slate-400 mt-2">有效内容占比</p>
-        </div>
-        
-        <div class="p-4 bg-slate-900/50 border border-slate-800 rounded-lg text-center">
-          <div class="text-2xl mb-2">🏗️</div>
-          <h4 class="font-bold text-white mb-1">Semantic</h4>
-          <p class="text-xs text-slate-500">语义结构</p>
-          <p class="text-xs text-slate-400 mt-2">HTML5标签、JSON-LD</p>
-        </div>
-        
-        <div class="p-4 bg-slate-900/50 border border-slate-800 rounded-lg text-center">
-          <div class="text-2xl mb-2">💰</div>
-          <h4 class="font-bold text-white mb-1">Token</h4>
-          <p class="text-xs text-slate-500">Token经济</p>
-          <p class="text-xs text-slate-400 mt-2">AI阅读成本</p>
-        </div>
-        
-        <div class="p-4 bg-slate-900/50 border border-slate-800 rounded-lg text-center">
-          <div class="text-2xl mb-2">🔐</div>
-          <h4 class="font-bold text-white mb-1">Permissions</h4>
-          <p class="text-xs text-slate-500">权限配置</p>
-          <p class="text-xs text-slate-400 mt-2">robots.txt、llms.txt</p>
-        </div>
-        
-        <div class="p-4 bg-slate-900/50 border border-slate-800 rounded-lg text-center">
-          <div class="text-2xl mb-2">⚡</div>
-          <h4 class="font-bold text-white mb-1">API</h4>
-          <p class="text-xs text-slate-500">API可用性</p>
-          <p class="text-xs text-slate-400 mt-2">OpenAPI、GraphQL</p>
-        </div>
-      </div>
-      
-      <!-- Grading Table -->
-      <div class="bg-slate-900/50 border border-slate-800 rounded-xl overflow-hidden">
-        <div class="px-6 py-4 border-b border-slate-800 bg-slate-900/80">
-          <h3 class="text-lg font-bold text-white">等级划分标准</h3>
-          <p class="text-sm text-slate-500 mt-1">固定阈值，清晰透明</p>
-        </div>
-        <div class="overflow-x-auto">
-          <table class="w-full">
-            <thead>
-              <tr class="border-b border-slate-800 text-xs text-slate-500 font-mono uppercase">
-                <th class="p-4 text-left">等级</th>
-                <th class="p-4 text-left">分数范围</th>
-                <th class="p-4 text-left">描述</th>
-                <th class="p-4 text-right">占比</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr class="border-b border-slate-800/50">
-                <td class="p-4">
-                  <span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-s">S</span>
-                </td>
-                <td class="p-4 text-white font-mono">80 - 100</td>
-                <td class="p-4 text-slate-300">硅基原生 - AI完美适配</td>
-                <td class="p-4 text-right text-slate-400 font-mono">0.4%</td>
-              </tr>
-              <tr class="border-b border-slate-800/50">
-                <td class="p-4">
-                  <span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-a">A</span>
-                </td>
-                <td class="p-4 text-white font-mono">65 - 79</td>
-                <td class="p-4 text-slate-300">Agent友好 - 优秀适配</td>
-                <td class="p-4 text-right text-slate-400 font-mono">13.8%</td>
-              </tr>
-              <tr class="border-b border-slate-800/50">
-                <td class="p-4">
-                  <span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-b">B</span>
-                </td>
-                <td class="p-4 text-white font-mono">50 - 64</td>
-                <td class="p-4 text-slate-300">人类优化 - 良好基础</td>
-                <td class="p-4 text-right text-slate-400 font-mono">36.1%</td>
-              </tr>
-              <tr>
-                <td class="p-4">
-                  <span class="font-mono font-bold px-3 py-1 rounded text-sm border grade-c">C</span>
-                </td>
-                <td class="p-4 text-white font-mono">0 - 49</td>
-                <td class="p-4 text-slate-300">需要改进 - 大量噪声</td>
-                <td class="p-4 text-right text-slate-400 font-mono">49.7%</td>
-              </tr>
-            </tbody>
-          </table>
-        </div>
-      </div>
-      
-      <!-- Key Features -->
-      <div class="mt-8 grid md:grid-cols-3 gap-4">
-        <div class="flex items-center gap-3 p-4 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="w-10 h-10 rounded bg-emerald-500/10 flex items-center justify-center">
-            <span class="text-emerald-400 font-mono text-sm font-bold">llms</span>
-          </div>
-          <div>
-            <div class="text-white font-medium">llms.txt</div>
-            <div class="text-sm text-slate-500">AI访问权限声明</div>
-          </div>
-        </div>
-        
-        <div class="flex items-center gap-3 p-4 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="w-10 h-10 rounded bg-blue-500/10 flex items-center justify-center">
-            <span class="text-blue-400 font-mono text-sm font-bold">JSON</span>
-          </div>
-          <div>
-            <div class="text-white font-medium">JSON-LD</div>
-            <div class="text-sm text-slate-500">结构化数据标记</div>
-          </div>
-        </div>
-        
-        <div class="flex items-center gap-3 p-4 bg-slate-900/30 border border-slate-800 rounded-lg">
-          <div class="w-10 h-10 rounded bg-purple-500/10 flex items-center justify-center">
-            <span class="text-purple-400 font-mono text-sm font-bold">API</span>
-          </div>
-          <div>
-            <div class="text-white font-medium">API文档</div>
-            <div class="text-sm text-slate-500">程序化访问能力</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Rankings Section -->
-  <section id="rankings" class="py-20 border-t border-slate-800 bg-slate-900/30 section-fade">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex flex-col md:flex-row justify-between items-start md:items-end mb-8 gap-4">
+      <div class="flex justify-between items-end mb-8">
         <div>
-          <h2 class="text-3xl md:text-4xl font-bold text-white mb-2">Global Index</h2>
-          <p class="text-slate-400">完整评测数据，实时更新</p>
+          <h2 class="text-3xl font-bold text-white mb-2">Global Index</h2>
+          <p class="text-slate-400" data-i18n="rankings_subtitle">Complete evaluation data</p>
         </div>
         <div class="flex items-center gap-2 px-3 py-1.5 bg-emerald-500/10 border border-emerald-500/30 rounded text-emerald-400 text-sm font-mono">
           <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
@@ -377,85 +170,59 @@
         </div>
       </div>
 
-      <!-- Loading State -->
       <div id="loadingState" class="text-center py-20">
         <div class="loading mb-4"></div>
-        <p class="text-slate-500 font-mono">正在加载评测数据...</p>
+        <p class="text-slate-500 font-mono" data-i18n="loading">Loading evaluation data...</p>
       </div>
 
-      <!-- Error State -->
       <div id="errorState" class="hidden text-center py-20">
         <div class="text-rose-400 text-5xl mb-4">⚠</div>
-        <p class="text-slate-400 font-mono mb-4">数据加载失败</p>
-        <button onclick="loadData()" class="px-4 py-2 bg-emerald-500/10 border border-emerald-500 text-emerald-400 rounded hover:bg-emerald-500/20">重试</button>
+        <p class="text-slate-400 font-mono mb-4" data-i18n="error">Failed to load data</p>
+        <button onclick="loadData()" class="px-4 py-2 bg-emerald-500/10 border border-emerald-500 text-emerald-400 rounded hover:bg-emerald-500/20" data-i18n="retry">Retry</button>
       </div>
 
-      <!-- Content -->
       <div id="content" class="hidden">
-        <!-- Filters -->
         <div class="flex flex-col md:flex-row gap-4 mb-6 items-start md:items-center justify-between p-4 bg-slate-900/60 border border-slate-800 rounded-lg">
           <div class="relative w-full md:w-96">
-            <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-              <svg class="h-4 w-4 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-              </svg>
-            </div>
-            <input type="text" id="searchInput" class="block w-full pl-10 pr-3 py-2 border border-slate-700 rounded-md leading-5 bg-slate-950 text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-emerald-500 focus:border-emerald-500 sm:text-sm font-mono" placeholder="搜索网站域名..." />
+            <input type="text" id="searchInput" class="block w-full px-4 py-2 border border-slate-700 rounded-md bg-slate-950 text-slate-200 placeholder-slate-500 focus:outline-none focus:ring-1 focus:ring-emerald-500 font-mono" data-i18n-placeholder="search_placeholder" placeholder="Search domain...">
           </div>
 
-          <div class="flex gap-2 flex-wrap">
-            <button onclick="filterByGrade('all')" class="filter-btn active px-3 py-1.5 text-xs font-medium rounded border transition-all bg-emerald-500/10 border-emerald-500 text-emerald-400" data-grade="all">全部</button>
-            <button onclick="filterByGrade('S')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border transition-all bg-slate-900 border-slate-700 text-slate-400 hover:border-slate-600" data-grade="S">S级</button>
-            <button onclick="filterByGrade('A')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border transition-all bg-slate-900 border-slate-700 text-slate-400 hover:border-slate-600" data-grade="A">A级</button>
-            <button onclick="filterByGrade('B')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border transition-all bg-slate-900 border-slate-700 text-slate-400 hover:border-slate-600" data-grade="B">B级</button>
-            <button onclick="filterByGrade('C')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border transition-all bg-slate-900 border-slate-700 text-slate-400 hover:border-slate-600" data-grade="C">C级</button>
+          <div class="flex gap-2">
+            <button onclick="filterByGrade('all')" class="filter-btn active px-3 py-1.5 text-xs font-medium rounded border bg-emerald-500/10 border-emerald-500 text-emerald-400" data-grade="all" data-i18n="filter_all">All</button>
+            <button onclick="filterByGrade('S')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border bg-slate-900 border-slate-700 text-slate-400" data-grade="S">S</button>
+            <button onclick="filterByGrade('A')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border bg-slate-900 border-slate-700 text-slate-400" data-grade="A">A</button>
+            <button onclick="filterByGrade('B')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border bg-slate-900 border-slate-700 text-slate-400" data-grade="B">B</button>
+            <button onclick="filterByGrade('C')" class="filter-btn px-3 py-1.5 text-xs font-medium rounded border bg-slate-900 border-slate-700 text-slate-400" data-grade="C">C</button>
           </div>
         </div>
 
-        <!-- Table -->
         <div class="w-full overflow-x-auto rounded-lg border border-slate-800 bg-slate-900/50">
-          <table class="w-full text-left border-collapse">
+          <table class="w-full text-left">
             <thead>
-              <tr class="border-b border-slate-800 text-xs text-slate-500 font-mono uppercase tracking-wider bg-slate-900/80">
-                <th class="p-4 w-16 cursor-pointer hover:text-slate-300" onclick="sortBy('rank')">排名 ↕</th>
-                <th class="p-4">网站域名</th>
-                <th class="p-4 hidden sm:table-cell">类型</th>
-                <th class="p-4 text-right cursor-pointer hover:text-slate-300" onclick="sortBy('score')">AIX分数 ↕</th>
-                <th class="p-4 text-center">等级</th>
-                <th class="p-4 hidden md:table-cell">关键指标</th>
+              <tr class="border-b border-slate-800 text-xs text-slate-500 font-mono uppercase bg-slate-900/80">
+                <th class="p-4 w-16" data-i18n="col_rank">Rank</th>
+                <th class="p-4" data-i18n="col_domain">Domain</th>
+                <th class="p-4 hidden sm:table-cell" data-i18n="col_type">Type</th>
+                <th class="p-4 text-right" data-i18n="col_score2">Score</th>
+                <th class="p-4 text-center" data-i18n="col_grade2">Grade</th>
+                <th class="p-4 hidden md:table-cell" data-i18n="col_indicators">Indicators</th>
               </tr>
             </thead>
             <tbody id="tableBody" class="divide-y divide-slate-800/50"></tbody>
           </table>
         </div>
         
-        <!-- Pagination -->
         <div class="mt-6 flex justify-between items-center">
-          <div class="text-sm text-slate-500 font-mono">显示 <span id="showingCount">0</span> / <span id="totalCount">0</span> 个网站</div>
+          <div class="text-sm text-slate-500 font-mono">
+            <span data-i18n="showing">Showing</span> <span id="showingCount">0</span> / <span id="totalCount">0</span>
+          </div>
           <div class="flex gap-2">
-            <button onclick="prevPage()" id="prevBtn" class="px-3 py-1 text-sm bg-slate-900 border border-slate-700 rounded text-slate-400 hover:text-white disabled:opacity-50 disabled:cursor-not-allowed">上一页</button>
+            <button onclick="prevPage()" id="prevBtn" class="px-3 py-1 text-sm bg-slate-900 border border-slate-700 rounded text-slate-400 hover:text-white disabled:opacity-50" data-i18n="prev">Prev</button>
             <span id="pageInfo" class="px-3 py-1 text-sm text-slate-400 font-mono">1 / 1</span>
-            <button onclick="nextPage()" id="nextBtn" class="px-3 py-1 text-sm bg-slate-900 border border-slate-700 rounded text-slate-400 hover:text-white disabled:opacity-50 disabled:cursor-not-allowed">下一页</button>
+            <button onclick="nextPage()" id="nextBtn" class="px-3 py-1 text-sm bg-slate-900 border border-slate-700 rounded text-slate-400 hover:text-white disabled:opacity-50" data-i18n="next">Next</button>
           </div>
         </div>
       </div>
-    </div>
-  </section>
-
-  <!-- CTA Section -->
-  <section class="py-20 border-t border-slate-800 bg-gradient-to-b from-slate-900/30 to-slate-950">
-    <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-      <h2 class="text-3xl font-bold text-white mb-4">让你的网站AI-Ready</h2>
-      <p class="text-slate-400 mb-8 max-w-2xl mx-auto">
-        提交你的网站，获取详细的AIX评测报告，了解如何优化以更好地服务AI Agent。
-      </p>
-      <a href="https://github.com/OpenAIX-organization/openaix-core" target="_blank" 
-         class="inline-flex items-center gap-2 px-6 py-3 bg-slate-800 text-white font-medium rounded-lg border border-slate-700 hover:bg-slate-700 transition-all">
-        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
-        </svg>
-        在 GitHub 上提交网站
-      </a>
     </div>
   </section>
 
@@ -463,136 +230,97 @@
   <footer class="border-t border-slate-800 bg-slate-950 py-12">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
       <div class="text-center md:text-left">
-        <h5 class="text-white font-bold text-lg mb-1">OpenAIX</h5>
-        <p class="text-slate-500 text-sm font-mono">The Standard for Agent-Ready Web.</p>
-        <p class="text-slate-600 text-xs mt-2">Built for the Agentic Web era.</p>
+        <h5 class="text-white font-bold text-lg">OpenAIX</h5>
+        <p class="text-slate-500 text-sm" data-i18n="footer_tagline">The Standard for Agent-Ready Web.</p>
       </div>
-      <div class="flex items-center gap-6">
-        <a href="#philosophy" class="text-slate-500 hover:text-white text-sm transition-colors">理念</a>
-        <a href="#standard" class="text-slate-500 hover:text-white text-sm transition-colors">评测标准</a>
-        <a href="#rankings" class="text-slate-500 hover:text-white text-sm transition-colors">排行榜</a>
-        <a href="https://github.com/OpenAIX-organization/openaix-core" target="_blank" class="text-slate-500 hover:text-white transition-colors">
-          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
-          </svg>
-        </a>
-      </div>
+      <div class="text-slate-600 text-sm" data-i18n="footer_copy">Built for the Agentic Web era.</div>
     </div>
   </footer>
 
   <script>
+    const translations = {
+      en: {
+        lang_btn: "EN / 中文",
+        hero_badge: "998 Sites Indexed",
+        hero_title_1: "Web was built for eyes.",
+        hero_title_2: "We index it for minds.",
+        hero_desc: "In the AI era, websites must serve both humans and AI Agents efficiently. OpenAIX defines and quantifies the AI Experience standard.",
+        btn_rankings: "View Rankings", btn_learn: "Learn More",
+        stat_sites: "Sites Evaluated", stat_avg: "Average Score", stat_json: "JSON-LD Usage", stat_llms: "llms.txt Usage",
+        std_title: "Grading Standard", std_subtitle: "Five dimensions, fixed thresholds, objective evaluation",
+        col_grade: "Grade", col_score: "Score Range", col_desc: "Description",
+        grade_s: "Silicon Native - Elite AI optimization", grade_a: "Agent Friendly - Excellent AI support",
+        grade_b: "Human Optimized - Good foundation", grade_c: "Needs Improvement - High noise",
+        rankings_subtitle: "Complete evaluation data", loading: "Loading evaluation data...",
+        error: "Failed to load data", retry: "Retry", search_placeholder: "Search domain...",
+        filter_all: "All", col_rank: "Rank", col_domain: "Domain", col_type: "Type",
+        col_score2: "Score", col_grade2: "Grade", col_indicators: "Indicators",
+        showing: "Showing", prev: "Prev", next: "Next",
+        footer_tagline: "The Standard for Agent-Ready Web.", footer_copy: "Built for the Agentic Web era."
+      },
+      zh: {
+        lang_btn: "中文 / EN",
+        hero_badge: "已评测 998 个顶级网站",
+        hero_title_1: "Web was built for eyes.",
+        hero_title_2: "我们为AI而索引。",
+        hero_desc: "AI时代，网站不仅需要对人类友好，更需要对AI Agent友好。OpenAIX定义并量化网站的AI体验标准。",
+        btn_rankings: "查看排行榜", btn_learn: "了解更多",
+        stat_sites: "评测网站", stat_avg: "平均分数", stat_json: "JSON-LD采用", stat_llms: "llms.txt采用",
+        std_title: "评测标准", std_subtitle: "五大维度，固定阈值，客观公正",
+        col_grade: "等级", col_score: "分数范围", col_desc: "描述",
+        grade_s: "硅基原生 - AI完美适配", grade_a: "Agent友好 - 优秀适配",
+        grade_b: "人类优化 - 良好基础", grade_c: "需要改进 - 大量噪声",
+        rankings_subtitle: "完整评测数据", loading: "正在加载评测数据...",
+        error: "数据加载失败", retry: "重试", search_placeholder: "搜索网站域名...",
+        filter_all: "全部", col_rank: "排名", col_domain: "网站", col_type: "类型",
+        col_score2: "分数", col_grade2: "等级", col_indicators: "指标",
+        showing: "显示", prev: "上一页", next: "下一页",
+        footer_tagline: "The Standard for Agent-Ready Web.", footer_copy: "Built for the Agentic Web era."
+      }
+    };
+
+    let currentLang = localStorage.getItem('openaix-lang') || 'en';
+    
+    function updateLanguage() {
+      document.documentElement.lang = currentLang === 'zh' ? 'zh-CN' : 'en';
+      document.querySelectorAll('[data-i18n]').forEach(el => {
+        const key = el.getAttribute('data-i18n');
+        if (translations[currentLang][key]) el.textContent = translations[currentLang][key];
+      });
+      document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+        const key = el.getAttribute('data-i18n-placeholder');
+        if (translations[currentLang][key]) el.placeholder = translations[currentLang][key];
+      });
+      localStorage.setItem('openaix-lang', currentLang);
+    }
+
+    function toggleLanguage() {
+      currentLang = currentLang === 'en' ? 'zh' : 'en';
+      updateLanguage();
+    }
+
+    updateLanguage();
+
     let allData = [], filteredData = [], currentPage = 1;
     const itemsPerPage = 25;
-    let currentGrade = 'all', currentSort = { field: 'rank', asc: true };
+    let currentGrade = 'all';
 
-    document.addEventListener('DOMContentLoaded', () => { 
-      loadData();
-      setupScrollAnimations();
-    });
-
-    function setupScrollAnimations() {
-      const observer = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            entry.target.classList.add('visible');
-          }
-        });
-      }, { threshold: 0.1 });
-
-      document.querySelectorAll('.section-fade').forEach(section => {
-        observer.observe(section);
-      });
-    }
+    document.addEventListener('DOMContentLoaded', () => loadData());
 
     async function loadData() {
       showLoading();
       try {
-        // Add cache-busting parameter to avoid browser caching
         const cacheBuster = `?t=${Date.now()}`;
         const response = await fetch(`../data/exports/rankings_current.json${cacheBuster}`);
-        
-        if (!response.ok) throw new Error('Failed to load data');
+        if (!response.ok) throw new Error('Failed to load');
         const result = await response.json();
-        
-        // Validate data structure
-        if (!result.sites || !Array.isArray(result.sites)) {
-          throw new Error('Invalid data structure');
-        }
-        
-        allData = result.sites.map(site => ({
-          ...site,
-          features: site.features || { llms_txt: false, json_ld: false, has_api: false }
-        }));
-        
+        allData = result.sites.map(site => ({ ...site, features: site.features || { llms_txt: false, json_ld: false, has_api: false } }));
         filteredData = [...allData];
-        
-        // Update meta information
-        const meta = result.meta || {};
-        document.getElementById('totalSitesBadge').textContent = `${meta.total_sites || allData.length} sites indexed`;
-        
-        // Display last update time
-        if (meta.generated_at) {
-          const updateTime = new Date(meta.generated_at).toLocaleString('zh-CN');
-          console.log(`📊 Data last updated: ${updateTime}`);
-        }
-        
-        updateHeroStats();
-        setupSearch();
+        document.getElementById('totalSitesBadge').textContent = `${result.meta.total_sites} sites`;
         renderTable();
         showContent();
       } catch (error) {
-        console.error('Error:', error);
-        document.getElementById('errorState').innerHTML = `
-          <div class="text-rose-400 text-5xl mb-4">⚠</div>
-          <p class="text-slate-400 font-mono mb-4">数据加载失败</p>
-          <p class="text-slate-600 text-sm mb-4">${error.message}</p>
-          <button onclick="forceReload()" class="px-4 py-2 bg-emerald-500/10 border border-emerald-500 text-emerald-400 rounded hover:bg-emerald-500/20 mr-2">
-            强制刷新
-          </button>
-          <button onclick="loadData()" class="px-4 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">
-            重试
-          </button>
-        `;
-        showError();
-      }
-    }
-    
-    // Force reload with cache clearing
-    function forceReload() {
-      // Clear all cached data
-      allData = [];
-      filteredData = [];
-      currentPage = 1;
-      
-      // Reload page with cache bypass
-      window.location.reload(true);
-    }
-    
-    // Auto-refresh every 5 minutes (300000 ms)
-    setInterval(() => {
-      console.log('🔄 Auto-refreshing data...');
-      loadData();
-    }, 300000);
-      showLoading();
-      try {
-        const response = await fetch('../data/exports/rankings_current.json');
-        if (!response.ok) throw new Error('Failed to load data');
-        const result = await response.json();
-        
-        allData = result.sites.map(site => ({
-          ...site,
-          features: site.features || { llms_txt: false, json_ld: false, has_api: false }
-        }));
-        
-        filteredData = [...allData];
-        
-        document.getElementById('totalSitesBadge').textContent = `${result.meta.total_sites} sites indexed`;
-        updateHeroStats();
-        setupSearch();
-        renderTable();
-        showContent();
-      } catch (error) {
-        console.error('Error:', error);
+        console.error(error);
         showError();
       }
     }
@@ -615,24 +343,19 @@
       document.getElementById('content').classList.remove('hidden');
     }
 
-    function updateHeroStats() {
-      const totalSites = allData.length;
-      document.getElementById('totalSites').textContent = totalSites;
-    }
-
     function renderTable() {
       const tbody = document.getElementById('tableBody');
       const start = (currentPage - 1) * itemsPerPage;
       const pageData = filteredData.slice(start, start + itemsPerPage);
       
       tbody.innerHTML = pageData.map((site) => `
-        <tr class="group hover:bg-slate-800/50 transition-colors cursor-pointer" onclick="window.open('${site.url}', '_blank')">
-          <td class="p-4 font-mono text-slate-400 group-hover:text-white">#${site.rank.toString().padStart(3, '0')}</td>
-          <td class="p-4"><span class="font-medium text-slate-200 group-hover:text-emerald-300 transition-colors font-mono">${site.domain}</span></td>
-          <td class="p-4 hidden sm:table-cell"><span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-800 text-slate-300 border border-slate-700 capitalize">${site.site_type}</span></td>
+        <tr class="hover:bg-slate-800/50 cursor-pointer" onclick="window.open('${site.url}', '_blank')">
+          <td class="p-4 font-mono text-slate-400">#${site.rank.toString().padStart(3, '0')}</td>
+          <td class="p-4 font-mono text-slate-200">${site.domain}</td>
+          <td class="p-4 hidden sm:table-cell"><span class="px-2 py-0.5 rounded text-xs bg-slate-800 text-slate-300 border border-slate-700">${site.site_type}</span></td>
           <td class="p-4 text-right font-mono">
-            <div class="w-full flex justify-end items-center gap-2">
-              <div class="h-1.5 w-16 bg-slate-800 rounded-full overflow-hidden hidden sm:block"><div class="h-full rounded-full ${getScoreColor(site.score)}" style="width: ${site.score}%"></div></div>
+            <div class="flex items-center justify-end gap-2">
+              <div class="h-1.5 w-16 bg-slate-800 rounded-full overflow-hidden"><div class="h-full ${getScoreColor(site.score)}" style="width: ${site.score}%"></div></div>
               <span class="${getScoreTextColor(site.score)}">${site.score}</span>
             </div>
           </td>
@@ -640,7 +363,7 @@
           <td class="p-4 hidden md:table-cell">
             <div class="flex gap-2 text-xs">
               ${site.features.llms_txt ? '<span class="text-emerald-400">llms</span>' : '<span class="text-slate-700">llms</span>'}
-              ${site.features.json_ld ? '<span class="text-blue-400">jsonld</span>' : '<span class="text-slate-700">jsonld</span>'}
+              ${site.features.json_ld ? '<span class="text-blue-400">json</span>' : '<span class="text-slate-700">json</span>'}
               ${site.features.has_api ? '<span class="text-purple-400">api</span>' : '<span class="text-slate-700">api</span>'}
             </div>
           </td>
@@ -680,25 +403,16 @@
       applyFilters();
     }
 
-    function setupSearch() {
-      document.getElementById('searchInput').addEventListener('input', (e) => applyFilters(e.target.value));
-    }
+    document.getElementById('searchInput').addEventListener('input', () => applyFilters());
 
-    function applyFilters(searchTerm = '') {
-      const term = searchTerm.toLowerCase();
+    function applyFilters() {
+      const term = document.getElementById('searchInput').value.toLowerCase();
       filteredData = allData.filter(site => {
-        const matchesSearch = site.domain.toLowerCase().includes(term) || site.url.toLowerCase().includes(term);
+        const matchesSearch = site.domain.toLowerCase().includes(term);
         const matchesGrade = currentGrade === 'all' || site.grade === currentGrade;
         return matchesSearch && matchesGrade;
       });
       currentPage = 1;
-      renderTable();
-    }
-
-    function sortBy(field) {
-      if (currentSort.field === field) currentSort.asc = !currentSort.asc;
-      else { currentSort.field = field; currentSort.asc = true; }
-      filteredData.sort((a, b) => currentSort.asc ? a[field] - b[field] : b[field] - a[field]);
       renderTable();
     }
 
@@ -709,8 +423,8 @@
       document.getElementById('nextBtn').disabled = currentPage === totalPages;
     }
 
-    function prevPage() { if (currentPage > 1) { currentPage--; renderTable(); window.scrollTo({ top: document.getElementById('rankings').offsetTop - 100, behavior: 'smooth' }); } }
-    function nextPage() { const totalPages = Math.ceil(filteredData.length / itemsPerPage); if (currentPage < totalPages) { currentPage++; renderTable(); window.scrollTo({ top: document.getElementById('rankings').offsetTop - 100, behavior: 'smooth' }); } }
+    function prevPage() { if (currentPage > 1) { currentPage--; renderTable(); } }
+    function nextPage() { const totalPages = Math.ceil(filteredData.length / itemsPerPage); if (currentPage < totalPages) { currentPage++; renderTable(); } }
   </script>
 </body>
 </html>
