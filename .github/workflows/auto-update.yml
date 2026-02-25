@@ -1,0 +1,63 @@
+name: Auto Update Rankings
+
+on:
+  # Run manually
+  workflow_dispatch:
+  
+  # Run on schedule (daily at 2 AM UTC)
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Run when evaluation files change
+  push:
+    paths:
+      - 'data/evaluations/**/*.md'
+
+jobs:
+  update-rankings:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Run data standardization
+      run: |
+        python3 scripts/data_pipeline/standardize_data.py
+    
+    - name: Check for changes
+      id: check_changes
+      run: |
+        if [ -n "$(git status --porcelain data/exports/)" ]; then
+          echo "changed=true" >> $GITHUB_OUTPUT
+        else
+          echo "changed=false" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/exports/
+        git commit -m "📊 Auto-update rankings - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push
+    
+    - name: Update timestamp file
+      if: steps.check_changes.outputs.changed == 'true'
+      run: |
+        echo "$(date +%s)" > data/exports/.last_update
+        git add data/exports/.last_update
+        git commit -m "🕐 Update timestamp"
+        git push

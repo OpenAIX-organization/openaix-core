@@ -507,6 +507,74 @@
     async function loadData() {
       showLoading();
       try {
+        // Add cache-busting parameter to avoid browser caching
+        const cacheBuster = `?t=${Date.now()}`;
+        const response = await fetch(`../data/exports/rankings_current.json${cacheBuster}`);
+        
+        if (!response.ok) throw new Error('Failed to load data');
+        const result = await response.json();
+        
+        // Validate data structure
+        if (!result.sites || !Array.isArray(result.sites)) {
+          throw new Error('Invalid data structure');
+        }
+        
+        allData = result.sites.map(site => ({
+          ...site,
+          features: site.features || { llms_txt: false, json_ld: false, has_api: false }
+        }));
+        
+        filteredData = [...allData];
+        
+        // Update meta information
+        const meta = result.meta || {};
+        document.getElementById('totalSitesBadge').textContent = `${meta.total_sites || allData.length} sites indexed`;
+        
+        // Display last update time
+        if (meta.generated_at) {
+          const updateTime = new Date(meta.generated_at).toLocaleString('zh-CN');
+          console.log(`📊 Data last updated: ${updateTime}`);
+        }
+        
+        updateHeroStats();
+        setupSearch();
+        renderTable();
+        showContent();
+      } catch (error) {
+        console.error('Error:', error);
+        document.getElementById('errorState').innerHTML = `
+          <div class="text-rose-400 text-5xl mb-4">⚠</div>
+          <p class="text-slate-400 font-mono mb-4">数据加载失败</p>
+          <p class="text-slate-600 text-sm mb-4">${error.message}</p>
+          <button onclick="forceReload()" class="px-4 py-2 bg-emerald-500/10 border border-emerald-500 text-emerald-400 rounded hover:bg-emerald-500/20 mr-2">
+            强制刷新
+          </button>
+          <button onclick="loadData()" class="px-4 py-2 bg-slate-700 text-white rounded hover:bg-slate-600">
+            重试
+          </button>
+        `;
+        showError();
+      }
+    }
+    
+    // Force reload with cache clearing
+    function forceReload() {
+      // Clear all cached data
+      allData = [];
+      filteredData = [];
+      currentPage = 1;
+      
+      // Reload page with cache bypass
+      window.location.reload(true);
+    }
+    
+    // Auto-refresh every 5 minutes (300000 ms)
+    setInterval(() => {
+      console.log('🔄 Auto-refreshing data...');
+      loadData();
+    }, 300000);
+      showLoading();
+      try {
         const response = await fetch('../data/exports/rankings_current.json');
         if (!response.ok) throw new Error('Failed to load data');
         const result = await response.json();
