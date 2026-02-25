@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 08:16
+- **最后更新**: 2026-02-25 09:12
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| dx.doi.org | 64 | A | 2026-02-25 09:12 |
+| economist.com | 24 | C | 2026-02-25 09:11 |
+| npr.org | 49 | C | 2026-02-25 09:11 |
+| flickr.com | 58 | C | 2026-02-25 09:11 |
+| bsky.app | 40 | C | 2026-02-25 09:11 |
 | mp.weixin.qq.com | 39 | C | 2026-02-25 08:16 |
 | ibm.com | 56 | C | 2026-02-25 08:16 |
 | vanityfair.com | 41 | C | 2026-02-25 08:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | gouv.fr | 0 | ? | 2026-02-25 08:11 |
 | sap.com | 63 | B | 2026-02-25 08:11 |
 | hyatt.com | 31 | C | 2026-02-25 08:11 |
-| over-blog.com | 60 | B | 2026-02-25 08:11 |
-| netlify.com | 52 | C | 2026-02-25 08:10 |
-| www.legifrance.gouv.fr | 24 | C | 2026-02-25 08:10 |
-| miitbeian.gov.cn | 0 | ? | 2026-02-25 08:09 |
-| google.it | 26 | C | 2026-02-25 08:09 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
