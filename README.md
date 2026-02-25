@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 07:16
+- **最后更新**: 2026-02-25 08:10
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| netlify.com | 52 | C | 2026-02-25 08:10 |
+| www.legifrance.gouv.fr | 24 | C | 2026-02-25 08:10 |
+| miitbeian.gov.cn | 0 | ? | 2026-02-25 08:09 |
+| google.it | 26 | C | 2026-02-25 08:09 |
+| chron.com | 26 | C | 2026-02-25 08:09 |
 | bmj.com | 36 | C | 2026-02-25 07:16 |
 | mailchi.mp | 54 | C | 2026-02-25 07:16 |
 | unfccc.int | 53 | C | 2026-02-25 07:16 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | nyc.gov | 43 | C | 2026-02-25 07:10 |
 | over-blog.com | 58 | B | 2026-02-25 07:09 |
 | adobe.com | 63 | B | 2026-02-25 07:09 |
-| livescience.com | 49 | C | 2026-02-25 07:08 |
-| researchgate.net | 38 | C | 2026-02-25 07:08 |
-| chatgpt.com | 20 | C | 2026-02-25 07:08 |
-| eff.org | 71 | A | 2026-02-25 07:08 |
-| googletagmanager.com | 54 | B | 2026-02-25 07:07 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
