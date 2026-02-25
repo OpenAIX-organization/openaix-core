@@ -264,7 +264,7 @@ MIT © [OpenAIX.org](https://openaix.org)
 
 - **总计评测网站**: 997 个
 - **平均分数**: 46.8/100
-- **最后更新**: 2026-02-25 08:12
+- **最后更新**: 2026-02-25 08:16
 
 ### 等级分布
 
@@ -278,6 +278,11 @@ MIT © [OpenAIX.org](https://openaix.org)
 | 网站 | 分数 | 等级 | 评测时间 |
 |------|------|------|----------|
 | openai.com | 15 | C | 20260213_174419 |
+| mp.weixin.qq.com | 39 | C | 2026-02-25 08:16 |
+| ibm.com | 56 | C | 2026-02-25 08:16 |
+| vanityfair.com | 41 | C | 2026-02-25 08:16 |
+| telegraph.co.uk | 58 | B | 2026-02-25 08:16 |
+| box.com | 56 | C | 2026-02-25 08:15 |
 | rutgers.edu | 65 | A | 2026-02-25 08:12 |
 | gouv.fr | 0 | ? | 2026-02-25 08:11 |
 | sap.com | 63 | B | 2026-02-25 08:11 |
@@ -287,11 +292,6 @@ MIT © [OpenAIX.org](https://openaix.org)
 | www.legifrance.gouv.fr | 24 | C | 2026-02-25 08:10 |
 | miitbeian.gov.cn | 0 | ? | 2026-02-25 08:09 |
 | google.it | 26 | C | 2026-02-25 08:09 |
-| chron.com | 26 | C | 2026-02-25 08:09 |
-| bmj.com | 36 | C | 2026-02-25 07:16 |
-| mailchi.mp | 54 | C | 2026-02-25 07:16 |
-| unfccc.int | 53 | C | 2026-02-25 07:16 |
-| share.google | 55 | C | 2026-02-25 07:15 |
 <!-- EVALUATION_RESULTS_END -->
 
 ---
