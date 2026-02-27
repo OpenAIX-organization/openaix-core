@@ -1,0 +1,62 @@
+--- a/src/openaix/scorer.py
++++ b/src/openaix/scorer.py
+@@ -4,6 +4,7 @@
+ 
+ import logging
+ from typing import Dict, Any, List
+ from urllib.parse import urlparse
+ import requests
++import urllib3
+ from bs4 import BeautifulSoup
+ 
+ from .dimensions import (
+@@ -15,6 +16,9 @@
+ from .weights import get_weights, get_site_description
+ from .utils import normalize_url, get_timestamp
+ from .dynamic_ranking import DynamicRanker
++
++# Disable SSL warnings for environments with certificate issues
++urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+ 
+ logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+ logger = logging.getLogger('openaix')
+@@ -22,7 +26,8 @@ logger = logging.getLogger('openaix')
+ 
+ class OpenAIXScorer:
+     """Evaluates AI Experience (AIX) of websites with dynamic weights and ranking."""
+     
+-    def __init__(self, timeout: int = 10, rate_limit: float = 1.0, 
++    def __init__(self, timeout: int = 10, rate_limit: float = 1.0,
++                 verify_ssl: bool = True,  # Added SSL verification option
+                  multi_page: bool = True, history_dir: str = 'data/evaluations'):
+         self.timeout = timeout
+         self.rate_limit = rate_limit
+@@ -32,6 +37,7 @@ class OpenAIXScorer:
+         self.session.headers.update({
+             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
+         })
++        self.verify_ssl = verify_ssl
+         
+         self.snr_analyzer = SNRAnalyzer()
+         self.semantic_analyzer = SemanticAnalyzer()
+@@ -49,8 +55,21 @@ class OpenAIXScorer:
+         url = normalize_url(url)
+         print(f"🔍 Evaluating AIX: {url}")
+         
++        # Try with SSL verification first, fallback to no verification
+         try:
+-            # Fetch homepage for site type detection
+-            response = self.session.get(url, timeout=self.timeout)
++            response = self.session.get(url, timeout=self.timeout, verify=self.verify_ssl)
+             homepage_html = response.text
++        except requests.exceptions.SSLError as e:
++            print(f"   ⚠️ SSL verification failed, retrying without verification...")
++            try:
++                response = self.session.get(url, timeout=self.timeout, verify=False)
++                homepage_html = response.text
++                print(f"   ✅ Success without SSL verification")
++            except Exception as e2:
++                return self._error_response(url, f"SSL Error (retry failed): {str(e2)}")
+         except Exception as e:
+             return self._error_response(url, str(e))
+         

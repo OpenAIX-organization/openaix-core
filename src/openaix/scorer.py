@@ -6,7 +6,11 @@ import logging
 from typing import Dict, Any, List
 from urllib.parse import urlparse
 import requests
+import urllib3
 from bs4 import BeautifulSoup
+
+# Disable SSL warnings for environments with certificate issues
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 from .dimensions import (
     SNRAnalyzer, SemanticAnalyzer, TokenEconomyAnalyzer, 
@@ -24,11 +28,13 @@ logger = logging.getLogger('openaix')
 class OpenAIXScorer:
     """Evaluates AI Experience (AIX) of websites with dynamic weights and ranking."""
     
-    def __init__(self, timeout: int = 10, rate_limit: float = 1.0, 
+    def __init__(self, timeout: int = 10, rate_limit: float = 1.0,
+                 verify_ssl: bool = True,  # SSL verification option
                  multi_page: bool = True, history_dir: str = 'data/evaluations'):
         self.timeout = timeout
         self.rate_limit = rate_limit
         self.multi_page = multi_page
+        self.verify_ssl = verify_ssl
         self.session = requests.Session()
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
@@ -49,8 +55,17 @@ class OpenAIXScorer:
         
         try:
             # Fetch homepage for site type detection
-            response = self.session.get(url, timeout=self.timeout)
+            response = self.session.get(url, timeout=self.timeout, verify=self.verify_ssl)
             homepage_html = response.text
+        except requests.exceptions.SSLError as e:
+            # SSL verification failed, retry without verification
+            print(f"   ⚠️  SSL verification failed, retrying without verification...")
+            try:
+                response = self.session.get(url, timeout=self.timeout, verify=False)
+                homepage_html = response.text
+                print(f"   ✅  Success without SSL verification")
+            except Exception as e2:
+                return self._error_response(url, f"SSL Error (retry failed): {str(e2)}")
         except Exception as e:
             return self._error_response(url, str(e))
         
