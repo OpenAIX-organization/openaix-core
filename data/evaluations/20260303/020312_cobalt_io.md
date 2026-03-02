@@ -1,0 +1,65 @@
+# OpenAIX Evaluation Report
+
+**Target**: https://cobalt.io
+**Score**: 65/100
+**Grade**: Class A (Agent Friendly)
+**Timestamp**: 2026-03-02T18:03:12Z
+**Site Type**: product (confidence: 32%)
+
+---
+
+## Metrics
+
+- **snr**: 13%
+- **token_cost**: High
+- **json_ld**: True
+- **llms_txt**: True
+- **api_features**: ['cli_tool']
+- **api_endpoints**: 0
+
+---
+
+## Dimensions
+
+
+### Snr
+- Score: 56
+- snr_percent: 13.07
+- raw_tokens: 78033
+- clean_tokens: 10198
+
+### Semantic
+- Score: 85
+- semantic_tags_used: []
+- json_ld_present: True
+- hidden_gem: True
+- images_total: 67
+- heading_levels: 5
+- has_h1: True
+
+### Token Economy
+- Score: 65
+- cost_rating: High
+- clean_tokens: 10198
+- estimated_cost_usd: 0.3059
+
+### Permissions
+- Score: 100
+- allowed_agents: ['GPTBot', 'CCBot', 'anthropic-ai', 'ClaudeBot', 'ChatGPT-User', 'Google-Extended', 'PerplexityBot']
+- blocked_agents: []
+- llms_txt_present: True
+- response_time_ms: 69
+- http_status: 200
+
+### Api Availability
+- Score: 10
+- features: ['cli_tool']
+- endpoints_found: []
+- has_api: False
+- has_comprehensive_api: False
+
+---
+
+## Suggestions
+
+- ✅ Class A - Agent Friendly. Top 20% performance.
