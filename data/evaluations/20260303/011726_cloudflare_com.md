@@ -1,0 +1,68 @@
+# OpenAIX Evaluation Report
+
+**Target**: https://cloudflare.com/pages
+**Score**: 53/100
+**Grade**: Class C (Needs Improvement)
+**Timestamp**: 2026-03-02T17:17:26Z
+**Site Type**: platform (confidence: 36%)
+
+---
+
+## Metrics
+
+- **snr**: 7%
+- **token_cost**: High
+- **json_ld**: False
+- **llms_txt**: False
+- **api_features**: ['api_subdomain', 'cli_tool']
+- **api_endpoints**: 1
+
+---
+
+## Dimensions
+
+
+### Snr
+- Score: 38
+- snr_percent: 7.07
+- raw_tokens: 98826
+- clean_tokens: 6983
+
+### Semantic
+- Score: 68
+- semantic_tags_used: ['nav', 'header', 'main', 'section', 'footer']
+- json_ld_present: False
+- hidden_gem: False
+- images_total: 47
+- heading_levels: 4
+- has_h1: True
+
+### Token Economy
+- Score: 65
+- cost_rating: High
+- clean_tokens: 6983
+- estimated_cost_usd: 0.2095
+
+### Permissions
+- Score: 100
+- allowed_agents: ['GPTBot', 'CCBot', 'anthropic-ai', 'ClaudeBot', 'ChatGPT-User', 'Google-Extended', 'PerplexityBot']
+- blocked_agents: []
+- llms_txt_present: False
+- response_time_ms: 249
+- http_status: 200
+
+### Api Availability
+- Score: 30
+- features: ['api_subdomain', 'cli_tool']
+- endpoints_found: ['https://api.cloudflare.com']
+- has_api: True
+- has_comprehensive_api: False
+
+---
+
+## Suggestions
+
+- ⚠️ Class B - Human Optimized. Top 50%, room to improve.
+- 📋 Add JSON-LD structured data for better AI understanding.
+- 📝 Add /llms.txt to describe your site for AI agents.
+- 🔌 As a platform, consider adding OpenAPI spec or API documentation.
